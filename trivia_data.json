@@ -1,0 +1,314 @@
+{
+  "decks": [
+    {
+      "id": "space",
+      "title": "Space",
+      "description": "Explore the wonders of the cosmos",
+      "gradientColors": ["#5B21B6", "#1E3A8A"],
+      "cards": [
+        {
+          "id": "space_1",
+          "imageUrl": "",
+          "heading": "Sunlight Travel Time",
+          "body": "It takes about 8 minutes and 20 seconds for sunlight to reach Earth. This means we always see the Sun as it was 8 minutes ago!"
+        },
+        {
+          "id": "space_2",
+          "imageUrl": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=800",
+          "heading": "Jupiter - The Giant",
+          "body": "Jupiter is the largest planet in our solar system - it's so big that 1,300 Earths could fit inside it! Jupiter's Great Red Spot is a storm that has been raging for over 400 years."
+        },
+        {
+          "id": "space_3",
+          "imageUrl": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800",
+          "heading": "Mars and Its Moons",
+          "body": "Mars has two moons: Phobos and Deimos. Both moons are named after the sons of Ares (Mars) in Greek mythology."
+        },
+        {
+          "id": "space_4",
+          "imageUrl": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=800",
+          "heading": "What is a Black Hole?",
+          "body": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape. If you fell into a black hole, you'd be stretched like spaghetti in a process called 'spaghettification'!"
+        },
+        {
+          "id": "space_5",
+          "imageUrl": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?w=800",
+          "heading": "The Sun's Surface Temperature",
+          "body": "The surface of the Sun is about 5,500°C (9,932°F). But the Sun's core is much hotter - about 15 million°C!"
+        },
+        {
+          "id": "space_6",
+          "imageUrl": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800",
+          "heading": "Closest Star to Earth",
+          "body": "Proxima Centauri is the closest star to Earth (besides the Sun). It's 4.24 light-years away, meaning it would take over 4 years traveling at light speed to reach it!"
+        },
+        {
+          "id": "space_7",
+          "imageUrl": "https://images.unsplash.com/photo-1532693322450-2cb5c511067d?w=800",
+          "heading": "Earth vs Sun Size",
+          "body": "About 109 Earths could fit across the Sun's diameter. The Sun contains 99.86% of all the mass in our solar system!"
+        },
+        {
+          "id": "space_8",
+          "imageUrl": "https://images.unsplash.com/photo-1614732484003-ef9881555dc3?w=800",
+          "heading": "Saturn's Magnificent Rings",
+          "body": "Saturn's rings are made of billions of pieces of ice and rock, ranging from tiny grains to chunks as big as houses. Saturn's rings are only about 30 feet thick despite being 175,000 miles wide!"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "title": "History",
+      "description": "Journey through time's greatest moments",
+      "gradientColors": ["#EA580C", "#DC2626"],
+      "cards": [
+        {
+          "id": "history_1",
+          "imageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=800",
+          "heading": "Egyptian Pyramids",
+          "body": "The Egyptian pyramids were built around 2580-2560 BC during the Old Kingdom period. The Great Pyramid was the tallest man-made structure for 3,800 years!"
+        },
+        {
+          "id": "history_2",
+          "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800",
+          "heading": "The Roman Empire",
+          "body": "The Roman Empire lasted about 1,000 years (27 BC to 476 AD for the Western Empire). The Eastern Roman Empire (Byzantine) continued until 1453 AD!"
+        },
+        {
+          "id": "history_3",
+          "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=800",
+          "heading": "The Printing Press",
+          "body": "The printing press was invented around 1440 by Johannes Gutenberg. This invention revolutionized knowledge sharing and sparked the Renaissance!"
+        },
+        {
+          "id": "history_4",
+          "imageUrl": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=800",
+          "heading": "End of World War II",
+          "body": "World War II ended in 1945 - Germany surrendered in May, Japan in September. Formal surrender documents were signed on the USS Missouri on September 2, 1945."
+        },
+        {
+          "id": "history_5",
+          "imageUrl": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=800",
+          "heading": "Moon Landing",
+          "body": "Humans first landed on the Moon on July 20, 1969 with Apollo 11. Neil Armstrong's first words on the Moon: 'That's one small step for man, one giant leap for mankind.'"
+        },
+        {
+          "id": "history_6",
+          "imageUrl": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?w=800",
+          "heading": "Ancient Sumer",
+          "body": "Ancient Sumer (Mesopotamia) emerged around 4500-4000 BC, making it the oldest known civilization. The Sumerians invented the wheel, writing, and the concept of time divided into 60-second minutes!"
+        },
+        {
+          "id": "history_7",
+          "imageUrl": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=800",
+          "heading": "The Great Wall of China",
+          "body": "The Great Wall of China was built over many dynasties, mainly between 7th century BC and 17th century AD. Contrary to myth, it's NOT visible from space with the naked eye!"
+        },
+        {
+          "id": "history_8",
+          "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+          "heading": "Shortest War Ever",
+          "body": "The Anglo-Zanzibar War (1896) was the shortest war in history - it lasted only 38 minutes! Britain bombarded the Sultan's palace, and Zanzibar surrendered after less than an hour."
+        },
+        {
+          "id": "history_9",
+          "imageUrl": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?w=800",
+          "heading": "Fall of the Berlin Wall",
+          "body": "The Berlin Wall fell on November 9, 1989. The wall had divided East and West Berlin for 28 years."
+        },
+        {
+          "id": "history_10",
+          "imageUrl": "https://images.unsplash.com/photo-1551958219-acbc608c6377?w=800",
+          "heading": "The Hundred Years' War",
+          "body": "The Hundred Years' War actually lasted 116 years (1337-1453) between England and France. It was actually a series of conflicts rather than one continuous war!"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "title": "Animals",
+      "description": "Discover amazing wildlife facts",
+      "gradientColors": ["#059669", "#0D9488"],
+      "cards": [
+        {
+          "id": "animals_1",
+          "imageUrl": "https://images.unsplash.com/photo-1590420315419-e73bb5d3ab53?w=800",
+          "heading": "Fastest Land Animal",
+          "body": "The cheetah can run up to 70 mph (112 km/h)! Cheetahs can accelerate from 0 to 60 mph in just 3 seconds - faster than most sports cars!"
+        },
+        {
+          "id": "animals_2",
+          "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=800",
+          "heading": "Elephant Lifespan",
+          "body": "African elephants can live 60-70 years in the wild. Elephants are one of the few animals that can recognize themselves in a mirror!"
+        },
+        {
+          "id": "animals_3",
+          "imageUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?w=800",
+          "heading": "Octopus Hearts",
+          "body": "Octopuses have THREE hearts! Two hearts pump blood to the gills, while the third pumps blood to the rest of the body."
+        },
+        {
+          "id": "animals_4",
+          "imageUrl": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=800",
+          "heading": "The Blue Whale",
+          "body": "The blue whale is the largest animal on Earth - it can weigh up to 200 tons! A blue whale's heart is the size of a small car and weighs about 400 pounds!"
+        },
+        {
+          "id": "animals_5",
+          "imageUrl": "https://images.unsplash.com/photo-1607153333879-c174d265f1d2?w=800",
+          "heading": "How Dolphins Sleep",
+          "body": "Only half of a dolphin's brain sleeps at a time, so they can continue swimming and breathing. This is called unihemispheric slow-wave sleep!"
+        },
+        {
+          "id": "animals_6",
+          "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+          "heading": "Flying Flamingos",
+          "body": "Flamingos can fly at speeds up to 37 mph. Flamingos are pink because of the algae and shrimp they eat - they're born gray!"
+        },
+        {
+          "id": "animals_7",
+          "imageUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?w=800",
+          "heading": "Shark Skeletons",
+          "body": "Sharks have zero bones! Their skeletons are made entirely of cartilage. This makes sharks lighter and more flexible in water!"
+        },
+        {
+          "id": "animals_8",
+          "imageUrl": "https://images.unsplash.com/photo-1560249425-c4cbf27d160b?w=800",
+          "heading": "Longest Living Animal",
+          "body": "The Greenland shark can live over 400 years! Some glass sponges have lived even longer - over 10,000 years!"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech",
+      "description": "Uncover the digital revolution",
+      "gradientColors": ["#0891B2", "#2563EB"],
+      "cards": [
+        {
+          "id": "tech_1",
+          "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+          "heading": "First Computer",
+          "body": "The ENIAC (1945) is considered the first general-purpose electronic computer. ENIAC weighed 30 tons and took up 1,800 square feet - about the size of a small house!"
+        },
+        {
+          "id": "tech_2",
+          "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+          "heading": "Invention of the Web",
+          "body": "Tim Berners-Lee invented the World Wide Web in 1989 at CERN. The first website went live on August 6, 1991 - it explained what the World Wide Web was!"
+        },
+        {
+          "id": "tech_3",
+          "imageUrl": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+          "heading": "USB Explained",
+          "body": "USB stands for Universal Serial Bus. The USB symbol represents Neptune's trident, modified to show the different types of connectors!"
+        },
+        {
+          "id": "tech_4",
+          "imageUrl": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=800",
+          "heading": "The First iPhone",
+          "body": "The first iPhone was released on June 29, 2007. Steve Jobs announced it in January 2007, calling it 'three products in one' - a phone, iPod, and internet communicator!"
+        },
+        {
+          "id": "tech_5",
+          "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
+          "heading": "First Video Game",
+          "body": "Tennis for Two (1958) or Pong (1972) depending on definition. Tennis for Two was created on an oscilloscope at a nuclear research lab!"
+        },
+        {
+          "id": "tech_6",
+          "imageUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800",
+          "heading": "Instagram Photos",
+          "body": "Over 95 million photos are uploaded to Instagram every day as of 2023. That's about 1,100 photos per second!"
+        },
+        {
+          "id": "tech_7",
+          "imageUrl": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800",
+          "heading": "First Social Media",
+          "body": "Six Degrees (1997) was the first social media site - it allowed users to create profiles and friend lists. It was named after the 'six degrees of separation' concept!"
+        },
+        {
+          "id": "tech_8",
+          "imageUrl": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=800",
+          "heading": "Bitcoin's Creation",
+          "body": "Bitcoin was created in 2009 by the mysterious Satoshi Nakamoto. To this day, no one knows the true identity of Bitcoin's creator!"
+        },
+        {
+          "id": "tech_9",
+          "imageUrl": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800",
+          "heading": "Wi-Fi Name Origin",
+          "body": "Wi-Fi doesn't stand for anything! It's not an abbreviation - it's just a catchy name. It was meant to sound like 'Hi-Fi' (High Fidelity) for audio equipment!"
+        },
+        {
+          "id": "tech_10",
+          "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800",
+          "heading": "Daily Data Creation",
+          "body": "Over 2.5 quintillion bytes of data are created every day as of 2023. That's 2,500,000,000,000,000,000 bytes - or about 250,000 years of HD video!"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "Human Body",
+      "description": "Explore the miracle of human biology",
+      "gradientColors": ["#DB2777", "#E11D48"],
+      "cards": [
+        {
+          "id": "body_1",
+          "imageUrl": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=800",
+          "heading": "Human Bones",
+          "body": "An adult human has 206 bones. Babies are born with about 270 bones, but many fuse together as we grow!"
+        },
+        {
+          "id": "body_2",
+          "imageUrl": "https://images.unsplash.com/photo-1612362537809-531888e56b30?w=800",
+          "heading": "Largest Organ",
+          "body": "The skin is the largest organ in the human body! It covers about 20 square feet on an average adult. Your skin completely renews itself about every 28 days!"
+        },
+        {
+          "id": "body_3",
+          "imageUrl": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=800",
+          "heading": "Nerve Impulse Speed",
+          "body": "Nerve impulses travel up to 268 miles per hour (120 meters per second)! That's why you can react so quickly when you touch something hot!"
+        },
+        {
+          "id": "body_4",
+          "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?w=800",
+          "heading": "Heart's Daily Work",
+          "body": "The human heart pumps about 2,000 gallons (7,570 liters) of blood per day. Your heart beats about 100,000 times every single day!"
+        },
+        {
+          "id": "body_5",
+          "imageUrl": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=800",
+          "heading": "Strongest Muscle",
+          "body": "The masseter (jaw muscle) is the strongest muscle in the human body - it can exert 200 pounds of force! The tongue is the most flexible muscle, not the strongest!"
+        },
+        {
+          "id": "body_6",
+          "imageUrl": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800",
+          "heading": "Small Intestine Length",
+          "body": "The small intestine is about 20 feet (6 meters) long. Despite the name, it's actually longer than the large intestine - it's just narrower!"
+        },
+        {
+          "id": "body_7",
+          "imageUrl": "https://images.unsplash.com/photo-1609743522471-83c84ce23e32?w=800",
+          "heading": "Taste Buds",
+          "body": "A human has about 10,000 taste buds. They regenerate every 10-14 days, which is why you regain taste after burning your tongue!"
+        },
+        {
+          "id": "body_8",
+          "imageUrl": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800",
+          "heading": "Body Water Content",
+          "body": "About 60% of the human body is water for adults (babies are about 78% water). Your brain is about 73% water - staying hydrated is crucial for thinking clearly!"
+        },
+        {
+          "id": "body_9",
+          "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800",
+          "heading": "Blinking Statistics",
+          "body": "The average person blinks about 15,000-20,000 times per day. Each blink lasts about 0.1 to 0.4 seconds - you spend about 10% of your waking hours with your eyes closed!"
+        }
+      ]
+    }
+  ]
+}
