@@ -1,312 +1,613 @@
 {
   "decks": [
     {
-      "id": "space",
-      "title": "Space",
-      "description": "Explore the wonders of the cosmos",
-      "gradientColors": ["#5B21B6", "#1E3A8A"],
+      "id": "deck_4b0cc3de4e28",
+      "title": "Discover Bhutan",
+      "description": "Explore Bhutan's unique culture and policies.",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://waitbutwhy.com/2025/11/bhutan.html",
+        "author": "Tim Urban",
+        "publishDate": "Tue, 25 Nov 2025 17:15:10 +0000",
+        "category": [
+          "Travel",
+          "Culture",
+          "Environment"
+        ],
+        "status": "published",
+        "createdAt": "2026-02-09T23:23:26.328650",
+        "updatedAt": "2026-02-09T23:23:26.328676"
+      },
       "cards": [
         {
-          "id": "space_1",
+          "id": "deck_4b0cc3de4e28_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1567241803528-0e183644074f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxCaHV0YW4lMjBraW5nJTIwQmh1dGFuJTIwR292ZXJuYW5jZXxlbnwxfDB8fHwxNzcwNjU5NTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Bhutan's Unique Governance",
+          "body": "Bhutan is the world's last Buddhist kingdom, with a king who is deeply loved by his people. During Covid, he supported 50,000 people in the tourism industry with personal funds, almost reaching personal bankruptcy.",
+          "tags": [
+            "Bhutan",
+            "Governance",
+            "Monarchy"
+          ]
+        },
+        {
+          "id": "deck_4b0cc3de4e28_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1598868660314-f40770bfc932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxoYXBweSUyMHBlb3BsZSUyMEJodXRhbiUyMEhhcHBpbmVzcyUyMFBvbGljeXxlbnwxfDB8fHwxNzcwNjU5NTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Gross National Happiness",
+          "body": "In 1972, Bhutan adopted Gross National Happiness as a national policy, prioritizing happiness over economic growth. Despite being unconventional, this policy has made Bhutan famous for its happiness-focused governance.",
+          "tags": [
+            "Happiness",
+            "Policy",
+            "Bhutan"
+          ]
+        },
+        {
+          "id": "deck_4b0cc3de4e28_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1762632159518-b039c63be8b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxCaHV0YW4lMjBmb3Jlc3QlMjBFbnZpcm9ubWVudCUyMFN1c3RhaW5hYmlsaXR5fGVufDF8MHx8fDE3NzA2NTk1OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Carbon-Negative Bhutan",
+          "body": "Bhutan is the only carbon-negative country in the world, thanks to its vast forests that absorb more CO2 than the country emits. This conservation effort is part of their dedication to preserving the environment.",
+          "tags": [
+            "Environment",
+            "Sustainability",
+            "Carbon Negative"
+          ]
+        },
+        {
+          "id": "deck_4b0cc3de4e28_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1761048170762-be73322d2383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxCaHV0YW4lMjB0cmFkaXRpb25hbCUyMEN1bHR1cmUlMjBUcmFkaXRpb258ZW58MXwwfHx8MTc3MDY1OTYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Cultural Preservation in Bhutan",
+          "body": "Bhutan fiercely preserves its traditional way of life, having banned TV and internet until 1999. Tourism is limited to guided tours, and immigration is nearly impossible to maintain cultural integrity.",
+          "tags": [
+            "Culture",
+            "Tradition",
+            "Preservation"
+          ]
+        },
+        {
+          "id": "deck_4b0cc3de4e28_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1760553120312-2821bf54e767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjaXR5JTIwYmx1ZXByaW50JTIwRnV0dXJlJTIwSW5ub3ZhdGlvbnxlbnwxfDB8fHwxNzcwNjU5NjA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "The Future: Gelephu Mindfulness City",
+          "body": "To address youth migration, Bhutan plans to build Gelephu Mindfulness City, an economic hub focused on innovation while preserving tradition. The project, however, might take 20 years to complete.",
+          "tags": [
+            "Future",
+            "Innovation",
+            "Bhutan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_5a03467d8d4f",
+      "title": "Understanding Toddlers",
+      "description": "Humor and insights on living with toddlers.",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://waitbutwhy.com/2025/10/toddler.html",
+        "author": "Tim Urban",
+        "publishDate": "Fri, 24 Oct 2025 12:36:56 +0000",
+        "category": [
+          "Parenting",
+          "Child Development"
+        ],
+        "status": "published",
+        "createdAt": "2026-02-09T23:23:54.322837",
+        "updatedAt": "2026-02-09T23:23:54.322880"
+      },
+      "cards": [
+        {
+          "id": "deck_5a03467d8d4f_card_0",
+          "imageUrl": "https://images.unsplash.com/flagged/photo-1565093934535-8b54c1b6e509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwYXJlbnQlMjB0b2RkbGVyJTIwaHVnJTIwZW1vdGlvbnMlMjBwYXJlbnRpbmd8ZW58MXwwfHx8MTc3MDY1OTYxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Love and Boredom",
+          "body": "Parents can feel deep love and simultaneous boredom with their toddlers. While the joy from a hug or a smile is immense, spending hours with a toddler can sometimes feel monotonous due to their limited conversational skills.",
+          "tags": [
+            "emotions",
+            "parenting",
+            "toddler"
+          ]
+        },
+        {
+          "id": "deck_5a03467d8d4f_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1620415069538-d8763e2fa2f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx0b2RkbGVyJTIwdGFudHJ1bSUyMGJlaGF2aW9yJTIwaHVtb3J8ZW58MXwwfHx8MTc3MDY1OTYyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Dictators in Diapers",
+          "body": "Toddlers can behave like little dictators, displaying strong will and stubbornness. They often have a one-track mind and can be hilariously blunt, such as when they dismissively suggest parents go work instead of playing with them.",
+          "tags": [
+            "behavior",
+            "humor",
+            "toddler"
+          ]
+        },
+        {
+          "id": "deck_5a03467d8d4f_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1767356326735-2da0a10cf1f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx0b2RkbGVyJTIwcmVhZGluZyUyMGJvb2slMjBsYW5ndWFnZSUyMGxlYXJuaW5nfGVufDF8MHx8fDE3NzA2NTk2MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Language Sponges",
+          "body": "Toddlers are linguistic geniuses, rapidly acquiring language skills just by exposure. Despite their impressive ability to learn languages, they often make funny errors in understanding pronouns or sentence structures.",
+          "tags": [
+            "language",
+            "learning",
+            "toddler"
+          ]
+        },
+        {
+          "id": "deck_5a03467d8d4f_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1586442498293-60c088446c83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx0b2RkbGVyJTIwZXhwbG9yaW5nJTIwd29ybGR2aWV3JTIwZGV2ZWxvcG1lbnR8ZW58MXwwfHx8MTc3MDY1OTYyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Worldview: A Toddler's Reality",
+          "body": "Toddlers have an inaccurate view of the world, often believing it revolves around them. This is a result of their limited life experiences where everything is new and tailored to their needs.",
+          "tags": [
+            "worldview",
+            "development",
+            "toddler"
+          ]
+        },
+        {
+          "id": "deck_5a03467d8d4f_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1758782213529-0cd29ba10e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxsYXVnaGluZyUyMHRvZGRsZXIlMjBodW1vciUyMGNvbW11bmljYXRpb258ZW58MXwwfHx8MTc3MDY1OTYyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Unintentional Comedians",
+          "body": "Toddlers can be unintentionally hilarious. They often mimic funny phrases or actions without understanding the humor, providing endless amusement for parents.",
+          "tags": [
+            "humor",
+            "communication",
+            "toddler"
+          ]
+        },
+        {
+          "id": "deck_5a03467d8d4f_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1695473507875-c9648774c4e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwYXJlbnRzJTIwZGlzY3Vzc2luZyUyMHBhcmVudGluZyUyMGp1ZGdtZW50fGVufDF8MHx8fDE3NzA2NTk2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Judgment Among Parents",
+          "body": "Parenting toddlers is filled with strong opinions and judgment from others. It\u2019s important for parents to focus on enjoying time with their children and fostering their natural development rather than adhering strictly to others' opinions.",
+          "tags": [
+            "parenting",
+            "judgment",
+            "toddler"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_27124a1eeca6",
+      "title": "Journey Through VR",
+      "description": "Explore the evolution of VR with Vision Pro.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://waitbutwhy.com/2024/02/vision-pro.html",
+        "author": "Tim Urban",
+        "publishDate": "Fri, 09 Feb 2024 18:24:38 +0000",
+        "category": [
+          "Technology",
+          "Innovation"
+        ],
+        "status": "published",
+        "createdAt": "2026-02-09T23:24:24.631920",
+        "updatedAt": "2026-02-09T23:24:24.631965"
+      },
+      "cards": [
+        {
+          "id": "deck_27124a1eeca6_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1742570922875-e5a60e950307?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxlYXJseSUyMFZSJTIwaGVhZHNldCUyMFZSJTIwaGlzdG9yeXxlbnwxfDB8fHwxNzcwNjU5NjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "VR's Early Days",
+          "body": "In 1990, virtual reality was a novel but fleeting experience. The initial excitement of stepping into a cartoon world faded as VR technology went dormant for 25 years. This resurgence in the mid-2010s reignited interest, thanks to innovators like Palmer Luckey and companies like Oculus.",
+          "tags": [
+            "VR",
+            "history",
+            "technology"
+          ]
+        },
+        {
+          "id": "deck_27124a1eeca6_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1706902734956-073c71ba5ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMFZpc2lvbiUyMFBybyUyMEFwcGxlJTIwVmlzaW9uJTIwUHJvfGVufDF8MHx8fDE3NzA2NTk2NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Apple's Vision Pro Debut",
+          "body": "Apple introduced the Vision Pro in 2023, branding it as a 'spatial computing' device. Priced at $3,500, it promised a new era of immersive experiences, though initial reactions were tempered by the high cost and limited applications.",
+          "tags": [
+            "Apple",
+            "Vision Pro",
+            "technology"
+          ]
+        },
+        {
+          "id": "deck_27124a1eeca6_card_2",
           "imageUrl": "",
-          "heading": "Sunlight Travel Time",
-          "body": "It takes about 8 minutes and 20 seconds for sunlight to reach Earth. This means we always see the Sun as it was 8 minutes ago!"
+          "heading": "Holy Shit Moments",
+          "body": "The Vision Pro provided a 'holy shit moment' reminiscent of the first iPhone's debut. These moments often precede significant industry shifts, though VR's history suggests caution in predicting immediate mass adoption.",
+          "tags": [
+            "innovation",
+            "technology",
+            "VR"
+          ]
         },
         {
-          "id": "space_2",
-          "imageUrl": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=800",
-          "heading": "Jupiter - The Giant",
-          "body": "Jupiter is the largest planet in our solar system - it's so big that 1,300 Earths could fit inside it! Jupiter's Great Red Spot is a storm that has been raging for over 400 years."
+          "id": "deck_27124a1eeca6_card_3",
+          "imageUrl": "",
+          "heading": "Challenges with VR Adoption",
+          "body": "Despite VR's jaw-dropping demos, it struggles to hook users long-term. Issues include the solo nature of experiences, friction in setup, and a reliance on novelty, which may hinder widespread adoption.",
+          "tags": [
+            "challenges",
+            "VR",
+            "user experience"
+          ]
         },
         {
-          "id": "space_3",
-          "imageUrl": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800",
-          "heading": "Mars and Its Moons",
-          "body": "Mars has two moons: Phobos and Deimos. Both moons are named after the sons of Ares (Mars) in Greek mythology."
+          "id": "deck_27124a1eeca6_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1760820088118-5ec1242ba938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxnZXN0dXJlJTIwY29udHJvbCUyMGludGVyZmFjZSUyMGlubm92YXRpb258ZW58MXwwfHx8MTc3MDY1OTY1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Vision Pro's Interface Innovation",
+          "body": "Vision Pro's intuitive 'eye pinch' interface allows users to interact seamlessly with apps in space. This innovation could set a new standard for VR/AR interfaces, much like the iPhone did for smartphones.",
+          "tags": [
+            "interface",
+            "innovation",
+            "technology"
+          ]
         },
         {
-          "id": "space_4",
-          "imageUrl": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=800",
-          "heading": "What is a Black Hole?",
-          "body": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape. If you fell into a black hole, you'd be stretched like spaghetti in a process called 'spaghettification'!"
-        },
-        {
-          "id": "space_5",
-          "imageUrl": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?w=800",
-          "heading": "The Sun's Surface Temperature",
-          "body": "The surface of the Sun is about 5,500°C (9,932°F). But the Sun's core is much hotter - about 15 million°C!"
-        },
-        {
-          "id": "space_6",
-          "imageUrl": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800",
-          "heading": "Closest Star to Earth",
-          "body": "Proxima Centauri is the closest star to Earth (besides the Sun). It's 4.24 light-years away, meaning it would take over 4 years traveling at light speed to reach it!"
-        },
-        {
-          "id": "space_7",
-          "imageUrl": "https://images.unsplash.com/photo-1532693322450-2cb5c511067d?w=800",
-          "heading": "Earth vs Sun Size",
-          "body": "About 109 Earths could fit across the Sun's diameter. The Sun contains 99.86% of all the mass in our solar system!"
-        },
-        {
-          "id": "space_8",
-          "imageUrl": "https://images.unsplash.com/photo-1614732484003-ef9881555dc3?w=800",
-          "heading": "Saturn's Magnificent Rings",
-          "body": "Saturn's rings are made of billions of pieces of ice and rock, ranging from tiny grains to chunks as big as houses. Saturn's rings are only about 30 feet thick despite being 175,000 miles wide!"
+          "id": "deck_27124a1eeca6_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1735757608801-04504c854e47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxmdXR1cmUlMjB0ZWNobm9sb2d5JTIwcG90ZW50aWFsJTIwbGltaXRhdGlvbnN8ZW58MXwwfHx8MTc3MDY1OTY2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "VR's Potential and Limitations",
+          "body": "While the Vision Pro hints at a revolutionary future, its current offerings remain limited. The potential for spatial computing is vast, but realizing it will require time, innovation, and broader app development.",
+          "tags": [
+            "potential",
+            "limitations",
+            "VR"
+          ]
         }
       ]
     },
     {
-      "id": "history",
-      "title": "History",
-      "description": "Journey through time's greatest moments",
-      "gradientColors": ["#EA580C", "#DC2626"],
+      "id": "deck_d3504e1f953a",
+      "title": "Insights from New Parenthood",
+      "description": "Humorous insights into the early days of parenting.",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://waitbutwhy.com/2023/05/baby.html",
+        "author": "Tim Urban",
+        "publishDate": "Tue, 23 May 2023 19:32:00 +0000",
+        "category": [
+          "Parenting",
+          "Life Experiences"
+        ],
+        "status": "published",
+        "createdAt": "2026-02-09T23:25:00.388624",
+        "updatedAt": "2026-02-09T23:25:00.388635"
+      },
       "cards": [
         {
-          "id": "history_1",
-          "imageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=800",
-          "heading": "Egyptian Pyramids",
-          "body": "The Egyptian pyramids were built around 2580-2560 BC during the Old Kingdom period. The Great Pyramid was the tallest man-made structure for 3,800 years!"
+          "id": "deck_d3504e1f953a_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1761891927440-c27e614c7894?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxuZXdib3JuJTIwYmFieSUyMG5ld2Jvcm4lMjBldm9sdXRpb258ZW58MXwwfHx8MTc3MDY1OTY4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Newborns: Not Quite Babies",
+          "body": "A newborn is more like a bizarre human larva than a baby. Due to evolutionary constraints, humans are born prematurely compared to other species, which means the first few months are like an extension of the womb experience. This explains why newborns act so weird and seem not quite ready for the world.",
+          "tags": [
+            "newborn",
+            "evolution",
+            "development"
+          ]
         },
         {
-          "id": "history_2",
-          "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800",
-          "heading": "The Roman Empire",
-          "body": "The Roman Empire lasted about 1,000 years (27 BC to 476 AD for the Western Empire). The Eastern Roman Empire (Byzantine) continued until 1453 AD!"
+          "id": "deck_d3504e1f953a_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1695370992818-1194d114e675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwYXJlbnRpbmclMjBjbGFzcyUyMHBhcmVudGluZyUyMHRyYWluaW5nfGVufDF8MHx8fDE3NzA2NTk2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Lack of Parenthood Training",
+          "body": "Unlike driving or practicing medicine, becoming a parent comes with no mandatory training. New parents are expected to figure things out on their own. This raises the question of whether a short course on newborn care should be mandatory, as societal expectations often don't match the reality of parenting.",
+          "tags": [
+            "parenting",
+            "training",
+            "society"
+          ]
         },
         {
-          "id": "history_3",
-          "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=800",
-          "heading": "The Printing Press",
-          "body": "The printing press was invented around 1440 by Johannes Gutenberg. This invention revolutionized knowledge sharing and sparked the Renaissance!"
+          "id": "deck_d3504e1f953a_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1672862683946-9e3c606f71ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjcnlpbmclMjBiYWJ5JTIwYmFieSUyMGJlaGF2aW9yJTIwZW1vdGlvbnN8ZW58MXwwfHx8MTc3MDY1OTY4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Dramatic Baby Behavior",
+          "body": "Babies express their needs in exaggerated ways, turning minor discomforts into Shakespearean-level dramas. A hungry or tired baby might seem in agony, yet a simple burp can instantly transform them into a picture of calmness. This can be both frustrating and amusing for new parents.",
+          "tags": [
+            "baby behavior",
+            "emotions",
+            "parenting humor"
+          ]
         },
         {
-          "id": "history_4",
-          "imageUrl": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=800",
-          "heading": "End of World War II",
-          "body": "World War II ended in 1945 - Germany surrendered in May, Japan in September. Formal surrender documents were signed on the USS Missouri on September 2, 1945."
+          "id": "deck_d3504e1f953a_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1767082089778-40d8bf617303?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwYXJlbnQlMjBob2xkaW5nJTIwYmFieSUyMHBhcmVudGFsJTIwbG92ZSUyMGJvbmRpbmd8ZW58MXwwfHx8MTc3MDY1OTY5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Parental Love: A One-Sided Affair",
+          "body": "In the early stages, parental love is intensely one-sided. Parents have deep affection for their newborns, but there's little reciprocation from the baby, who is yet to develop consciousness. This can make the initial bonding period uniquely challenging and rewarding.",
+          "tags": [
+            "parental love",
+            "bonding",
+            "affection"
+          ]
         },
         {
-          "id": "history_5",
-          "imageUrl": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=800",
-          "heading": "Moon Landing",
-          "body": "Humans first landed on the Moon on July 20, 1969 with Apollo 11. Neil Armstrong's first words on the Moon: 'That's one small step for man, one giant leap for mankind.'"
+          "id": "deck_d3504e1f953a_card_4",
+          "imageUrl": "https://images.unsplash.com/flagged/photo-1566765022522-5d544a45e1b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxiYWJ5JTIwc2xlZXAlMjBjaGFydCUyMGJhYnklMjBzY2hlZHVsZSUyMGNoYW9zfGVufDF8MHx8fDE3NzA2NTk2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "The Chaos of Baby Schedules",
+          "body": "Newborns disrupt any semblance of a routine, as their sleep and feeding patterns are unpredictable. This lack of structure can be challenging for new parents, who must adapt to a constantly changing schedule dictated by their baby's needs.",
+          "tags": [
+            "baby schedule",
+            "chaos",
+            "parenting challenges"
+          ]
         },
         {
-          "id": "history_6",
-          "imageUrl": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?w=800",
-          "heading": "Ancient Sumer",
-          "body": "Ancient Sumer (Mesopotamia) emerged around 4500-4000 BC, making it the oldest known civilization. The Sumerians invented the wheel, writing, and the concept of time divided into 60-second minutes!"
-        },
-        {
-          "id": "history_7",
-          "imageUrl": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=800",
-          "heading": "The Great Wall of China",
-          "body": "The Great Wall of China was built over many dynasties, mainly between 7th century BC and 17th century AD. Contrary to myth, it's NOT visible from space with the naked eye!"
-        },
-        {
-          "id": "history_8",
-          "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-          "heading": "Shortest War Ever",
-          "body": "The Anglo-Zanzibar War (1896) was the shortest war in history - it lasted only 38 minutes! Britain bombarded the Sultan's palace, and Zanzibar surrendered after less than an hour."
-        },
-        {
-          "id": "history_9",
-          "imageUrl": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?w=800",
-          "heading": "Fall of the Berlin Wall",
-          "body": "The Berlin Wall fell on November 9, 1989. The wall had divided East and West Berlin for 28 years."
-        },
-        {
-          "id": "history_10",
-          "imageUrl": "https://images.unsplash.com/photo-1551958219-acbc608c6377?w=800",
-          "heading": "The Hundred Years' War",
-          "body": "The Hundred Years' War actually lasted 116 years (1337-1453) between England and France. It was actually a series of conflicts rather than one continuous war!"
+          "id": "deck_d3504e1f953a_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1600563093202-337471bde37e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwYXJlbnQlMjBhbmQlMjBjaGlsZCUyMHBhcmVudGhvb2QlMjBpZGVudGl0eXxlbnwxfDB8fHwxNzcwNjU5Njk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "The Long Transition to Parenthood",
+          "body": "Becoming a parent doesn't happen overnight; it's a gradual process as your baby grows and changes. Initially, you might not feel like a 'parent,' but as your child develops and your role evolves, the identity of parenthood takes shape.",
+          "tags": [
+            "parenthood",
+            "identity",
+            "life transition"
+          ]
         }
       ]
     },
     {
-      "id": "animals",
-      "title": "Animals",
-      "description": "Discover amazing wildlife facts",
-      "gradientColors": ["#059669", "#0D9488"],
+      "id": "deck_778358e8abc3",
+      "title": "Curious Minds Mailbag",
+      "description": "Dive into fascinating questions and insights.",
+      "gradientColors": [
+        "#5B21B6",
+        "#1E3A8A"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://waitbutwhy.com/2021/04/mailbag-2.html",
+        "author": "Tim Urban",
+        "publishDate": "Wed, 14 Apr 2021 12:41:02 +0000",
+        "category": [
+          "science",
+          "philosophy",
+          "lifestyle"
+        ],
+        "status": "published",
+        "createdAt": "2026-02-09T23:25:33.530463",
+        "updatedAt": "2026-02-09T23:25:33.530492"
+      },
       "cards": [
         {
-          "id": "animals_1",
-          "imageUrl": "https://images.unsplash.com/photo-1590420315419-e73bb5d3ab53?w=800",
-          "heading": "Fastest Land Animal",
-          "body": "The cheetah can run up to 70 mph (112 km/h)! Cheetahs can accelerate from 0 to 60 mph in just 3 seconds - faster than most sports cars!"
+          "id": "deck_778358e8abc3_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1576765608360-c3fc79ca9964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx2aXJ1cyUyMGlsbHVzdHJhdGlvbiUyMHNjaWVuY2UlMjBiaW9sb2d5fGVufDF8MHx8fDE3NzA2NTk3MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Seeing Germs",
+          "body": "To see germs, you'd need 640,000 of a virus like COVID-19 to form a visible speck. A virus is about 120nm, but visible objects need to be at least 0.1mm, the width of a human hair.",
+          "tags": [
+            "science",
+            "biology",
+            "curiosity"
+          ]
         },
         {
-          "id": "animals_2",
-          "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=800",
-          "heading": "Elephant Lifespan",
-          "body": "African elephants can live 60-70 years in the wild. Elephants are one of the few animals that can recognize themselves in a mirror!"
+          "id": "deck_778358e8abc3_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1706643568112-0234e10777a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxiYWN0ZXJpYSUyMGN1YmUlMjBzY2llbmNlJTIwYmlvbG9neXxlbnwxfDB8fHwxNzcwNjU5NzIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Bacteria Mass on Earth",
+          "body": "If all the bacteria on Earth were clumped together, it would form a cube 15km wide, covering much of Los Angeles and rising higher than airplanes fly. Spread out, it would coat Earth in a 7mm layer.",
+          "tags": [
+            "science",
+            "biology",
+            "scale"
+          ]
         },
         {
-          "id": "animals_3",
-          "imageUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?w=800",
-          "heading": "Octopus Hearts",
-          "body": "Octopuses have THREE hearts! Two hearts pump blood to the gills, while the third pumps blood to the rest of the body."
+          "id": "deck_778358e8abc3_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1595002435321-133ac0aee0bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxtdXNpYyUyMG5vdGVzJTIwcHN5Y2hvbG9neSUyMG11c2ljfGVufDF8MHx8fDE3NzA2NTk3MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Why Old Songs Appeal",
+          "body": "We often re-listen to songs because our brains enjoy the familiarity of their 'dance steps,' creating pleasure pathways. In contrast, films are exciting due to plot uncertainty.",
+          "tags": [
+            "psychology",
+            "music",
+            "habit"
+          ]
         },
         {
-          "id": "animals_4",
-          "imageUrl": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=800",
-          "heading": "The Blue Whale",
-          "body": "The blue whale is the largest animal on Earth - it can weigh up to 200 tons! A blue whale's heart is the size of a small car and weighs about 400 pounds!"
+          "id": "deck_778358e8abc3_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1673115380140-d1941bcf21c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjByZWFkaW5nJTIwaW4lMjBiZWQlMjBsaWZlc3R5bGUlMjBzbGVlcHxlbnwxfDB8fHwxNzcwNjU5NzI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Sleep Solutions",
+          "body": "Tim Urban combats insomnia by using a distraction like reading or listening to podcasts, avoiding stimulating activities on his phone. He uses an old phone for bedtime reading to avoid distractions.",
+          "tags": [
+            "lifestyle",
+            "sleep",
+            "technology"
+          ]
         },
         {
-          "id": "animals_5",
-          "imageUrl": "https://images.unsplash.com/photo-1607153333879-c174d265f1d2?w=800",
-          "heading": "How Dolphins Sleep",
-          "body": "Only half of a dolphin's brain sleeps at a time, so they can continue swimming and breathing. This is called unihemispheric slow-wave sleep!"
+          "id": "deck_778358e8abc3_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1638562464861-14920f215355?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjbGFzc2ljJTIwcGFpbnRpbmclMjBhcnQlMjBldGhpY3N8ZW58MXwwfHx8MTc3MDY1OTcyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Art vs. Artist",
+          "body": "Loving art doesn\u2019t mean endorsing the artist's actions. Many great artists had flawed characters, but their work can still hold value and meaning.",
+          "tags": [
+            "art",
+            "ethics",
+            "culture"
+          ]
         },
         {
-          "id": "animals_6",
-          "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
-          "heading": "Flying Flamingos",
-          "body": "Flamingos can fly at speeds up to 37 mph. Flamingos are pink because of the algae and shrimp they eat - they're born gray!"
-        },
-        {
-          "id": "animals_7",
-          "imageUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?w=800",
-          "heading": "Shark Skeletons",
-          "body": "Sharks have zero bones! Their skeletons are made entirely of cartilage. This makes sharks lighter and more flexible in water!"
-        },
-        {
-          "id": "animals_8",
-          "imageUrl": "https://images.unsplash.com/photo-1560249425-c4cbf27d160b?w=800",
-          "heading": "Longest Living Animal",
-          "body": "The Greenland shark can live over 400 years! Some glass sponges have lived even longer - over 10,000 years!"
+          "id": "deck_778358e8abc3_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1582120518973-5e742e6fe0ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxuZXclMjB5b3JrJTIwc2t5bGluZSUyMHRyYXZlbCUyMGN1bHR1cmV8ZW58MXwwfHx8MTc3MDY1OTczMXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "NYC's Unique Charm",
+          "body": "New York City offers unparalleled diversity in culture and industry, making it a vibrant place to live despite its challenges.",
+          "tags": [
+            "travel",
+            "culture",
+            "city life"
+          ]
         }
       ]
     },
     {
-      "id": "tech",
-      "title": "Tech",
-      "description": "Uncover the digital revolution",
-      "gradientColors": ["#0891B2", "#2563EB"],
+      "id": "deck_7f9c65ec7fb5",
+      "title": "Exploring the Universe",
+      "description": "Dive into the scale of the universe.",
+      "gradientColors": [
+        "#5B21B6",
+        "#1E3A8A"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://waitbutwhy.com/2020/09/universe.html",
+        "author": "Tim Urban",
+        "publishDate": "Tue, 22 Sep 2020 16:28:48 +0000",
+        "category": [
+          "Science",
+          "Education"
+        ],
+        "status": "published",
+        "createdAt": "2026-02-09T23:26:00.265690",
+        "updatedAt": "2026-02-09T23:26:00.265702"
+      },
       "cards": [
         {
-          "id": "tech_1",
-          "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-          "heading": "First Computer",
-          "body": "The ENIAC (1945) is considered the first general-purpose electronic computer. ENIAC weighed 30 tons and took up 1,800 square feet - about the size of a small house!"
+          "id": "deck_7f9c65ec7fb5_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1758873272869-9130397ff7d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHdvcmtzcGFjZSUyMGNyZWF0aXZpdHklMjBjb2xsYWJvcmF0aW9ufGVufDF8MHx8fDE3NzA2NTk3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "The Fun Room Concept",
+          "body": "Tim Urban describes the 'fun room' as a mental space where he explores ideas about the universe's scale. It's a place for creative exploration and collaboration with like-minded individuals, such as Philipp Dettmer from Kurzgesagt.",
+          "tags": [
+            "creativity",
+            "collaboration",
+            "ideas"
+          ]
         },
         {
-          "id": "tech_2",
-          "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-          "heading": "Invention of the Web",
-          "body": "Tim Berners-Lee invented the World Wide Web in 1989 at CERN. The first website went live on August 6, 1991 - it explained what the World Wide Web was!"
+          "id": "deck_7f9c65ec7fb5_card_1",
+          "imageUrl": "",
+          "heading": "Kurzgesagt Collaboration",
+          "body": "The collaboration between Tim Urban and Philipp Dettmer led to adapting Wait But Why content into Kurzgesagt's animated videos. This shows how different mediums can enhance educational content.",
+          "tags": [
+            "collaboration",
+            "animation",
+            "education"
+          ]
         },
         {
-          "id": "tech_3",
-          "imageUrl": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
-          "heading": "USB Explained",
-          "body": "USB stands for Universal Serial Bus. The USB symbol represents Neptune's trident, modified to show the different types of connectors!"
+          "id": "deck_7f9c65ec7fb5_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1690683789735-f5f4e34cc99d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx1bml2ZXJzZSUyMGFwcCUyMGFwcCUyMGRldmVsb3BtZW50JTIwdW5pdmVyc2V8ZW58MXwwfHx8MTc3MDY1OTc1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Universe in a Nutshell",
+          "body": "The 'Universe in a Nutshell' app was created to explore the scale of the universe. It includes 250 objects, over 30,000 words of explanations, and dynamic illustrations, providing a unique educational experience.",
+          "tags": [
+            "app development",
+            "universe",
+            "education"
+          ]
         },
         {
-          "id": "tech_4",
-          "imageUrl": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=800",
-          "heading": "The First iPhone",
-          "body": "The first iPhone was released on June 29, 2007. Steve Jobs announced it in January 2007, calling it 'three products in one' - a phone, iPod, and internet communicator!"
+          "id": "deck_7f9c65ec7fb5_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1711992635223-ad1ad38f7329?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxnYWxheHklMjBwYXJ0aWNsZXMlMjBzY2FsZSUyMHVuaXZlcnNlfGVufDF8MHx8fDE3NzA2NTk3NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Exploring Scale",
+          "body": "The app's interface is a giant high-resolution wall that allows users to explore objects from galaxies to subatomic particles. This innovative design helps users grasp the vastness and intricacies of the universe.",
+          "tags": [
+            "scale",
+            "universe",
+            "innovation"
+          ]
         },
         {
-          "id": "tech_5",
-          "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
-          "heading": "First Video Game",
-          "body": "Tennis for Two (1958) or Pong (1972) depending on definition. Tennis for Two was created on an oscilloscope at a nuclear research lab!"
-        },
-        {
-          "id": "tech_6",
-          "imageUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800",
-          "heading": "Instagram Photos",
-          "body": "Over 95 million photos are uploaded to Instagram every day as of 2023. That's about 1,100 photos per second!"
-        },
-        {
-          "id": "tech_7",
-          "imageUrl": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800",
-          "heading": "First Social Media",
-          "body": "Six Degrees (1997) was the first social media site - it allowed users to create profiles and friend lists. It was named after the 'six degrees of separation' concept!"
-        },
-        {
-          "id": "tech_8",
-          "imageUrl": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=800",
-          "heading": "Bitcoin's Creation",
-          "body": "Bitcoin was created in 2009 by the mysterious Satoshi Nakamoto. To this day, no one knows the true identity of Bitcoin's creator!"
-        },
-        {
-          "id": "tech_9",
-          "imageUrl": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800",
-          "heading": "Wi-Fi Name Origin",
-          "body": "Wi-Fi doesn't stand for anything! It's not an abbreviation - it's just a catchy name. It was meant to sound like 'Hi-Fi' (High Fidelity) for audio equipment!"
-        },
-        {
-          "id": "tech_10",
-          "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800",
-          "heading": "Daily Data Creation",
-          "body": "Over 2.5 quintillion bytes of data are created every day as of 2023. That's 2,500,000,000,000,000,000 bytes - or about 250,000 years of HD video!"
+          "id": "deck_7f9c65ec7fb5_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1580894740397-0946742deb4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxmZWVkYmFjayUyMGxvb3AlMjB1c2VyJTIwZmVlZGJhY2slMjBhcHAlMjBpbXByb3ZlbWVudHxlbnwxfDB8fHwxNzcwNjU5NzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Feedback for Growth",
+          "body": "The developers encourage user feedback to improve the app, emphasizing a continuous enhancement mindset. This approach ensures the app evolves with user needs and educational trends.",
+          "tags": [
+            "user feedback",
+            "app improvement",
+            "growth"
+          ]
         }
       ]
     },
     {
-      "id": "body",
-      "title": "Human Body",
-      "description": "Explore the miracle of human biology",
-      "gradientColors": ["#DB2777", "#E11D48"],
+      "id": "deck_cb1bc8d31b93",
+      "title": "Time's Strange Perspectives",
+      "description": "Explore how the past feels closer than it is.",
+      "gradientColors": [
+        "#9F1239",
+        "#7F1D1D"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html",
+        "author": "Tim Urban",
+        "publishDate": "Thu, 02 Jan 2020 00:17:30 +0000",
+        "category": [
+          "History",
+          "Time",
+          "Perspective"
+        ],
+        "status": "published",
+        "createdAt": "2026-02-09T23:26:37.024607",
+        "updatedAt": "2026-02-09T23:26:37.024633"
+      },
       "cards": [
         {
-          "id": "body_1",
-          "imageUrl": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=800",
-          "heading": "Human Bones",
-          "body": "An adult human has 206 bones. Babies are born with about 270 bones, but many fuse together as we grow!"
+          "id": "deck_cb1bc8d31b93_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1764165067433-03ecbcba21d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHwxOTIwcyUyMGZhc2hpb24lMjBoaXN0b3J5JTIwMTkyMHN8ZW58MXwwfHx8MTc3MDY1OTc4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "The 1920s Then and Now",
+          "body": "We see the 2020s as a futuristic decade, just as people in the 1920s did with their '20s. History repeats itself in fascinating ways, showing how our perception of time shapes our understanding of the present and past.",
+          "tags": [
+            "history",
+            "1920s",
+            "futurism"
+          ]
         },
         {
-          "id": "body_2",
-          "imageUrl": "https://images.unsplash.com/photo-1612362537809-531888e56b30?w=800",
-          "heading": "Largest Organ",
-          "body": "The skin is the largest organ in the human body! It covers about 20 square feet on an average adult. Your skin completely renews itself about every 28 days!"
+          "id": "deck_cb1bc8d31b93_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1720678468854-ecdea4cb379c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx3b3JsZCUyMHdhciUyMHNvbGRpZXJzJTIwd29ybGQlMjB3YXJzJTIwaGlzdG9yaWNhbCUyMGV2ZW50c3xlbnwxfDB8fHwxNzcwNjU5Nzg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "World Wars' Time Proximity",
+          "body": "If WWII started today, WWI would feel as distant as 9/11 does to us now. This highlights how historical events can feel both distant and recent simultaneously, depending on our personal and generational perspectives.",
+          "tags": [
+            "world wars",
+            "historical events",
+            "perspective"
+          ]
         },
         {
-          "id": "body_3",
-          "imageUrl": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=800",
-          "heading": "Nerve Impulse Speed",
-          "body": "Nerve impulses travel up to 268 miles per hour (120 meters per second)! That's why you can react so quickly when you touch something hot!"
+          "id": "deck_cb1bc8d31b93_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1574974409771-cebec54deb00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwdHYlMjBzZXQlMjBUViUyMHNob3dzJTIwbm9zdGFsZ2lhfGVufDF8MHx8fDE3NzA2NTk3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "The Wonder Years Time Shift",
+          "body": "The Wonder Years TV show depicted 1968-1973. If recreated today, it would cover 2000-2005. This highlights how our perception of 'recent history' shifts as we age, making past decades feel both near and far.",
+          "tags": [
+            "TV shows",
+            "nostalgia",
+            "perception"
+          ]
         },
         {
-          "id": "body_4",
-          "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?w=800",
-          "heading": "Heart's Daily Work",
-          "body": "The human heart pumps about 2,000 gallons (7,570 liters) of blood per day. Your heart beats about 100,000 times every single day!"
+          "id": "deck_cb1bc8d31b93_card_3",
+          "imageUrl": "",
+          "heading": "Movies Closer to History",
+          "body": "Movies like Jurassic Park, The Lion King, and Forrest Gump, released closer to the moon landing than to today, show how rapidly time moves, and how cultural icons can span generations.",
+          "tags": [
+            "movies",
+            "cultural icons",
+            "history"
+          ]
         },
         {
-          "id": "body_5",
-          "imageUrl": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=800",
-          "heading": "Strongest Muscle",
-          "body": "The masseter (jaw muscle) is the strongest muscle in the human body - it can exert 200 pounds of force! The tongue is the most flexible muscle, not the strongest!"
+          "id": "deck_cb1bc8d31b93_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1646575192399-db1a8c70cdf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwY2xvY2slMjBnZW5lcmF0aW9ucyUyMG1lbW9yeXxlbnwxfDB8fHwxNzcwNjU5NzkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "Generational Time Distortion",
+          "body": "For today\u2019s kids, 9/11 is akin to the moon landing for those born in the 1980s. This demonstrates how each generation has its unique historical anchors, shaping its collective memory and identity.",
+          "tags": [
+            "generations",
+            "memory",
+            "historical events"
+          ]
         },
         {
-          "id": "body_6",
-          "imageUrl": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800",
-          "heading": "Small Intestine Length",
-          "body": "The small intestine is about 20 feet (6 meters) long. Despite the name, it's actually longer than the large intestine - it's just narrower!"
-        },
-        {
-          "id": "body_7",
-          "imageUrl": "https://images.unsplash.com/photo-1609743522471-83c84ce23e32?w=800",
-          "heading": "Taste Buds",
-          "body": "A human has about 10,000 taste buds. They regenerate every 10-14 days, which is why you regain taste after burning your tongue!"
-        },
-        {
-          "id": "body_8",
-          "imageUrl": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800",
-          "heading": "Body Water Content",
-          "body": "About 60% of the human body is water for adults (babies are about 78% water). Your brain is about 73% water - staying hydrated is crucial for thinking clearly!"
-        },
-        {
-          "id": "body_9",
-          "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800",
-          "heading": "Blinking Statistics",
-          "body": "The average person blinks about 15,000-20,000 times per day. Each blink lasts about 0.1 to 0.4 seconds - you spend about 10% of your waking hours with your eyes closed!"
+          "id": "deck_cb1bc8d31b93_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1756701781600-12a63ab571fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxmdXR1cmlzdGljJTIwY2l0eXNjYXBlJTIwZnV0dXJlJTIwZ2VuZXJhdGlvbnN8ZW58MXwwfHx8MTc3MDY1OTc5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "heading": "The 2100s and Today\u2019s Youth",
+          "body": "Most kids today will live to see the 2100s, emphasizing how time continues to march forward, connecting generations in ways that feel both profound and surreal.",
+          "tags": [
+            "future",
+            "generations",
+            "longevity"
+          ]
         }
       ]
     }
