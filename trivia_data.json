@@ -2509,6 +2509,3798 @@
           ]
         }
       ]
+    },
+    {
+      "id": "deck_ed98e6f1b3d6",
+      "title": "Exponential vs. Sigmoid Growth",
+      "description": "Explore growth trends in tech and AI.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+        "author": "Scott Alexander",
+        "publishDate": "Fri, 15 May 2026 08:55:10 GMT",
+        "category": [
+          "Technology",
+          "AI",
+          "Trends"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:42:03.794855",
+        "updatedAt": "2026-06-22T21:42:03.794892"
+      },
+      "cards": [
+        {
+          "id": "deck_ed98e6f1b3d6_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1543286386-2e659306cd6c?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzaWdtb2lkJTIwY3VydmUlMjBncmFwaCUyMHNpZ21vaWQlMjBncm93dGh8ZW58MXwwfHx8MTc4MjE0NDcwOXww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "What is a Sigmoid Curve?",
+          "body": "A sigmoid curve starts with exponential growth but eventually flattens out due to reaching physical or practical limits. This pattern is seen in various phenomena, from epidemic cases to technological advancements.",
+          "tags": [
+            "sigmoid",
+            "growth",
+            "limits"
+          ]
+        },
+        {
+          "id": "deck_ed98e6f1b3d6_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxlcGlkZW1pYyUyMGdyYXBoJTIwZXBpZGVtaWMlMjBncm93dGh8ZW58MXwwfHx8MTc4MjE0NDcxMnww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Epidemics: A Classic Sigmoid",
+          "body": "In epidemics, cases initially grow exponentially as the disease spreads. Once most are infected, the growth rate slows and eventually stops, forming a classic sigmoid curve.",
+          "tags": [
+            "epidemic",
+            "growth",
+            "disease"
+          ]
+        },
+        {
+          "id": "deck_ed98e6f1b3d6_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1586448317606-cb1ec00298fc?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwcHJvZ3Jlc3MlMjBncmFwaCUyMHRlY2hub2xvZ3klMjBwcm9ncmVzc3xlbnwxfDB8fHwxNzgyMTQ0NzE1fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Tech Progress: Limits & Shifts",
+          "body": "Technological progress often follows a sigmoid curve. As technologies reach their fundamental limits, they are replaced by new ones. For example, airspeed record advancements ended when new economic or regulatory will was lacking.",
+          "tags": [
+            "technology",
+            "progress",
+            "limits"
+          ]
+        },
+        {
+          "id": "deck_ed98e6f1b3d6_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1669399213378-2853e748f217?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxBSSUyMGdyb3d0aCUyMGNoYXJ0JTIwQUklMjBncm93dGh8ZW58MXwwfHx8MTc4MjE0NDcxOHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Why AI May Stay Exponential",
+          "body": "Though all exponentials become sigmoids, AI's growth may remain exponential longer than expected. Factors like data center expansion and new data generation paradigms could extend current trends.",
+          "tags": [
+            "AI",
+            "growth",
+            "exponential"
+          ]
+        },
+        {
+          "id": "deck_ed98e6f1b3d6_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1592495989226-03f88104f8cc?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxMaW5keSUyMEVmZmVjdCUyMGdyYXBoJTIwTGluZHklMjBFZmZlY3QlMjBwcmVkaWN0aW9uc3xlbnwxfDB8fHwxNzgyMTQ0NzIxfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Lindy Effect in Predictions",
+          "body": "Lindy\u2019s Law suggests that the longer a trend continues, the longer it is likely to persist. In the absence of detailed understanding, this law can serve as a default assumption for predicting trends.",
+          "tags": [
+            "Lindy Effect",
+            "predictions",
+            "trends"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_240c32d24c12",
+      "title": "The Resilience of Reading",
+      "description": "Explore reading's role in our digital age.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/text-is-king",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 20 Jan 2026 18:55:47 GMT",
+        "category": [
+          "Literature",
+          "Technology",
+          "Culture"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:42:44.109838",
+        "updatedAt": "2026-06-22T21:42:44.109858"
+      },
+      "cards": [
+        {
+          "id": "deck_240c32d24c12_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1773260711208-779b6d58b462?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxib29rc3RvcmUlMjBpbnRlcmlvciUyMHJlYWRpbmclMjB0cmVuZHMlMjBib29rJTIwc2FsZXN8ZW58MXwwfHx8MTc4MjE0NDc0NXww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Is Reading Really Declining?",
+          "body": "Despite alarming narratives, data suggest that reading isn't vanishing. Book sales in 2025 were higher than in 2019, and independent bookstores are thriving with 422 new shops opening last year. This contradicts the belief that reading is disappearing due to digital distractions.",
+          "tags": [
+            "reading trends",
+            "book sales",
+            "literacy"
+          ]
+        },
+        {
+          "id": "deck_240c32d24c12_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxyZWFkaW5nJTIwc3RhdGlzdGljcyUyMHJlYWRpbmclMjBkYXRhJTIwc3VydmV5JTIwaW5zaWdodHN8ZW58MXwwfHx8MTc4MjE0NDc0OHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Understanding Reading Trends",
+          "body": "Gallup surveys show a shift from mega-readers to moderate readers but no major declines in reading habits over three decades. The larger dip between 2003 and 2011 compared to 2011 and 2023 suggests a significant internet effect, but not a drastic decline.",
+          "tags": [
+            "reading data",
+            "survey insights",
+            "internet impact"
+          ]
+        },
+        {
+          "id": "deck_240c32d24c12_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1579869847557-1f67382cc158?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzbWFydHBob25lJTIwc2NyZWVuJTIwZGlnaXRhbCUyMHRyZW5kcyUyMHNvY2lhbCUyMG1lZGlhfGVufDF8MHx8fDE3ODIxNDQ3NTB8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Digital Distraction Plateau",
+          "body": "The digital invasion of attention might be stalling. We've possibly passed peak social media, as app usage declines. People are even paying for tech that limits phone functionality, indicating a desire to escape digital overload.",
+          "tags": [
+            "digital trends",
+            "social media",
+            "technology"
+          ]
+        },
+        {
+          "id": "deck_240c32d24c12_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzdGFjayUyMG9mJTIwYm9va3MlMjBib29rJTIwbG9uZ2V2aXR5JTIwdGVjaG5vbG9neXxlbnwxfDB8fHwxNzgyMTQ0NzUzfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Enduring Appeal of Books",
+          "body": "Books have survived major technological disruptions\u2014radio, TV, internet\u2014suggesting a lasting human desire for text. This 'Lindy' effect implies that books, being long-lasting, are likely to persist even longer.",
+          "tags": [
+            "book longevity",
+            "technology",
+            "human behavior"
+          ]
+        },
+        {
+          "id": "deck_240c32d24c12_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1655923478826-ef7c2d40820e?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwc2NyaXB0JTIwd3JpdGluZyUyMGtub3dsZWRnZXxlbnwxfDB8fHwxNzgyMTQ0NzU2fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Text's Unique Power",
+          "body": "Writing pins facts in place, preserving knowledge and enabling complex reasoning. This foundational role of text in intellectual work underscores its irreplaceable nature in the world of ideas.",
+          "tags": [
+            "writing",
+            "knowledge",
+            "intellectual work"
+          ]
+        },
+        {
+          "id": "deck_240c32d24c12_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxoaXN0b3JpYyUyMGJvb2slMjBtb3ZlbWVudHMlMjBib29rc3xlbnwxfDB8fHwxNzgyMTQ0NzU5fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Books at the Core of Movements",
+          "body": "At the heart of every long-lived movement is a book\u2014like the 'Communist Manifesto' or 'Silent Spring'. Even in a digital age, books remain central to shaping and spreading ideas.",
+          "tags": [
+            "movements",
+            "books",
+            "cultural impact"
+          ]
+        },
+        {
+          "id": "deck_240c32d24c12_card_6",
+          "imageUrl": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxodW1hbiUyMGJyYWluJTIwaHVtYW4lMjBuYXR1cmUlMjBwbGVhc3VyZXxlbnwxfDB8fHwxNzgyMTQ0NzYyfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Complexity of Human Desires",
+          "body": "Human desires are complex, making them hard to quench or hack. This complexity is why people still seek deep pleasures, like reading, over cheap digital distractions.",
+          "tags": [
+            "human nature",
+            "pleasure",
+            "reading"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_6b686e5051d2",
+      "title": "Overcoming Social Awkwardness",
+      "description": "Transform awkwardness into social ease.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/how-to-be-less-awkward",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 06 Jan 2026 16:45:44 GMT",
+        "category": [
+          "Psychology",
+          "Self-Improvement"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:43:12.381756",
+        "updatedAt": "2026-06-22T21:43:12.381771"
+      },
+      "cards": [
+        {
+          "id": "deck_6b686e5051d2_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjB0YWxraW5nJTIwcHN5Y2hvbG9neSUyMHNvY2lhbCUyMHNraWxsc3xlbnwxfDB8fHwxNzgyMTQ0Nzc5fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Awkwardness Illusion",
+          "body": "Many people feel they are awkward, yet studies show their conversations often go well. This misperception can lead to unnecessary self-blame and anxiety. Recognizing this illusion can help you approach interactions with more confidence.",
+          "tags": [
+            "psychology",
+            "social skills",
+            "self-awareness"
+          ]
+        },
+        {
+          "id": "deck_6b686e5051d2_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1536010305525-f7aa0834e2c7?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjb25maWRlbnQlMjBwZXJzb24lMjBjb25maWRlbmNlJTIwc29jaWFsJTIwc2tpbGxzfGVufDF8MHx8fDE3ODIxNDQ3ODF8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Own Your Blunders",
+          "body": "Trying to cover up awkward moments often worsens them. Instead, own your mistakes. Apologize if needed, but don't overcompensate. This approach projects confidence and can turn awkwardness into charm.",
+          "tags": [
+            "confidence",
+            "social skills",
+            "mistakes"
+          ]
+        },
+        {
+          "id": "deck_6b686e5051d2_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1590650046871-92c887180603?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjBpbnRlcmFjdGluZyUyMG1pbmRmdWxuZXNzJTIwc29jaWFsJTIwc2tpbGxzfGVufDF8MHx8fDE3ODIxNDQ3ODR8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Turn Attention Outward",
+          "body": "Excessive self-awareness can lead to social awkwardness. Shift focus outward by engaging with others' stories and actions. This reduces self-consciousness and enhances your social interactions.",
+          "tags": [
+            "mindfulness",
+            "social skills",
+            "self-awareness"
+          ]
+        },
+        {
+          "id": "deck_6b686e5051d2_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1600427652630-f97cc4db10cd?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxncm91cCUyMGNvbnZlcnNhdGlvbiUyMHNvY2lhbCUyMGFueGlldHklMjBleHBvc3VyZSUyMHRoZXJhcHl8ZW58MXwwfHx8MTc4MjE0NDc4N3ww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Face People-Phobia",
+          "body": "People-phobia is fear of social rejection, yet most interactions are positive. Regular exposure to social situations and reflecting on them can recalibrate your expectations and reduce anxiety.",
+          "tags": [
+            "social anxiety",
+            "exposure therapy",
+            "confidence"
+          ]
+        },
+        {
+          "id": "deck_6b686e5051d2_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1659080908311-44ce00233603?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzaHJ1Z2dpbmclMjBzb2NpYWwlMjBza2lsbHMlMjBhY2NlcHRhbmNlfGVufDF8MHx8fDE3ODIxNDQ3OTB8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Embrace Your Social Clumsiness",
+          "body": "Social clumsiness is like a low charisma stat in a game. While there's no cure, managing it involves accepting your quirks and asking others to meet you halfway, like sharing dietary restrictions.",
+          "tags": [
+            "social skills",
+            "acceptance",
+            "quirks"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_d9e23be2010b",
+      "title": "Acceptable Suffering Ratios",
+      "description": "Explore how much suffering is worth enduring for rewards.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/the-drug-that-taught-me-how-much",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 09 Dec 2025 17:46:17 GMT",
+        "category": [
+          "self-improvement",
+          "psychology"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:43:49.336831",
+        "updatedAt": "2026-06-22T21:43:49.336859"
+      },
+      "cards": [
+        {
+          "id": "deck_d9e23be2010b_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1446511437394-36cdff3ae1b3?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjB0aGlua2luZyUyMHNlbGYtYXdhcmVuZXNzJTIwZGVjaXNpb24tbWFraW5nfGVufDF8MHx8fDE3ODIxNDQ4MTJ8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "What is Your Suffering Threshold?",
+          "body": "Everyone unknowingly questions their Acceptable Suffering Ratio: how much hardship you're willing to tolerate for a desired outcome. Identifying this threshold helps make informed life decisions.",
+          "tags": [
+            "self-awareness",
+            "decision-making",
+            "personal-growth"
+          ]
+        },
+        {
+          "id": "deck_d9e23be2010b_card_1",
+          "imageUrl": "",
+          "heading": "Accutane: A Personal Experiment",
+          "body": "The author shares his experience with Accutane, a drug with severe side effects, to cure his acne. This personal trial helped him realize the value of suffering for a significant reward: a lifetime of clear skin.",
+          "tags": [
+            "personal-story",
+            "health",
+            "medication"
+          ]
+        },
+        {
+          "id": "deck_d9e23be2010b_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1728246950524-4b88d0c923c3?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxteXRob2xvZ3klMjBoZXJvJTIwbXl0aG9sb2d5JTIwZWZmb3J0LXJld2FyZHxlbnwxfDB8fHwxNzgyMTQ0ODE4fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Sisyphus vs. Hercules: Myths of Suffering",
+          "body": "Many people live like Sisyphus, in futile suffering, rather than like Hercules, where heroic efforts lead to great rewards. Align your efforts with meaningful outcomes, not endless toil.",
+          "tags": [
+            "mythology",
+            "effort-reward",
+            "mindset"
+          ]
+        },
+        {
+          "id": "deck_d9e23be2010b_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjBvYnNlcnZpbmclMjBzdHJhdGVneSUyMGxlYXJuaW5nfGVufDF8MHx8fDE3ODIxNDQ4MjF8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Art of Surrogation",
+          "body": "Surrogation involves observing others who have pursued similar paths to determine if the effort is worthwhile. It's a strategic way to avoid unnecessary suffering by learning from others' experiences.",
+          "tags": [
+            "strategy",
+            "learning",
+            "observation"
+          ]
+        },
+        {
+          "id": "deck_d9e23be2010b_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1503095396549-807759245b35?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxpbXByb3YlMjBzdGFnZSUyMGltYWdpbmF0aW9uJTIwY3JlYXRpdml0eXxlbnwxfDB8fHwxNzgyMTQ0ODI0fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Lessons from Improv",
+          "body": "Even in imaginative settings like improv, people create scenarios of suffering. This tendency reflects our deep-seated relationship with hardships, suggesting a need to consciously choose joy over struggle.",
+          "tags": [
+            "imagination",
+            "creativity",
+            "psychology"
+          ]
+        },
+        {
+          "id": "deck_d9e23be2010b_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1612170153139-6f881ff067e0?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwZXhwZXJpbWVudCUyMGV4cGVyaW1lbnRzJTIwYmVoYXZpb3J8ZW58MXwwfHx8MTc4MjE0NDgyN3ww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Chickens and the Hershberger Experiment",
+          "body": "An experiment with chicks showed that sometimes the best way to reach a goal is counterintuitive. Walking away from the obvious path may lead to success, challenging our instinctual responses.",
+          "tags": [
+            "experiments",
+            "behavior",
+            "counterintuitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_68c22423c275",
+      "title": "Brainy vs Folksy Dynamics",
+      "description": "Explore the balance of intellect and accessibility.",
+      "gradientColors": [
+        "#A855F7",
+        "#6B21A8"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/secrets-of-the-ancient-memelords",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 25 Nov 2025 19:17:23 GMT",
+        "category": [
+          "Culture",
+          "Religion",
+          "Politics"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:44:22.885938",
+        "updatedAt": "2026-06-22T21:44:22.885981"
+      },
+      "cards": [
+        {
+          "id": "deck_68c22423c275_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1622598453695-4fbaf151aadc?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjaHVyY2glMjBjb25ncmVnYXRpb24lMjByZWxpZ2lvbiUyMGN1bHR1cmV8ZW58MXwwfHx8MTc4MjE0NDg0Nnww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Dual Nature of Religions",
+          "body": "Successful religions often have both 'brainy' and 'folksy' versions. The brainy aspect appeals to intellectuals and helps build institutions, while the folksy version keeps the religion accessible to the masses. This duality is crucial for maintaining a strong and unified belief system.",
+          "tags": [
+            "religion",
+            "culture",
+            "society"
+          ]
+        },
+        {
+          "id": "deck_68c22423c275_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzY2FsZXMlMjBvZiUyMGp1c3RpY2UlMjBiYWxhbmNlJTIwc3RhYmlsaXR5fGVufDF8MHx8fDE3ODIxNDQ4NDl8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Importance of Balance",
+          "body": "A religion or ideology risks instability if it leans too far toward either intellectualism or populism. Too much focus on the brainy side can lead to esoteric debates, while too much folksiness can result in superstition. Both sides need each other to maintain balance.",
+          "tags": [
+            "balance",
+            "stability",
+            "ideology"
+          ]
+        },
+        {
+          "id": "deck_68c22423c275_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1725185358461-468a1d409063?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxmcmFjdGFsJTIwcGF0dGVybiUyMGJlbGllZnMlMjBjb25zaXN0ZW5jeXxlbnwxfDB8fHwxNzgyMTQ0ODUyfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Fractal Beliefs Explained",
+          "body": "Fractal beliefs mean that as you delve deeper into a religion or ideology, the core ideas remain consistent. This consistency across different levels of understanding helps maintain unity among followers, regardless of their depth of commitment or knowledge.",
+          "tags": [
+            "beliefs",
+            "consistency",
+            "unity"
+          ]
+        },
+        {
+          "id": "deck_68c22423c275_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1665679933754-464294628049?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxmbGV4aWJsZSUyMGJyYW5jaCUyMGFkYXB0YWJpbGl0eSUyMGZsZXhpYmlsaXR5fGVufDF8MHx8fDE3ODIxNDQ4NTV8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Memetic Flexibility in Beliefs",
+          "body": "Memetic flexibility allows ideologies to adapt to various contexts while keeping core tenets intact. For example, the Bible includes four gospels to cater to different audiences, providing flexibility without altering the fundamental beliefs.",
+          "tags": [
+            "adaptability",
+            "flexibility",
+            "belief systems"
+          ]
+        },
+        {
+          "id": "deck_68c22423c275_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1668706971199-37e30a4e6298?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwb2xpdGljYWwlMjBkZWJhdGUlMjBwb2xpdGljcyUyMHN0cmF0ZWd5fGVufDF8MHx8fDE3ODIxNDQ4NTh8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Politics: Learning from Religions",
+          "body": "Political movements could benefit from the strategies of major religions. By integrating both brainy and folksy elements, politics can become more inclusive and effective, bridging the cultural divide and enhancing cohesion.",
+          "tags": [
+            "politics",
+            "strategy",
+            "inclusivity"
+          ]
+        },
+        {
+          "id": "deck_68c22423c275_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1769276029529-48eca533bbfb?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzaW1wbGUlMjBkZXNpZ24lMjBjb21tdW5pY2F0aW9uJTIwc2ltcGxpY2l0eXxlbnwxfDB8fHwxNzgyMTQ0ODYwfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Challenging the Brainy Bias",
+          "body": "Brainy individuals often prefer complex arguments, but simplifying ideas without losing their essence can make them more accessible. This approach could help in spreading ideas more effectively across diverse audiences.",
+          "tags": [
+            "communication",
+            "simplicity",
+            "inclusivity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_95db5f22047a",
+      "title": "The Decline of Deviance",
+      "description": "Exploring why society is less deviant.",
+      "gradientColors": [
+        "#A855F7",
+        "#6B21A8"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/the-decline-of-deviance",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 28 Oct 2025 15:21:32 GMT",
+        "category": [
+          "Society",
+          "Culture",
+          "Trends"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:45:09.446324",
+        "updatedAt": "2026-06-22T21:45:09.446364"
+      },
+      "cards": [
+        {
+          "id": "deck_95db5f22047a_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1513906029980-32d13afe6d8c?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx0ZWVuYWdlcnMlMjBzbWlsaW5nJTIwdGVlbiUyMGJlaGF2aW9yJTIwY3VsdHVyYWwlMjBzaGlmdHxlbnwxfDB8fHwxNzgyMTQ0ODkzfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Teens Behave Better Now",
+          "body": "Compared to previous generations, today's teens are less likely to engage in risky behaviors like drinking, smoking, or drug use. For example, teenage pregnancy has plummeted since the 1990s, and even vaping has declined since 2015. This trend suggests a significant cultural shift towards more cautious and conservative behavior.",
+          "tags": [
+            "teen behavior",
+            "cultural shift",
+            "safety"
+          ]
+        },
+        {
+          "id": "deck_95db5f22047a_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1506426305266-2b7e740fd828?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjaXR5JTIwc3RyZWV0JTIwYXQlMjBuaWdodCUyMGNyaW1lJTIwcmF0ZXMlMjBzdGFiaWxpdHl8ZW58MXwwfHx8MTc4MjE0NDg5NXww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Crime Rates Are Dropping",
+          "body": "Crime rates have fallen by half in the past thirty years, and even serial killing is on the decline. Interestingly, people are also moving less, with the typical adult living only 18 miles from their mother. These trends point to a more stable and less deviant society.",
+          "tags": [
+            "crime rates",
+            "stability",
+            "safety"
+          ]
+        },
+        {
+          "id": "deck_95db5f22047a_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1668890094751-6986d0ca9dfc?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxtb3ZpZSUyMHRoZWF0ZXIlMjBzZWF0cyUyMGFydCUyMGN1bHR1cmV8ZW58MXwwfHx8MTc4MjE0NDg5OHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Art and Culture Stagnate",
+          "body": "Popular art forms have become more oligopolistic, with fewer artists and franchises dominating the market. For instance, 75% of top-grossing movies now are sequels or spin-offs. This cultural stagnation is also reflected in music and literature, where novelty seems rare.",
+          "tags": [
+            "art",
+            "culture",
+            "stagnation"
+          ]
+        },
+        {
+          "id": "deck_95db5f22047a_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1657812159077-90649115008c?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXNpZ24lMjBzY3JlZW5zaG90JTIwaW50ZXJuZXQlMjBob21vZ2VuaXphdGlvbnxlbnwxfDB8fHwxNzgyMTQ0OTAxfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Internet's Homogenization",
+          "body": "Once a diverse and quirky space, the internet now features uniform aesthetics and content. Websites, social media profiles, and video content have converged into a similar look and feel, losing much of their previous individuality and creativity.",
+          "tags": [
+            "internet",
+            "homogenization",
+            "creativity"
+          ]
+        },
+        {
+          "id": "deck_95db5f22047a_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzY2llbnRpZmljJTIwam91cm5hbCUyMHNjaWVuY2UlMjBpbm5vdmF0aW9ufGVufDF8MHx8fDE3ODIxNDQ5MDR8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Science's Slowing Innovation",
+          "body": "Scientific progress appears to be slowing, with fewer groundbreaking discoveries being made. The standardization of scientific writing may contribute to this trend, as it constrains creative and divergent thinking necessary for innovation.",
+          "tags": [
+            "science",
+            "innovation",
+            "progress"
+          ]
+        },
+        {
+          "id": "deck_95db5f22047a_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1623944889288-cd147dbb517c?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxmYW1pbHklMjBwaWNuaWMlMjBzYWZldHklMjB3ZWxsLWJlaW5nfGVufDF8MHx8fDE3ODIxNDQ5MDd8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Life's Increasing Safety",
+          "body": "As life becomes safer and more comfortable, people adopt a 'slow life history strategy', focusing on longevity and well-being. This shift results in less risky and more cautious behavior, possibly explaining the decline in deviance.",
+          "tags": [
+            "safety",
+            "well-being",
+            "longevity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_f27c0df6c265",
+      "title": "Mind Tricks Unveiled",
+      "description": "Explore cognitive illusions by Kahneman & Tversky.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/bamboozle-me-daddy",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 14 Oct 2025 15:48:04 GMT",
+        "category": [
+          "Psychology",
+          "Cognitive Science"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:45:38.051737",
+        "updatedAt": "2026-06-22T21:45:38.051777"
+      },
+      "cards": [
+        {
+          "id": "deck_f27c0df6c265_card_0",
+          "imageUrl": "",
+          "heading": "Kahneman & Tversky's Legacy",
+          "body": "Daniel Kahneman and Amos Tversky transformed psychology with their pioneering work on cognitive biases. Their research laid the foundation for fields like behavioral economics and decision-making, influencing countless studies over decades.",
+          "tags": [
+            "Kahneman",
+            "Tversky",
+            "psychology"
+          ]
+        },
+        {
+          "id": "deck_f27c0df6c265_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1597392582469-a697322d5c16?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx3b3JkcyUyMGlsbHVzdHJhdGlvbiUyMGNvZ25pdGl2ZSUyMGJpYXMlMjBSLXdvcmR8ZW58MXwwfHx8MTc4MjE0NDkyN3ww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The R-Word Bamboozle",
+          "body": "Quick: Are there more words starting with 'R' or with 'R' as the third letter? Most people guess the former due to ease of recall, but the truth is, there are more with 'R' in the third position. This reveals how our brains estimate frequency based on ease, not accuracy.",
+          "tags": [
+            "cognitive bias",
+            "R-word",
+            "psychology"
+          ]
+        },
+        {
+          "id": "deck_f27c0df6c265_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1638727764774-089a863f9c34?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxvcHRpY2FsJTIwaWxsdXNpb24lMjBjb2duaXRpdmUlMjBpbGx1c2lvbiUyMG1pbmQlMjB0cmlja3N8ZW58MXwwfHx8MTc4MjE0NDkzMHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Cognitive Illusions Explained",
+          "body": "Kahneman and Tversky's 'trick questions' uncover how our minds make errors. Like visual illusions for the brain, these cognitive illusions demonstrate the gap between intuition and reality, offering insights into our thought processes.",
+          "tags": [
+            "cognitive illusion",
+            "mind tricks",
+            "psychology"
+          ]
+        },
+        {
+          "id": "deck_f27c0df6c265_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxicmFpbiUyMGdlYXJzJTIwaW50dWl0aW9uJTIwZGVjaXNpb24tbWFraW5nfGVufDF8MHx8fDE3ODIxNDQ5MzN8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Genius of Intuition",
+          "body": "Their experiments showed that intuitive answers often lead us astray. The key insight: our minds use shortcuts that work most of the time but can fail in predictable ways. Understanding these patterns can help us make better decisions.",
+          "tags": [
+            "intuition",
+            "decision-making",
+            "shortcuts"
+          ]
+        },
+        {
+          "id": "deck_f27c0df6c265_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1761398601374-490e91b95818?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxtYWdpYyUyMGhhdCUyMHJlZGlzY292ZXJ5JTIwbWFnaWN8ZW58MXwwfHx8MTc4MjE0NDkzNXww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Rediscovering the Magic",
+          "body": "The article aims to bring back the wonder of Kahneman and Tversky's insights by revisiting their impactful work and exploring new 'bamboozles' that challenge our overconfidence and assumptions.",
+          "tags": [
+            "rediscovery",
+            "magic",
+            "psychology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_910a3630f47e",
+      "title": "Embrace Good Annoyance",
+      "description": "Annoyance fuels passion and purpose.",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/thank-you-for-being-annoying",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 30 Sep 2025 14:35:46 GMT",
+        "category": [
+          "Personal Development",
+          "Career Advice"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:46:10.015384",
+        "updatedAt": "2026-06-22T21:46:10.015422"
+      },
+      "cards": [
+        {
+          "id": "deck_910a3630f47e_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1730804518415-75297e8d2a41?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwdXp6bGUlMjBwaWVjZXMlMjBtaXNtYXRjaCUyMGNhcmVlciUyMG1vdGl2YXRpb258ZW58MXwwfHx8MTc4MjE0NDk1M3ww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Myth of Loving Work",
+          "body": "We tell kids to 'do what you love,' but loving something doesn't mean perpetual bliss. It often means being annoyed in a way that keeps you engaged and motivated. This realization can help you choose a career that challenges and fulfills you.",
+          "tags": [
+            "career",
+            "motivation",
+            "myth"
+          ]
+        },
+        {
+          "id": "deck_910a3630f47e_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1516383740770-fbcc5ccbece0?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxtb3RpdmF0ZWQlMjB3b3JrZXIlMjBtb3RpdmF0aW9uJTIwcHN5Y2hvbG9neXxlbnwxfDB8fHwxNzgyMTQ0OTU2fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Annoyance as Motivation",
+          "body": "Annoyance isn't always bad. It can be a motivator that compels us to solve problems and improve situations. This 'good annoyance' is what keeps people returning to their work, striving to make things better.",
+          "tags": [
+            "motivation",
+            "psychology",
+            "work"
+          ]
+        },
+        {
+          "id": "deck_910a3630f47e_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1622566359362-539a508d6af5?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxmYW1vdXMlMjBwZW9wbGUlMjBhbm5veWVkJTIwc3VjY2VzcyUyMGZydXN0cmF0aW9ufGVufDF8MHx8fDE3ODIxNDQ5NTl8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Famous Frustrations",
+          "body": "Many successful people, from Andre Agassi to Marie Curie, have expressed how their pursuits frustrate them. Yet, these frustrations fuel their dedication and performance, showing that greatness often comes with annoyance.",
+          "tags": [
+            "success",
+            "frustration",
+            "examples"
+          ]
+        },
+        {
+          "id": "deck_910a3630f47e_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxmaXhpbmclMjBwcm9ibGVtcyUyMHBzeWNob2xvZ3klMjBoYXBwaW5lc3N8ZW58MXwwfHx8MTc4MjE0NDk2Mnww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Cycle of Correction",
+          "body": "According to cybernetic psychology, happiness comes from correcting errors. This means that feeling good often requires letting things get out of whack so you can set them right again, making annoyance a key part of motivation.",
+          "tags": [
+            "psychology",
+            "happiness",
+            "correction"
+          ]
+        },
+        {
+          "id": "deck_910a3630f47e_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1461532257246-777de18cd58b?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxoZWxwaW5nJTIwb3RoZXJzJTIwYWx0cnVpc20lMjBraW5kbmVzc3xlbnwxfDB8fHwxNzgyMTQ0OTY1fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Annoyance in Altruism",
+          "body": "Acts of kindness often stem from annoyance. When people help others, it's frequently because they can't stand to see someone struggling. This 'cold prickly' motivation can lead to spontaneous acts of goodwill.",
+          "tags": [
+            "altruism",
+            "kindness",
+            "motivation"
+          ]
+        },
+        {
+          "id": "deck_910a3630f47e_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1501901609772-df0848060b33?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjBhbm5veWVkJTIwaGFwcHklMjBsb3ZlJTIwcmVsYXRpb25zaGlwc3xlbnwxfDB8fHwxNzgyMTQ0OTY3fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Love and Annoyance",
+          "body": "Love isn't just about warm fuzzies. It's about being annoyed in a way that you find engaging. Finding a partner who annoys you just right can lead to a lasting relationship filled with growth and understanding.",
+          "tags": [
+            "love",
+            "relationships",
+            "annoyance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_7b3374bf8e1a",
+      "title": "Illusions & Consciousness",
+      "description": "Explore the necessity of illusions in our lives.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/16/oliver-sacks-illusions/",
+        "author": "Maria Popova",
+        "publishDate": "Tue, 16 Jun 2026 23:15:19 +0000",
+        "category": [
+          "psychology",
+          "philosophy"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:46:37.441716",
+        "updatedAt": "2026-06-22T21:46:37.441750"
+      },
+      "cards": [
+        {
+          "id": "deck_7b3374bf8e1a_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1612012060851-20f943c02d3d?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxiYWxhbmNpbmclMjBzY2FsZXMlMjBkZXRhY2htZW50JTIwZW5nYWdlbWVudHxlbnwxfDB8fHwxNzgyMTQ0OTg2fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Role of Detachment",
+          "body": "Oliver Sacks suggests that detachment is as necessary as engagement in life. It allows us to transcend our immediate surroundings and make our consciousness of time and mortality easier to bear. This balance between engagement and detachment can help us see patterns and find meaning.",
+          "tags": [
+            "detachment",
+            "engagement",
+            "Oliver Sacks"
+          ]
+        },
+        {
+          "id": "deck_7b3374bf8e1a_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1643424975787-f134e78ecbc8?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxtaW5kJTIwYW5kJTIwY2xvY2slMjBjb25zY2lvdXNuZXNzJTIwbWVudGFsJTIwc3RhdGVzfGVufDF8MHx8fDE3ODIxNDQ5ODl8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Altered States of Mind",
+          "body": "We all experience altered states of consciousness naturally. Whether it's the liminal state between wakefulness and sleep or mood changes due to hunger or hormones, these shifts show how consciousness is not static. Understanding this can change how we perceive reality.",
+          "tags": [
+            "consciousness",
+            "mental states",
+            "reality"
+          ]
+        },
+        {
+          "id": "deck_7b3374bf8e1a_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1638727764774-089a863f9c34?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxvcHRpY2FsJTIwaWxsdXNpb24lMjBpbGx1c2lvbnMlMjBldm9sdXRpb258ZW58MXwwfHx8MTc4MjE0NDk5Mnww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Illusions: A Necessary Deception",
+          "body": "Despite seeming like deviations, illusions might serve a critical evolutionary purpose. They allow us to maintain hope, protect our self-image, and navigate relationships. Virginia Woolf even described illusions as valuable and necessary, underscoring their importance in our lives.",
+          "tags": [
+            "illusions",
+            "evolution",
+            "Virginia Woolf"
+          ]
+        },
+        {
+          "id": "deck_7b3374bf8e1a_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1494869042583-f6c911f04b4c?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjbG9zZWQlMjBleWVzJTIwd2lsbGZ1bCUyMGJsaW5kbmVzcyUyMHNlbGYtaW1hZ2V8ZW58MXwwfHx8MTc4MjE0NDk5NXww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Understanding Willful Blindness",
+          "body": "To preserve our mental health, we often engage in willful blindness \u2014 choosing not to see things that threaten our self-image or relationships. This psychological mechanism highlights how our perceptions are tailored to cope with reality.",
+          "tags": [
+            "willful blindness",
+            "self-image",
+            "psychology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_08e40e5f754c",
+      "title": "Layers of Selfhood",
+      "description": "Explore the seven layers of personhood.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/16/amelie-rorty-the-identities-of-persons/",
+        "author": "Maria Popova",
+        "publishDate": "Tue, 16 Jun 2026 19:45:13 +0000",
+        "category": [
+          "Philosophy",
+          "Psychology"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:47:01.593551",
+        "updatedAt": "2026-06-22T21:47:01.593589"
+      },
+      "cards": [
+        {
+          "id": "deck_08e40e5f754c_card_0",
+          "imageUrl": "",
+          "heading": "Character vs. Person",
+          "body": "Characters are defined by traits, while persons are defined by choices. A character is a public persona with repeatable traits, whereas a person is a unified center of choice and action, emphasizing free will and responsibility.",
+          "tags": [
+            "identity",
+            "character",
+            "choice"
+          ]
+        },
+        {
+          "id": "deck_08e40e5f754c_card_1",
+          "imageUrl": "",
+          "heading": "The Role of Free Will",
+          "body": "In Rorty's view, personhood is defined by free will \u2014 the ability to make choices and the responsibility for those choices. This contrasts with characters and figures who do not require a unified source of responsibility.",
+          "tags": [
+            "free will",
+            "responsibility",
+            "personhood"
+          ]
+        },
+        {
+          "id": "deck_08e40e5f754c_card_2",
+          "imageUrl": "",
+          "heading": "Identity and Memory",
+          "body": "Memory plays a crucial role in self-identity. The continuity of the self is established by memory, acting as the final criterion of identity. This notion challenges ideas of alienating memory without losing self.",
+          "tags": [
+            "memory",
+            "identity",
+            "self"
+          ]
+        },
+        {
+          "id": "deck_08e40e5f754c_card_3",
+          "imageUrl": "",
+          "heading": "Presence Beyond Personhood",
+          "body": "Presence, the highest mode of being, transcends achievement and willfulness. It represents attending to experiences without domination, offering a mode of identity beyond imitation or education.",
+          "tags": [
+            "presence",
+            "identity",
+            "being"
+          ]
+        },
+        {
+          "id": "deck_08e40e5f754c_card_4",
+          "imageUrl": "",
+          "heading": "Individual vs. Society",
+          "body": "Individuals resist societal typing and demand rights from society, unlike characters or selves. Their rights are inalienable and focus on developing moral and intellectual gifts outside societal pressures.",
+          "tags": [
+            "individuality",
+            "society",
+            "rights"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_b59b93bc90e4",
+      "title": "Living Through Dying",
+      "description": "Explore the Samurai art of living by embracing mortality.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/15/hakagure-death/",
+        "author": "Maria Popova",
+        "publishDate": "Tue, 16 Jun 2026 03:53:32 +0000",
+        "category": [
+          "Philosophy",
+          "Personal Development"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:47:26.638210",
+        "updatedAt": "2026-06-22T21:47:26.638237"
+      },
+      "cards": [
+        {
+          "id": "deck_b59b93bc90e4_card_0",
+          "imageUrl": "",
+          "heading": "Embrace Mortality for Meaning",
+          "body": "Mortality is central to finding life's meaning. By acknowledging our finite existence, we can live more fully and purposefully. This paradoxical approach is echoed by poets like Rilke, who see death as a means to appreciate the vibrancy and passion of life.",
+          "tags": [
+            "mortality",
+            "meaning",
+            "philosophy"
+          ]
+        },
+        {
+          "id": "deck_b59b93bc90e4_card_1",
+          "imageUrl": "",
+          "heading": "Tsunetomo's Warrior Wisdom",
+          "body": "Yamamoto Tsunetomo, a samurai turned Zen priest, believed that understanding death is key to living well. His teachings suggest that by living as if we were already dead, we achieve freedom and success in our life's calling.",
+          "tags": [
+            "samurai",
+            "zen",
+            "wisdom"
+          ]
+        },
+        {
+          "id": "deck_b59b93bc90e4_card_2",
+          "imageUrl": "",
+          "heading": "Daily Death Meditation",
+          "body": "Tsunetomo advocates for a daily meditation on death, envisioning various forms of demise. This practice is meant to cultivate peace and acceptance of our mortality, leading to a more liberated and present life.",
+          "tags": [
+            "meditation",
+            "daily practice",
+            "mindfulness"
+          ]
+        },
+        {
+          "id": "deck_b59b93bc90e4_card_3",
+          "imageUrl": "",
+          "heading": "Live in the Present Moment",
+          "body": "Tsunetomo highlights the importance of focusing on the present moment, as it is the only time truly ours. By fully engaging with the present, we eliminate the need to chase future goals or past regrets.",
+          "tags": [
+            "present moment",
+            "mindfulness",
+            "philosophy"
+          ]
+        },
+        {
+          "id": "deck_b59b93bc90e4_card_4",
+          "imageUrl": "",
+          "heading": "Thich Nhat Hanh's Reflection",
+          "body": "Zen teacher Thich Nhat Hanh echoes Tsunetomo's insights, suggesting life requires constant renewal through 'dying' to past moments. This cycle of perishing and rebirth is what makes life vibrant and meaningful.",
+          "tags": [
+            "thich nhat hanh",
+            "renewal",
+            "zen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_acf971f46855",
+      "title": "The Power of Wonder",
+      "description": "Explore how wonder enriches life and learning.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/15/hermann-hesse-wonder-butterflies/",
+        "author": "Maria Popova",
+        "publishDate": "Mon, 15 Jun 2026 18:30:33 +0000",
+        "category": [
+          "Philosophy",
+          "Education",
+          "Personal Growth"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:47:51.666811",
+        "updatedAt": "2026-06-22T21:47:51.666849"
+      },
+      "cards": [
+        {
+          "id": "deck_acf971f46855_card_0",
+          "imageUrl": "",
+          "heading": "Wonder Knows No Bounds",
+          "body": "Wonder is a universal experience, found in both the small and vast aspects of the world. From a single leaf to the grandeur of the stars, wonder unites us with nature and transcends ordinary boundaries, offering a profound sense of connection.",
+          "tags": [
+            "wonder",
+            "nature",
+            "connection"
+          ]
+        },
+        {
+          "id": "deck_acf971f46855_card_1",
+          "imageUrl": "",
+          "heading": "Education's True Aim",
+          "body": "Hermann Hesse argued that education should guide us toward wonder and awe, not just factual knowledge. He critiqued traditional education systems for focusing too much on measurement and sobriety instead of fostering a sense of unity and enchantment with the world.",
+          "tags": [
+            "education",
+            "wonder",
+            "Hermann Hesse"
+          ]
+        },
+        {
+          "id": "deck_acf971f46855_card_2",
+          "imageUrl": "",
+          "heading": "The Gift of Wonder",
+          "body": "Rachel Carson believed instilling a sense of wonder in children is vital. This enduring curiosity serves as a powerful antidote against life's disenchantments and keeps the spirit of exploration alive, countering monotony and artificial distractions.",
+          "tags": [
+            "children",
+            "curiosity",
+            "Rachel Carson"
+          ]
+        },
+        {
+          "id": "deck_acf971f46855_card_3",
+          "imageUrl": "",
+          "heading": "Unity Through Wonder",
+          "body": "Experiencing wonder allows us to momentarily escape the world's chaos and enter a realm of unity. This shared experience links us with poets, sages, and the natural world, reinforcing our connection to all living things and nurturing a sense of brotherhood.",
+          "tags": [
+            "unity",
+            "Hermann Hesse",
+            "philosophy"
+          ]
+        },
+        {
+          "id": "deck_acf971f46855_card_4",
+          "imageUrl": "",
+          "heading": "Cultural Conditioning and Wonder",
+          "body": "Despite being born with a natural capacity for wonder, cultural conditioning often dampens it. Hesse laments that our education systems fail to nurture this innate curiosity, focusing instead on rigid structures and segmentation of knowledge.",
+          "tags": [
+            "cultural conditioning",
+            "education",
+            "curiosity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_f2425faaa67d",
+      "title": "The Art of New Beginnings",
+      "description": "Explore the courage and growth in life's new starts.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/14/john-odonohue-blessings-beginnings/",
+        "author": "Maria Popova",
+        "publishDate": "Mon, 15 Jun 2026 00:39:55 +0000",
+        "category": [
+          "personal growth",
+          "philosophy"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:48:17.155794",
+        "updatedAt": "2026-06-22T21:48:17.155835"
+      },
+      "cards": [
+        {
+          "id": "deck_f2425faaa67d_card_0",
+          "imageUrl": "",
+          "heading": "Beginnings Break Stagnation",
+          "body": "Starting something new acts as a spell against stagnation. It's an invitation to reconfigure your life with courage and tenderness. Beginnings open up a symphony of possibilities, challenging patterns and inviting growth.",
+          "tags": [
+            "beginnings",
+            "growth",
+            "courage"
+          ]
+        },
+        {
+          "id": "deck_f2425faaa67d_card_1",
+          "imageUrl": "",
+          "heading": "The Context of Continuity",
+          "body": "Every beginning occurs within the continuity of life's ancient sequence. While beginnings may feel like lonely voyages, they are actually supported by the universe's vast history, offering shelter and energy.",
+          "tags": [
+            "continuity",
+            "history",
+            "support"
+          ]
+        },
+        {
+          "id": "deck_f2425faaa67d_card_2",
+          "imageUrl": "",
+          "heading": "Trust in the Act of Beginning",
+          "body": "John O\u2019Donohue suggests that trusting the act of beginning is key to harvesting life's riches. Risk and openness to new experiences can lead to immense growth and fulfillment.",
+          "tags": [
+            "trust",
+            "risk",
+            "fulfillment"
+          ]
+        },
+        {
+          "id": "deck_f2425faaa67d_card_3",
+          "imageUrl": "",
+          "heading": "Overcoming Homeostasis",
+          "body": "Embracing new beginnings requires overcoming the comfort of homeostasis. Often, preparation is needed, but sometimes taking the leap is the best way to disrupt comfort and embrace change.",
+          "tags": [
+            "change",
+            "comfort",
+            "homeostasis"
+          ]
+        },
+        {
+          "id": "deck_f2425faaa67d_card_4",
+          "imageUrl": "",
+          "heading": "Poetry of New Beginnings",
+          "body": "O\u2019Donohue\u2019s poem 'For a New Beginning' captures the vulnerability and grace of starting anew. It encourages trusting the promise of new paths and embracing adventure with open hearts.",
+          "tags": [
+            "poetry",
+            "vulnerability",
+            "adventure"
+          ]
+        },
+        {
+          "id": "deck_f2425faaa67d_card_5",
+          "imageUrl": "",
+          "heading": "Beginnings in Endings",
+          "body": "Often, endings hold the seeds of new beginnings. Recognizing these opportunities is an act of self-respect and reverence for life, allowing unforeseen possibilities to emerge.",
+          "tags": [
+            "endings",
+            "opportunities",
+            "self-respect"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_1b702b73a056",
+      "title": "Pioneering Octopus Discoveries",
+      "description": "Explore Jeanne Villepreux-Power's groundbreaking marine biology work.",
+      "gradientColors": [
+        "#9F1239",
+        "#7F1D1D"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/14/jeanne-villepreux-power-argonaut/",
+        "author": "Maria Popova",
+        "publishDate": "Sun, 14 Jun 2026 18:03:50 +0000",
+        "category": [
+          "History",
+          "Science",
+          "Women in Science"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:48:49.181635",
+        "updatedAt": "2026-06-22T21:48:49.181664"
+      },
+      "cards": [
+        {
+          "id": "deck_1b702b73a056_card_0",
+          "imageUrl": "",
+          "heading": "The Seamstress's Journey",
+          "body": "Jeanne Villepreux-Power, originally a seamstress, walked over 300 km to Paris for her dream job, overcoming personal challenges to eventually become a pioneering marine biologist. Her journey exemplifies resilience and determination.",
+          "tags": [
+            "Resilience",
+            "Personal Journey",
+            "Inspiration"
+          ]
+        },
+        {
+          "id": "deck_1b702b73a056_card_1",
+          "imageUrl": "",
+          "heading": "Argonauta Argo Mystery",
+          "body": "Known as the paper nautilus, the Argonauta argo fascinated naturalists for centuries. Jeanne Villepreux-Power's research solved the mystery of its shell, proving that the female builds it herself, a feat of natural engineering.",
+          "tags": [
+            "Marine Biology",
+            "Natural History",
+            "Discovery"
+          ]
+        },
+        {
+          "id": "deck_1b702b73a056_card_2",
+          "imageUrl": "",
+          "heading": "First Offshore Research Station",
+          "body": "To study the elusive argonaut, Jeanne Villepreux-Power constructed one of the world's first offshore research stations. Her innovative design allowed her to observe live specimens, a revolutionary approach at the time.",
+          "tags": [
+            "Innovation",
+            "Research Methods",
+            "Marine Biology"
+          ]
+        },
+        {
+          "id": "deck_1b702b73a056_card_3",
+          "imageUrl": "",
+          "heading": "Birth of the Aquarium",
+          "body": "Frustrated by limited observation in the wild, Jeanne designed aquariums to study marine life, laying the groundwork for modern marine biology labs. Her home became a hub for groundbreaking experiments on octopus behavior.",
+          "tags": [
+            "Aquarium",
+            "Scientific Innovation",
+            "Marine Labs"
+          ]
+        },
+        {
+          "id": "deck_1b702b73a056_card_4",
+          "imageUrl": "",
+          "heading": "Unveiling Octopus Intelligence",
+          "body": "Jeanne's experiments demonstrated octopus intelligence, observing their ability to repair shells using biochemical processes and even spare parts. Her work predated modern understandings of animal consciousness.",
+          "tags": [
+            "Animal Intelligence",
+            "Cephalopods",
+            "Scientific Discovery"
+          ]
+        },
+        {
+          "id": "deck_1b702b73a056_card_5",
+          "imageUrl": "",
+          "heading": "Legacy of a Pioneer",
+          "body": "Despite being excluded from formal scientific circles, Jeanne's findings were shared by proxy and recognized across Europe. Her contributions to marine biology and octopus intelligence remain influential.",
+          "tags": [
+            "Scientific Legacy",
+            "Women in Science",
+            "Recognition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_fb364894590e",
+      "title": "Pillars of a Meaningful Life",
+      "description": "Explore humility and curiosity for a fulfilling life.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/13/nick-cave-humility-curiosity/",
+        "author": "Maria Popova",
+        "publishDate": "Sat, 13 Jun 2026 15:53:50 +0000",
+        "category": [
+          "personal development",
+          "philosophy"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:49:08.177131",
+        "updatedAt": "2026-06-22T21:49:08.177146"
+      },
+      "cards": [
+        {
+          "id": "deck_fb364894590e_card_0",
+          "imageUrl": "",
+          "heading": "The Power of Humility",
+          "body": "Humility teaches us that the world isn't divided into good and bad people. Everyone is imperfect, and this understanding fosters tolerance and acceptance, reducing feelings of isolation and threat.",
+          "tags": [
+            "humility",
+            "tolerance",
+            "acceptance"
+          ]
+        },
+        {
+          "id": "deck_fb364894590e_card_1",
+          "imageUrl": "",
+          "heading": "Curiosity as a Tool",
+          "body": "Curiosity turns differences into opportunities for learning. By engaging with those who hold different values, we enrich our understanding and find pleasure in diverse conversations.",
+          "tags": [
+            "curiosity",
+            "learning",
+            "conversation"
+          ]
+        },
+        {
+          "id": "deck_fb364894590e_card_2",
+          "imageUrl": "",
+          "heading": "Life's Ever-Changing Nature",
+          "body": "Nick Cave reminds us that our world has always been bizarre and in flux. Accepting this helps us navigate life's uncertainties with resilience and openness.",
+          "tags": [
+            "change",
+            "resilience",
+            "acceptance"
+          ]
+        },
+        {
+          "id": "deck_fb364894590e_card_3",
+          "imageUrl": "",
+          "heading": "Conversation Enriches Life",
+          "body": "Engaging in conversations, especially with those we disagree with, enhances our relationship with the world. It is a life-embracing pleasure that broadens perspectives.",
+          "tags": [
+            "conversation",
+            "connection",
+            "perspective"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_e945835759fb",
+      "title": "Living Meaningfully",
+      "description": "Insights on how to live life fully and authentically.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/12/hawthorne-life/",
+        "author": "Maria Popova",
+        "publishDate": "Sat, 13 Jun 2026 03:21:44 +0000",
+        "category": [
+          "Philosophy",
+          "Personal Development"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:49:32.017850",
+        "updatedAt": "2026-06-22T21:49:32.017868"
+      },
+      "cards": [
+        {
+          "id": "deck_e945835759fb_card_0",
+          "imageUrl": "",
+          "heading": "Tycho Brahe's Legacy",
+          "body": "Tycho Brahe, on his deathbed, feared living in vain. Yet, his astronomical tables led to Kepler's laws of planetary motion. This teaches us that the value of life isn't just in what we leave behind, but in how we live it daily, with integrity and creativity.",
+          "tags": [
+            "legacy",
+            "integrity",
+            "creativity"
+          ]
+        },
+        {
+          "id": "deck_e945835759fb_card_1",
+          "imageUrl": "",
+          "heading": "Hawthorne's Life Lessons",
+          "body": "Nathaniel Hawthorne, known for his introspective nature, believed that everyone has a unique role in the world. He emphasized finding one's own path and warned against living by society's templates, urging us to trust our true selves.",
+          "tags": [
+            "self-discovery",
+            "individuality",
+            "authenticity"
+          ]
+        },
+        {
+          "id": "deck_e945835759fb_card_2",
+          "imageUrl": "",
+          "heading": "The Waste of Mind",
+          "body": "Hawthorne cautioned against wasting mental energy on trivial pursuits, suggesting that meaningful engagement and learning are antidotes to mindless consumption. This insight highlights the importance of challenging oneself intellectually.",
+          "tags": [
+            "mental health",
+            "learning",
+            "mindfulness"
+          ]
+        },
+        {
+          "id": "deck_e945835759fb_card_3",
+          "imageUrl": "",
+          "heading": "Embrace Idle Moments",
+          "body": "Hawthorne found value in periods of 'idleness,' like gardening or walking, which might seem unproductive. These moments, he argued, are essential for nurturing the spirit and fostering creativity, challenging the productivity-obsessed culture.",
+          "tags": [
+            "creativity",
+            "leisure",
+            "mindfulness"
+          ]
+        },
+        {
+          "id": "deck_e945835759fb_card_4",
+          "imageUrl": "",
+          "heading": "The Importance of Spirit",
+          "body": "Hawthorne believed the spirit animates life's essence, and nurturing it often involves activities that seem wasteful on the surface. This view encourages us to appreciate activities like daydreaming and strolling as vital to personal growth.",
+          "tags": [
+            "spirituality",
+            "well-being",
+            "personal growth"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_3909f472fb8e",
+      "title": "The Wonder of Birds",
+      "description": "Explore birds through science and poetry.",
+      "gradientColors": [
+        "#16A34A",
+        "#14532D"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/11/book-of-birds-macfarlane-morris/",
+        "author": "Maria Popova",
+        "publishDate": "Thu, 11 Jun 2026 17:42:23 +0000",
+        "category": [
+          "Nature",
+          "Poetry",
+          "Science"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:50:03.689199",
+        "updatedAt": "2026-06-22T21:50:03.689215"
+      },
+      "cards": [
+        {
+          "id": "deck_3909f472fb8e_card_0",
+          "imageUrl": "",
+          "heading": "Birds: Beyond the Facts",
+          "body": "While science explains how birds fly and what they dream, the essence of their spirit is captured only through love and poetry. Emily Dickinson and Robert Macfarlane remind us that poetic truth is as vital as scientific fact.",
+          "tags": [
+            "poetry",
+            "science",
+            "essence"
+          ]
+        },
+        {
+          "id": "deck_3909f472fb8e_card_1",
+          "imageUrl": "",
+          "heading": "The Indestructible Wonder",
+          "body": "Rachel Carson emphasized that wonder, not just knowledge, is key to preserving nature. Despite scientific advances, three billion birds have vanished. It's love and wonder that drive meaningful conservation efforts.",
+          "tags": [
+            "wonder",
+            "conservation",
+            "Rachel Carson"
+          ]
+        },
+        {
+          "id": "deck_3909f472fb8e_card_2",
+          "imageUrl": "",
+          "heading": "Birds as Storytellers",
+          "body": "Birds are more than creatures; they are our place-makers and memory-keepers, connecting earth to sky and country to country. They influence language, beauty, and imagination, stitching the world together.",
+          "tags": [
+            "storytelling",
+            "connection",
+            "imagination"
+          ]
+        },
+        {
+          "id": "deck_3909f472fb8e_card_3",
+          "imageUrl": "",
+          "heading": "Seven Wonders of Birds",
+          "body": "Explore the seven wonders of the bird world: Nest, Egg, Beak, Song, Feather, Flight, and Migration. Each represents a blend of scientific marvel and spiritual awe, inviting us to deeper appreciation.",
+          "tags": [
+            "wonders",
+            "birds",
+            "appreciation"
+          ]
+        },
+        {
+          "id": "deck_3909f472fb8e_card_4",
+          "imageUrl": "",
+          "heading": "Noticing Leads to Action",
+          "body": "Noticing birds is the first step toward naming and understanding them. This knowledge fosters wonder, which leads to care and action. It's a fragile chain, requiring continuous reforging through love.",
+          "tags": [
+            "action",
+            "awareness",
+            "environment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_ad3b903cd185",
+      "title": "The Nature of Love",
+      "description": "Explore the transformative journey of love.",
+      "gradientColors": [
+        "#F43F5E",
+        "#881337"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/08/robert-louis-stevenson-love/",
+        "author": "Maria Popova",
+        "publishDate": "Mon, 08 Jun 2026 23:16:33 +0000",
+        "category": [
+          "Relationships",
+          "Philosophy"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:50:23.362674",
+        "updatedAt": "2026-06-22T21:50:23.362700"
+      },
+      "cards": [
+        {
+          "id": "deck_ad3b903cd185_card_0",
+          "imageUrl": "",
+          "heading": "The Dual Nature of Love",
+          "body": "Love's roots, 'patience' and 'passion', derive from the Latin 'p\u0101ti', meaning 'to suffer'. This reflects the dual nature of love as both joy and potential pain, a concept familiar to anyone who has loved deeply.",
+          "tags": [
+            "love",
+            "etymology",
+            "duality"
+          ]
+        },
+        {
+          "id": "deck_ad3b903cd185_card_1",
+          "imageUrl": "",
+          "heading": "Love's Astonishing Impact",
+          "body": "Robert Louis Stevenson describes falling in love as an 'illogical adventure' that shakes us out of our preconceived notions and expectations, leaving us disoriented yet filled with supreme pleasure in all aspects of life.",
+          "tags": [
+            "love",
+            "philosophy",
+            "Robert Louis Stevenson"
+          ]
+        },
+        {
+          "id": "deck_ad3b903cd185_card_2",
+          "imageUrl": "",
+          "heading": "The Unwilled Nature of Love",
+          "body": "According to Stevenson, love cannot be willed or achieved through merit. It blindsides us, often resulting from chance encounters that turn ordinary people into the center of our universe.",
+          "tags": [
+            "love",
+            "destiny",
+            "chance"
+          ]
+        },
+        {
+          "id": "deck_ad3b903cd185_card_3",
+          "imageUrl": "",
+          "heading": "Sustaining Love Beyond the Fall",
+          "body": "Stevenson suggests that to maintain love, truth and sincerity are essential. He emphasizes 'veracity to sentiment' as the foundation for enduring relationships, echoing later thoughts by Adrienne Rich on love as a process of refining shared truths.",
+          "tags": [
+            "truth",
+            "sincerity",
+            "lasting love"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_b69f29d01adb",
+      "title": "AI and Scientific Images",
+      "description": "Explore AI's impact on scientific credibility.",
+      "gradientColors": [
+        "#5B21B6",
+        "#1E3A8A"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/anyone-can-fake-a-scientific-image-with-ai-tricking-even-academic-journals-and-undermining-trust-in-science-281853",
+        "author": "Nan Li, Associate Professor of Science Communication, University of Wisconsin-Madison",
+        "publishDate": "2026-06-22T12:36:17Z",
+        "category": [
+          "Science Communication",
+          "Artificial Intelligence"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:50:46.847455",
+        "updatedAt": "2026-06-22T21:50:46.847486"
+      },
+      "cards": [
+        {
+          "id": "deck_b69f29d01adb_card_0",
+          "imageUrl": "",
+          "heading": "AI's Role in Science Images",
+          "body": "AI tools are increasingly used to generate, edit, and enhance scientific images, blurring the line between genuine observation and fabrication. This shift challenges the credibility of scientific visuals.",
+          "tags": [
+            "AI",
+            "Science",
+            "Credibility"
+          ]
+        },
+        {
+          "id": "deck_b69f29d01adb_card_1",
+          "imageUrl": "",
+          "heading": "Trust Crisis in Science",
+          "body": "AI-generated images contribute to a crisis of trust in science by making it difficult to discern authentic visuals from fabricated ones, undermining public confidence in scientific evidence.",
+          "tags": [
+            "Trust",
+            "Science",
+            "AI"
+          ]
+        },
+        {
+          "id": "deck_b69f29d01adb_card_2",
+          "imageUrl": "",
+          "heading": "Detection Challenges",
+          "body": "AI-detection systems struggle to keep up with new AI models. This lag means that fake images can often evade detection, posing risks to fields reliant on visual evidence.",
+          "tags": [
+            "AI Detection",
+            "Challenges",
+            "Science"
+          ]
+        },
+        {
+          "id": "deck_b69f29d01adb_card_3",
+          "imageUrl": "",
+          "heading": "The Importance of Transparency",
+          "body": "Researchers are encouraged to disclose the provenance of scientific images, including any AI involvement, to maintain credibility and trust in their work.",
+          "tags": [
+            "Transparency",
+            "Science",
+            "AI"
+          ]
+        },
+        {
+          "id": "deck_b69f29d01adb_card_4",
+          "imageUrl": "",
+          "heading": "Impact of Authentic Images",
+          "body": "Authentic scientific images like the Apollo 8 'Earthrise' photo carry significant emotional and scientific value due to their traceable connection to reality.",
+          "tags": [
+            "Authenticity",
+            "Science",
+            "Images"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_c96f8a02456c",
+      "title": "Idaho's Immigration Insights",
+      "description": "Uncover Idaho's unique stance on farm labor.",
+      "gradientColors": [
+        "#A855F7",
+        "#6B21A8"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/in-deep-red-idaho-even-republicans-break-with-trump-on-farm-labor-281626",
+        "author": "Rebecca Som Castellano, Director of Human-Environment Systems and Professor of Sociology, Boise State University",
+        "publishDate": "2026-06-22T12:35:59Z",
+        "category": [
+          "Immigration",
+          "Agriculture",
+          "Public Opinion"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:51:10.206340",
+        "updatedAt": "2026-06-22T21:51:10.206375"
+      },
+      "cards": [
+        {
+          "id": "deck_c96f8a02456c_card_0",
+          "imageUrl": "",
+          "heading": "Idaho's Reliance on Immigrants",
+          "body": "Idaho's agriculture, particularly its dairy industry, heavily depends on immigrant labor, with 90% of dairy workers being foreign-born. This reliance highlights the critical role of immigrants in sustaining local economies.",
+          "tags": [
+            "Idaho",
+            "Immigrant Labor",
+            "Dairy Industry"
+          ]
+        },
+        {
+          "id": "deck_c96f8a02456c_card_1",
+          "imageUrl": "",
+          "heading": "Public Opinion Diverges",
+          "body": "Despite national rhetoric, 85% of Idahoans support a pathway to legal status for long-term immigrant workers. This includes 79% of Republicans, showing a significant departure from typical party-line immigration views.",
+          "tags": [
+            "Public Opinion",
+            "Pathway to Citizenship",
+            "Bipartisan Support"
+          ]
+        },
+        {
+          "id": "deck_c96f8a02456c_card_2",
+          "imageUrl": "",
+          "heading": "ICE Presence and Economy",
+          "body": "In Idaho, 53% believe increased ICE presence would harm the agricultural economy. This sentiment is especially strong in agriculture-dependent regions, suggesting local economic needs may override federal policies.",
+          "tags": [
+            "ICE Impact",
+            "Economic Concerns",
+            "Local Economy"
+          ]
+        },
+        {
+          "id": "deck_c96f8a02456c_card_3",
+          "imageUrl": "",
+          "heading": "Nuance Beyond Party Lines",
+          "body": "Research shows Idaho's immigration views are more nuanced than the typical right-left divide, with local dependency on immigrant labor influencing opinions across political affiliations.",
+          "tags": [
+            "Nuanced Views",
+            "Political Affiliation",
+            "Labor Dependency"
+          ]
+        },
+        {
+          "id": "deck_c96f8a02456c_card_4",
+          "imageUrl": "",
+          "heading": "Agriculture's National Challenge",
+          "body": "Farmers nationwide, including those in Wisconsin and Delaware, express reliance on immigrant labor, indicating broader implications for U.S. agriculture amidst strict immigration policies.",
+          "tags": [
+            "National Agriculture",
+            "Immigrant Labor",
+            "Policy Implications"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_dbc1e594448d",
+      "title": "Understanding Deed Fraud",
+      "description": "Uncover the hidden threat of deed fraud.",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/deed-fraud-can-cause-vulnerable-detroiters-to-lose-their-homes-heres-why-its-hard-to-catch-the-thieves-276596",
+        "author": "Donovan McCarty, Director, Housing Justice Clinic at Michigan State University College of Law, Michigan State University",
+        "publishDate": "2026-06-22T12:35:44Z",
+        "category": [
+          "Real Estate",
+          "Law",
+          "Social Justice"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:51:32.982470",
+        "updatedAt": "2026-06-22T21:51:32.982553"
+      },
+      "cards": [
+        {
+          "id": "deck_dbc1e594448d_card_0",
+          "imageUrl": "",
+          "heading": "What is Deed Fraud?",
+          "body": "Deed fraud involves scammers forging signatures to illegally transfer property ownership. Once they hijack the title, they can sell the property, rent it out, or take out mortgages, leaving the rightful owner to deal with the fallout.",
+          "tags": [
+            "deed fraud",
+            "property theft",
+            "real estate scams"
+          ]
+        },
+        {
+          "id": "deck_dbc1e594448d_card_1",
+          "imageUrl": "",
+          "heading": "Why Detroit is Vulnerable",
+          "body": "Detroit's high rate of cash transactions and properties with unpaid taxes make it a hotspot for deed fraud. Many homes are undervalued, and Black homeowners face higher mortgage denial rates, increasing vulnerability.",
+          "tags": [
+            "Detroit",
+            "housing market",
+            "vulnerable homeowners"
+          ]
+        },
+        {
+          "id": "deck_dbc1e594448d_card_2",
+          "imageUrl": "",
+          "heading": "Victims' Legal Struggles",
+          "body": "Victims of deed fraud face complex legal battles to reclaim their homes. Filing a quiet title lawsuit is costly and time-consuming, often taking months or years to resolve.",
+          "tags": [
+            "legal battles",
+            "quiet title lawsuit",
+            "home ownership"
+          ]
+        },
+        {
+          "id": "deck_dbc1e594448d_card_3",
+          "imageUrl": "",
+          "heading": "The Role of Recording Offices",
+          "body": "Recording offices currently lack the authority to verify the legitimacy of deeds. They focus on administrative tasks, allowing fraudulent deeds to enter public records without thorough checks.",
+          "tags": [
+            "recording offices",
+            "legal process",
+            "public records"
+          ]
+        },
+        {
+          "id": "deck_dbc1e594448d_card_4",
+          "imageUrl": "",
+          "heading": "Potential Reforms",
+          "body": "Proposed reforms include empowering registers to review suspicious deeds, simplifying quiet title processes, and enhancing civil remedies for victims. These changes aim to decrease the burden on fraud victims.",
+          "tags": [
+            "legal reforms",
+            "deed verification",
+            "housing justice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_6040c628cb0c",
+      "title": "Influencer Aspirations",
+      "description": "Exploring kids' dreams to be influencers",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/from-norway-to-wisconsin-children-want-to-be-social-media-influencers-when-they-grow-up-284251",
+        "author": "Matthew Simoneau, Professor of Career and Techcnical Education, University of Wisconsin-Stout",
+        "publishDate": "2026-06-22T12:35:28Z",
+        "category": [
+          "Career Aspirations",
+          "Social Media Influence"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:51:57.225359",
+        "updatedAt": "2026-06-22T21:51:57.225397"
+      },
+      "cards": [
+        {
+          "id": "deck_6040c628cb0c_card_0",
+          "imageUrl": "",
+          "heading": "Rise of the Influencer Dream",
+          "body": "A study in Norway and Wisconsin found that many children aspire to become social media influencers. Over 60% of middle and high school students surveyed from 2021-2024 expressed this desire, often citing fame and money as key motivators.",
+          "tags": [
+            "social media",
+            "career aspirations",
+            "influencers"
+          ]
+        },
+        {
+          "id": "deck_6040c628cb0c_card_1",
+          "imageUrl": "",
+          "heading": "Disconnect with School Guidance",
+          "body": "Despite schools offering career guidance, many students feel these programs don't align with their interests, particularly in new media careers. Influencer aspirations are shaped more by social media than traditional career surveys.",
+          "tags": [
+            "education",
+            "career guidance",
+            "disconnect"
+          ]
+        },
+        {
+          "id": "deck_6040c628cb0c_card_2",
+          "imageUrl": "",
+          "heading": "The Power of Social Media",
+          "body": "Social media is a powerful tool influencing youth career choices. A rural student was inspired to become a marine biologist through online content, demonstrating its potential to expand career horizons beyond local limitations.",
+          "tags": [
+            "social media influence",
+            "career choices",
+            "inspiration"
+          ]
+        },
+        {
+          "id": "deck_6040c628cb0c_card_3",
+          "imageUrl": "",
+          "heading": "Reality vs. Aspiration",
+          "body": "While aspiring to be influencers, few achieve financial success. Many online creators earn less than $15,000 annually, highlighting a mismatch between aspirations and financial realities.",
+          "tags": [
+            "career reality",
+            "influencers",
+            "financial success"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_43e772b66513",
+      "title": "Dynamic Role of Bones",
+      "description": "Bones do more than support.",
+      "gradientColors": [
+        "#15803D",
+        "#065F46"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/bones-communicate-with-the-rest-of-the-body-to-support-overall-health-heres-the-science-behind-your-skeleton-279735",
+        "author": "Priya Bhardwaj, Senior Researcher in Orthopedic Surgery, Washington University in St. Louis",
+        "publishDate": "2026-06-22T12:35:17Z",
+        "category": [
+          "Health",
+          "Biology"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:52:26.372527",
+        "updatedAt": "2026-06-22T21:52:26.372542"
+      },
+      "cards": [
+        {
+          "id": "deck_43e772b66513_card_0",
+          "imageUrl": "",
+          "heading": "Bones: Dynamic Tissues",
+          "body": "Bones are not just static structures; they are dynamic tissues that continuously remodel themselves. This process allows bones to respond to physical activity, hormones, and the body's changing needs, contributing to overall health.",
+          "tags": [
+            "bones",
+            "health",
+            "biology"
+          ]
+        },
+        {
+          "id": "deck_43e772b66513_card_1",
+          "imageUrl": "",
+          "heading": "Bone Cells in Action",
+          "body": "Osteoclasts, osteoblasts, and osteocytes are key cells in bone health. Osteoclasts remove old bone, osteoblasts build new bone, and osteocytes sense strain to coordinate bone response. This teamwork helps maintain a strong skeleton.",
+          "tags": [
+            "osteoclasts",
+            "osteoblasts",
+            "osteocytes"
+          ]
+        },
+        {
+          "id": "deck_43e772b66513_card_2",
+          "imageUrl": "",
+          "heading": "Bones and Mineral Balance",
+          "body": "Bones help regulate the body's mineral balance by storing and releasing calcium and phosphate. These minerals are essential for nerve signaling and muscle contraction, showing how integrated bones are with bodily functions.",
+          "tags": [
+            "minerals",
+            "calcium",
+            "phosphate"
+          ]
+        },
+        {
+          "id": "deck_43e772b66513_card_3",
+          "imageUrl": "",
+          "heading": "Exercise Strengthens Bones",
+          "body": "Weight-bearing exercises are crucial for maintaining bone health. Activities like walking and lifting weights stress the skeleton, prompting bones to adapt by becoming stronger, which helps prevent conditions like osteoporosis.",
+          "tags": [
+            "exercise",
+            "bone health",
+            "osteoporosis"
+          ]
+        },
+        {
+          "id": "deck_43e772b66513_card_4",
+          "imageUrl": "",
+          "heading": "Bone Marrow: Blood Factory",
+          "body": "Bone marrow is vital for blood cell production, generating red and white blood cells and platelets. This makes bones crucial for oxygen transport, infection defense, and blood clotting, linking them to circulatory and immune systems.",
+          "tags": [
+            "bone marrow",
+            "blood cells",
+            "immune system"
+          ]
+        },
+        {
+          "id": "deck_43e772b66513_card_5",
+          "imageUrl": "",
+          "heading": "Hormones and Bone Health",
+          "body": "Hormones like parathyroid hormone and vitamin D regulate bone formation and breakdown, controlling calcium and phosphate levels. These hormones ensure bone health and mineral balance, especially during life stages like menopause.",
+          "tags": [
+            "hormones",
+            "vitamin D",
+            "menopause"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_90a3428059c1",
+      "title": "Healing from LGBTQ+ Stigma",
+      "description": "Overcome childhood stigma to enhance relationships.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/childhood-experiences-of-lgbtq-stigma-can-harm-romantic-relationships-decades-later-psychologists-explain-how-to-reconnect-with-yourself-and-your-partner-284915",
+        "author": "Christina Balderrama-Durbin, Associate Professor of Psychology, Binghamton University, State University of New York",
+        "publishDate": "2026-06-22T12:35:04Z",
+        "category": [
+          "Psychology",
+          "Relationships",
+          "LGBTQ+"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:52:51.277580",
+        "updatedAt": "2026-06-22T21:52:51.277615"
+      },
+      "cards": [
+        {
+          "id": "deck_90a3428059c1_card_0",
+          "imageUrl": "",
+          "heading": "Impact of Childhood Stigma",
+          "body": "Childhood experiences of rejection and bullying due to sexuality or gender can lead to a negative self-view, affecting mental health and romantic relationships well into adulthood. This internalized stigma can result in conflicts and reduced satisfaction in relationships.",
+          "tags": [
+            "childhood",
+            "stigma",
+            "relationships"
+          ]
+        },
+        {
+          "id": "deck_90a3428059c1_card_1",
+          "imageUrl": "",
+          "heading": "Understanding Internalized Stigma",
+          "body": "Internalized stigma occurs when societal biases shape how you feel about yourself. This can harm romantic relationships by reducing trust, connection, and intimacy, leading to more conflicts and less satisfaction.",
+          "tags": [
+            "internalized stigma",
+            "self-esteem",
+            "relationships"
+          ]
+        },
+        {
+          "id": "deck_90a3428059c1_card_2",
+          "imageUrl": "",
+          "heading": "The Role of Self-Compassion",
+          "body": "Practicing self-compassion can help reduce anxiety, depression, and internalized stigma. By offering yourself warmth and understanding during stressful moments, you can better manage emotions and stressors.",
+          "tags": [
+            "self-compassion",
+            "mental health",
+            "healing"
+          ]
+        },
+        {
+          "id": "deck_90a3428059c1_card_3",
+          "imageUrl": "",
+          "heading": "Building Intimacy with Partners",
+          "body": "Discussing challenging experiences with your partner can build intimacy and emotional safety. Focus on strengthening positive aspects to continue bonding despite past stigmas.",
+          "tags": [
+            "intimacy",
+            "communication",
+            "relationship building"
+          ]
+        },
+        {
+          "id": "deck_90a3428059c1_card_4",
+          "imageUrl": "",
+          "heading": "Seeking Support and Connection",
+          "body": "Engaging with supportive communities or professionals can aid in overcoming stigma. Look for LGBTQ+ friendly providers or online self-directed programs to reconnect with your partner.",
+          "tags": [
+            "support",
+            "community",
+            "therapy"
+          ]
+        },
+        {
+          "id": "deck_90a3428059c1_card_5",
+          "imageUrl": "",
+          "heading": "Empowering Change",
+          "body": "Remember, change is not just personal but societal. By connecting with the LGBTQ+ community, you can empower yourself and others, providing mentorship and support to those facing similar challenges.",
+          "tags": [
+            "empowerment",
+            "community support",
+            "societal change"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_d64a3465e13e",
+      "title": "Challenges for Aging Americans",
+      "description": "Explore the hurdles older Americans face today.",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/why-many-older-americans-are-losing-ground-even-with-an-80-year-old-president-285221",
+        "author": "Naomi Cahn, Professor of Law, University of Virginia",
+        "publishDate": "2026-06-22T12:34:50Z",
+        "category": [
+          "Social Issues",
+          "Elder Care"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:53:18.791774",
+        "updatedAt": "2026-06-22T21:53:18.791803"
+      },
+      "cards": [
+        {
+          "id": "deck_d64a3465e13e_card_0",
+          "imageUrl": "",
+          "heading": "Aging Leadership vs. Public Needs",
+          "body": "Despite older leadership in politics, many older Americans face worsening conditions. The assumption that older leaders will protect all seniors is flawed, as policies continue to make life harder for those with modest means.",
+          "tags": [
+            "politics",
+            "aging",
+            "policy"
+          ]
+        },
+        {
+          "id": "deck_d64a3465e13e_card_1",
+          "imageUrl": "",
+          "heading": "Social Security Cuts Looming",
+          "body": "Without Congressional action, Social Security benefits may be cut by 22% starting in 2032, impacting over 60 million retired workers and their families. This underscores the urgency for reform to protect these essential benefits.",
+          "tags": [
+            "Social Security",
+            "retirement",
+            "policy"
+          ]
+        },
+        {
+          "id": "deck_d64a3465e13e_card_2",
+          "imageUrl": "",
+          "heading": "Nursing Home Staffing Challenges",
+          "body": "Regulations requiring minimum staffing in nursing homes were rescinded, exacerbating risks for older adults needing long-term care. The shortage of care workers, many of whom are immigrants, intensifies the challenge.",
+          "tags": [
+            "nursing homes",
+            "staffing",
+            "elder care"
+          ]
+        },
+        {
+          "id": "deck_d64a3465e13e_card_3",
+          "imageUrl": "",
+          "heading": "Impact of Immigration Policies",
+          "body": "Immigration policies have reduced the workforce contributing to Social Security, weakening its financial foundation. This also affects the availability of care workers, vital for both institutional and home-based elder care.",
+          "tags": [
+            "immigration",
+            "workforce",
+            "caregiving"
+          ]
+        },
+        {
+          "id": "deck_d64a3465e13e_card_4",
+          "imageUrl": "",
+          "heading": "Cuts to Essential Benefits",
+          "body": "Federal cuts to programs like SNAP and Medicaid have reduced support for older adults in poverty, escalating the risk of homelessness. These cuts also strain state budgets, further threatening essential services.",
+          "tags": [
+            "benefits",
+            "poverty",
+            "homelessness"
+          ]
+        },
+        {
+          "id": "deck_d64a3465e13e_card_5",
+          "imageUrl": "",
+          "heading": "Rising Homelessness Among Seniors",
+          "body": "Homelessness is increasing among Americans aged 65 and older, with nearly 45,000 seniors homeless as of recent estimates. This trend highlights the need for stronger social safety nets to support vulnerable populations.",
+          "tags": [
+            "homelessness",
+            "seniors",
+            "housing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_3e68db66af3f",
+      "title": "Countering Climate Misinformation",
+      "description": "Explore the psychology and strategies to fight climate misinformation.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/longtime-exxon-ceo-lee-raymonds-legacy-of-climate-denial-and-misinformation-lives-on-a-psychologist-offers-ways-to-counter-it-285667",
+        "author": "Joe \u00c1rvai, Professor of Psychology, Biological Sciences and Environmental Studies, USC Dornsife College of Letters, Arts and Sciences",
+        "publishDate": "2026-06-22T12:34:33Z",
+        "category": [
+          "Climate Change",
+          "Psychology",
+          "Critical Thinking"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:53:40.347867",
+        "updatedAt": "2026-06-22T21:53:40.347910"
+      },
+      "cards": [
+        {
+          "id": "deck_3e68db66af3f_card_0",
+          "imageUrl": "",
+          "heading": "Legacy of Misinformation",
+          "body": "Exxon's former CEO Lee Raymond played a significant role in spreading climate change misinformation, leveraging his scientific credentials to challenge the consensus on human-driven global warming despite mounting evidence. This legacy continues to affect public and policy responses to climate change.",
+          "tags": [
+            "ExxonMobil",
+            "Misinformation",
+            "Lee Raymond"
+          ]
+        },
+        {
+          "id": "deck_3e68db66af3f_card_1",
+          "imageUrl": "",
+          "heading": "Why Misinformation Works",
+          "body": "Climate misinformation is effective because it exploits psychological processes, such as emotional appeal and alignment with preexisting beliefs. These tactics increase the perception of credibility, especially when repeated through media channels.",
+          "tags": [
+            "Psychology",
+            "Misinformation",
+            "Credibility"
+          ]
+        },
+        {
+          "id": "deck_3e68db66af3f_card_2",
+          "imageUrl": "",
+          "heading": "Pre-bunking Strategy",
+          "body": "Pre-bunking involves educating people about misinformation tactics before they encounter them, making it easier to recognize false information. This approach is likened to a mental vaccine against lies, prompting critical questioning of information sources.",
+          "tags": [
+            "Pre-bunking",
+            "Critical Thinking",
+            "Misinformation"
+          ]
+        },
+        {
+          "id": "deck_3e68db66af3f_card_3",
+          "imageUrl": "",
+          "heading": "The Role of Humor",
+          "body": "Humor can be a powerful tool against climate misinformation. Activists use witty signs and memes to highlight the absurdity of false claims, making the truth more accessible and appealing.",
+          "tags": [
+            "Humor",
+            "Activism",
+            "Misinformation"
+          ]
+        },
+        {
+          "id": "deck_3e68db66af3f_card_4",
+          "imageUrl": "",
+          "heading": "Critical Thinking and Courage",
+          "body": "Critical thinking involves self-awareness and a willingness to revise beliefs when faced with credible information. It requires courage to admit ignorance or error, a necessary step in addressing climate misinformation.",
+          "tags": [
+            "Critical Thinking",
+            "Courage",
+            "Self-awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_34e1bf065ec3",
+      "title": "Pittsburgh River Safety",
+      "description": "Are Pittsburgh rivers safe for swimming?",
+      "gradientColors": [
+        "#16A34A",
+        "#14532D"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/should-you-swim-in-pittsburghs-rivers-a-water-researcher-breaks-down-the-answer-283866",
+        "author": "Daniel Bain, Associate Professor of Geology & Environmental Science, University of Pittsburgh",
+        "publishDate": "2026-06-22T12:34:19Z",
+        "category": [
+          "Environment",
+          "Public Health"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:54:03.382041",
+        "updatedAt": "2026-06-22T21:54:03.382081"
+      },
+      "cards": [
+        {
+          "id": "deck_34e1bf065ec3_card_0",
+          "imageUrl": "",
+          "heading": "Improving Fish Populations",
+          "body": "In 2010, a survey in the Monongahela River found over 23,000 fish from 32 species, a remarkable recovery from just one fish found 50 years earlier. This increase signifies improvements in water quality, although fish populations alone do not guarantee swimmable waters.",
+          "tags": [
+            "environment",
+            "water quality",
+            "fish populations"
+          ]
+        },
+        {
+          "id": "deck_34e1bf065ec3_card_1",
+          "imageUrl": "",
+          "heading": "Sewage Overflow Concerns",
+          "body": "Pittsburgh's rivers face contamination from raw sewage during rainstorms. With as little as 0.1 inches of rain, sewage overflows occur, making swimming unsafe for 48 hours post-storm. This ongoing issue is a major barrier to achieving swimmable rivers.",
+          "tags": [
+            "sewage overflow",
+            "public health",
+            "water safety"
+          ]
+        },
+        {
+          "id": "deck_34e1bf065ec3_card_2",
+          "imageUrl": "",
+          "heading": "Community Monitoring Efforts",
+          "body": "Organizations like Three Rivers Waterkeeper monitor water quality with their Swim Guide program. They sample rivers weekly in summer to inform the public about safe swimming conditions, playing a crucial role in river safety advocacy and education.",
+          "tags": [
+            "community effort",
+            "water monitoring",
+            "public advocacy"
+          ]
+        },
+        {
+          "id": "deck_34e1bf065ec3_card_3",
+          "imageUrl": "",
+          "heading": "Legacy of Industrial Pollution",
+          "body": "Pittsburgh's rivers still carry pollutants from historic industrial activities like coal mining. While these dissolved materials pose uncertain risks to swimmers, they highlight the complex legacy affecting river water quality today.",
+          "tags": [
+            "industrial pollution",
+            "environmental legacy",
+            "river contamination"
+          ]
+        },
+        {
+          "id": "deck_34e1bf065ec3_card_4",
+          "imageUrl": "",
+          "heading": "Future of River Safety",
+          "body": "Efforts to improve Pittsburgh's river water quality are ongoing, with plans to reduce sewage overflows by 2046. While optimistic, the reality is that swimming and fishing safety will remain complicated in the foreseeable future.",
+          "tags": [
+            "future planning",
+            "river safety",
+            "environmental goals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_00669c9cee60",
+      "title": "The Science of Eye Black",
+      "description": "Discover why athletes use eye black.",
+      "gradientColors": [
+        "#5B21B6",
+        "#1E3A8A"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://theconversation.com/why-do-baseball-players-put-a-black-mark-under-their-eyes-283562",
+        "author": "Adam Annaccone, Clinical Associate Professor of Kinesiology, University of Texas at Arlington",
+        "publishDate": "2026-06-22T12:34:08Z",
+        "category": [
+          "Sports",
+          "Science",
+          "Traditions"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:54:27.441510",
+        "updatedAt": "2026-06-22T21:54:27.441551"
+      },
+      "cards": [
+        {
+          "id": "deck_00669c9cee60_card_0",
+          "imageUrl": "",
+          "heading": "Why Eye Black?",
+          "body": "Eye black is used by athletes mainly to reduce glare from the sun or stadium lights. The black color absorbs light, potentially helping players see the ball better. While not a miracle solution, it might offer a slight visual edge.",
+          "tags": [
+            "baseball",
+            "glare",
+            "vision"
+          ]
+        },
+        {
+          "id": "deck_00669c9cee60_card_1",
+          "imageUrl": "",
+          "heading": "A Tradition in Sports",
+          "body": "The use of eye black has roots in tradition. Legends like Babe Ruth reportedly used burned cork, and it became common by the mid-1900s. Over time, it has become a familiar part of sports culture.",
+          "tags": [
+            "tradition",
+            "sports culture",
+            "Babe Ruth"
+          ]
+        },
+        {
+          "id": "deck_00669c9cee60_card_2",
+          "imageUrl": "",
+          "heading": "Does It Really Work?",
+          "body": "Studies show mixed results on eye black's effectiveness. Some research indicates it slightly reduces glare and improves contrast sensitivity, while other studies suggest its benefits are minimal.",
+          "tags": [
+            "effectiveness",
+            "research",
+            "contrast sensitivity"
+          ]
+        },
+        {
+          "id": "deck_00669c9cee60_card_3",
+          "imageUrl": "",
+          "heading": "Alternatives to Eye Black",
+          "body": "Athletes have other ways to combat glare: baseball hats, sunglasses, tinted visors, and goggles are common. Each offers different benefits and drawbacks, and personal preference plays a big role.",
+          "tags": [
+            "glare reduction",
+            "sports equipment",
+            "sunglasses"
+          ]
+        },
+        {
+          "id": "deck_00669c9cee60_card_4",
+          "imageUrl": "",
+          "heading": "The Power of Routine",
+          "body": "For many athletes, applying eye black is part of a pre-game routine. Routines can enhance focus, manage emotions, and improve performance under pressure, making them a crucial aspect of sports psychology.",
+          "tags": [
+            "routine",
+            "sports psychology",
+            "performance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_b354e879372e",
+      "title": "Authenticity in Music",
+      "description": "Exploring authenticity's role in music.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.honest-broker.com/p/authenticity-in-music",
+        "author": "Ted Gioia",
+        "publishDate": "Sun, 21 Jun 2026 20:36:30 GMT",
+        "category": [
+          "Music",
+          "Philosophy"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:55:03.094198",
+        "updatedAt": "2026-06-22T21:55:03.094237"
+      },
+      "cards": [
+        {
+          "id": "deck_b354e879372e_card_0",
+          "imageUrl": "",
+          "heading": "Defining Authenticity",
+          "body": "Authenticity in music is more than a marketing gimmick. It represents a genuine connection between the artist and their expression, something that resonates deeply with audiences. This authenticity can be a hidden source of power in music, influencing how it's perceived and the impact it has.",
+          "tags": [
+            "music",
+            "authenticity",
+            "expression"
+          ]
+        },
+        {
+          "id": "deck_b354e879372e_card_1",
+          "imageUrl": "",
+          "heading": "Lessons from Simplicity",
+          "body": "The author learned about authenticity through his father's simple, irony-free life. This lack of pretense or posturing is mirrored in music. Authentic musicians, much like the author's father, are unaware of inauthenticity as an option, living and creating without adopting external roles.",
+          "tags": [
+            "simplicity",
+            "life lessons",
+            "authenticity"
+          ]
+        },
+        {
+          "id": "deck_b354e879372e_card_2",
+          "imageUrl": "",
+          "heading": "Music's Dual Nature",
+          "body": "Historically, thinkers like Pythagoras and Nietzsche associated music with both positive and negative effects on the soul. Music has been seen as a force capable of influencing character and even leading to inauthenticity, a concept explored through the lens of Western philosophy.",
+          "tags": [
+            "philosophy",
+            "music history",
+            "psychology"
+          ]
+        },
+        {
+          "id": "deck_b354e879372e_card_3",
+          "imageUrl": "",
+          "heading": "Audience and Authenticity",
+          "body": "Contrary to popular belief, most music throughout history was created without an audience in mind. Authenticity thrives when music serves as a participatory experience rather than a performance for spectators. This challenges the notion that music must cater to an audience to be genuine.",
+          "tags": [
+            "audience",
+            "participation",
+            "authenticity"
+          ]
+        },
+        {
+          "id": "deck_b354e879372e_card_4",
+          "imageUrl": "",
+          "heading": "The Role of Play in Music",
+          "body": "In music, as in acting and sports, work is described as 'play.' This terminology suggests a separation from the authentic self when performing. However, this playful approach can also mean transforming work into an engaging, authentic expression.",
+          "tags": [
+            "play",
+            "performance",
+            "authenticity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_c102107966e1",
+      "title": "Embracing Intellectual Life",
+      "description": "Explore the joys of lifelong learning.",
+      "gradientColors": [
+        "#2563EB",
+        "#1E3A8A"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.honest-broker.com/p/the-great-books-are-for-everyone",
+        "author": "Jared Henderson",
+        "publishDate": "Fri, 19 Jun 2026 17:00:42 GMT",
+        "category": [
+          "Education",
+          "Philosophy",
+          "Lifelong Learning"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:55:40.165646",
+        "updatedAt": "2026-06-22T21:55:40.165691"
+      },
+      "cards": [
+        {
+          "id": "deck_c102107966e1_card_0",
+          "imageUrl": "",
+          "heading": "Catherine Project Origins",
+          "body": "The Catherine Project was born from a desire to create learning spaces for those truly eager to learn. Zena Hitz founded it to offer open, online classes on great books, accessible to anyone with a desire to engage intellectually.",
+          "tags": [
+            "Catherine Project",
+            "Zena Hitz",
+            "Education"
+          ]
+        },
+        {
+          "id": "deck_c102107966e1_card_1",
+          "imageUrl": "",
+          "heading": "Life of the Mind for All",
+          "body": "Zena Hitz argues that intellectual life should be accessible to everyone. Through the Catherine Project, people from various backgrounds can engage with great books, proving that the desire for learning transcends formal education.",
+          "tags": [
+            "intellectual life",
+            "accessibility",
+            "great books"
+          ]
+        },
+        {
+          "id": "deck_c102107966e1_card_2",
+          "imageUrl": "",
+          "heading": "The Power of Autodidacts",
+          "body": "Autodidacts like Malcolm X exemplify self-taught learning. Despite systemic barriers, autodidacts use available resources to transform their intellect and lives, showcasing the potential of self-directed education.",
+          "tags": [
+            "autodidact",
+            "self-education",
+            "Malcolm X"
+          ]
+        },
+        {
+          "id": "deck_c102107966e1_card_3",
+          "imageUrl": "",
+          "heading": "Reimagining Humanities Education",
+          "body": "With many graduate humanities programs closing, the Catherine Project envisions a future where humanistic learning thrives outside traditional institutions, emphasizing community-led and self-directed learning.",
+          "tags": [
+            "humanities",
+            "education reform",
+            "Catherine Project"
+          ]
+        },
+        {
+          "id": "deck_c102107966e1_card_4",
+          "imageUrl": "",
+          "heading": "Aristotle\u2019s Active Learning",
+          "body": "Engaging with Aristotle requires active thinking. By examining historical and modern contexts alongside his work, learners can deepen their understanding and apply ancient insights to contemporary issues.",
+          "tags": [
+            "Aristotle",
+            "active learning",
+            "philosophy"
+          ]
+        },
+        {
+          "id": "deck_c102107966e1_card_5",
+          "imageUrl": "",
+          "heading": "Overcoming Institutional Barriers",
+          "body": "Post-university, barriers like access to journals can hinder independent learning. However, initiatives like the Catherine Project highlight the importance of making knowledge accessible to all who seek it.",
+          "tags": [
+            "education access",
+            "barriers",
+            "knowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_55dc5ed87e71",
+      "title": "Reading on Civilization's End",
+      "description": "Explore insights on societal collapse through key books.",
+      "gradientColors": [
+        "#9F1239",
+        "#7F1D1D"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.honest-broker.com/p/a-reading-list-for-the-end-of-civilization-d4f",
+        "author": "Ted Gioia",
+        "publishDate": "Tue, 16 Jun 2026 19:01:05 GMT",
+        "category": [
+          "History",
+          "Literature",
+          "Society"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:56:18.764001",
+        "updatedAt": "2026-06-22T21:56:18.764049"
+      },
+      "cards": [
+        {
+          "id": "deck_55dc5ed87e71_card_0",
+          "imageUrl": "",
+          "heading": "Gibbon's Roman Empire",
+          "body": "Edward Gibbon's 'The Decline and Fall of the Roman Empire' is praised for its prose but criticized for overlooking human fallibility. His Enlightenment bias misses key lessons on Rome's decline, focusing more on authoritarianism.",
+          "tags": [
+            "Edward Gibbon",
+            "Roman Empire",
+            "History"
+          ]
+        },
+        {
+          "id": "deck_55dc5ed87e71_card_1",
+          "imageUrl": "",
+          "heading": "Spengler's Cyclical History",
+          "body": "Oswald Spengler's 'The Decline of the West' offers insights into cultural cycles. While his theory is flawed, his observations on urbanization and technology are prescient, making it a valuable read despite its complexity.",
+          "tags": [
+            "Oswald Spengler",
+            "Cultural Theory",
+            "Civilization"
+          ]
+        },
+        {
+          "id": "deck_55dc5ed87e71_card_2",
+          "imageUrl": "",
+          "heading": "Primary Roman Sources",
+          "body": "Primary texts like 'The Twelve Caesars' by Suetonius and 'The Annals' by Tacitus provide vivid accounts of Roman leadership and moral decay, offering timeless lessons on the impact of poor governance.",
+          "tags": [
+            "Roman History",
+            "Tacitus",
+            "Suetonius"
+          ]
+        },
+        {
+          "id": "deck_55dc5ed87e71_card_3",
+          "imageUrl": "",
+          "heading": "Ortega's Populist Warning",
+          "body": "Jos\u00e9 Ortega y Gasset's 'The Revolt of the Masses' explores the dynamics of populist movements. He argues that societal shifts are often driven by 'Up vs. Down' conflicts, not just political ideologies.",
+          "tags": [
+            "Populism",
+            "Social Analysis",
+            "Ortega"
+          ]
+        },
+        {
+          "id": "deck_55dc5ed87e71_card_4",
+          "imageUrl": "",
+          "heading": "Sci-Fi's Dystopian Insights",
+          "body": "Books like '1984' and 'Brave New World' explore themes of surveillance and societal complacency. They highlight potential futures shaped by technology and governance, serving as cautionary tales.",
+          "tags": [
+            "Dystopia",
+            "Science Fiction",
+            "Society"
+          ]
+        },
+        {
+          "id": "deck_55dc5ed87e71_card_5",
+          "imageUrl": "",
+          "heading": "Goethe's Faustian Bargain",
+          "body": "Goethe's 'Faust' warns against the pursuit of progress at any cost. The legend of Faust's deal with the devil foreshadows the dangers of unchecked ambition and technological control in society.",
+          "tags": [
+            "Goethe",
+            "Faust",
+            "Cautionary Tale"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_897609f7b367",
+      "title": "Objective Music Standards",
+      "description": "Exploring objectivity in music evaluation.",
+      "gradientColors": [
+        "#F59E0B",
+        "#92400E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.honest-broker.com/p/objective-standards-really-do-exist",
+        "author": "Ted Gioia",
+        "publishDate": "Fri, 12 Jun 2026 15:14:13 GMT",
+        "category": [
+          "Music",
+          "Criticism",
+          "Art"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:56:52.110366",
+        "updatedAt": "2026-06-22T21:56:52.110396"
+      },
+      "cards": [
+        {
+          "id": "deck_897609f7b367_card_0",
+          "imageUrl": "",
+          "heading": "Objective vs. Subjective",
+          "body": "Many believe music evaluation is purely subjective. However, Ted Gioia argues that there are objective standards in music, challenging the common belief that all opinions are equal.",
+          "tags": [
+            "music",
+            "objectivity",
+            "subjectivity"
+          ]
+        },
+        {
+          "id": "deck_897609f7b367_card_1",
+          "imageUrl": "",
+          "heading": "The Democratic View",
+          "body": "The idea that everyone's musical opinion is equal is popular because it's democratic. It allows anyone, from critics to everyday listeners, to have a say in what good music is.",
+          "tags": [
+            "democracy",
+            "music opinions",
+            "equality"
+          ]
+        },
+        {
+          "id": "deck_897609f7b367_card_2",
+          "imageUrl": "",
+          "heading": "Experience in Music",
+          "body": "Ted Gioia's extensive experience in various music roles leads him to assert that not all musicians are equal, highlighting the existence of objective standards.",
+          "tags": [
+            "experience",
+            "music industry",
+            "expertise"
+          ]
+        },
+        {
+          "id": "deck_897609f7b367_card_3",
+          "imageUrl": "",
+          "heading": "Rick Beato's Experiment",
+          "body": "Rick Beato's viral video showcasing his son's musical aptitude exemplifies objective musical skill. The child identifies complex chords effortlessly, illustrating innate musical ability.",
+          "tags": [
+            "Rick Beato",
+            "music skills",
+            "viral video"
+          ]
+        },
+        {
+          "id": "deck_897609f7b367_card_4",
+          "imageUrl": "",
+          "heading": "Controversial Rankings",
+          "body": "The New York Times' songwriter rankings sparked debate over whether subjective tastes or objective standards should guide such lists, highlighting ongoing tensions in music evaluation.",
+          "tags": [
+            "rankings",
+            "controversy",
+            "songwriters"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_fbd4f4b70e89",
+      "title": "Essential Western Films",
+      "description": "Explore Western films' mythic and cultural impact.",
+      "gradientColors": [
+        "#A855F7",
+        "#6B21A8"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.honest-broker.com/p/the-50-essential-western-films",
+        "author": "Ted Gioia",
+        "publishDate": "Tue, 09 Jun 2026 15:13:30 GMT",
+        "category": [
+          "Film",
+          "Culture",
+          "History"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:57:12.007734",
+        "updatedAt": "2026-06-22T21:57:12.007765"
+      },
+      "cards": [
+        {
+          "id": "deck_fbd4f4b70e89_card_0",
+          "imageUrl": "",
+          "heading": "A Mythic American Genre",
+          "body": "Western films are more than cowboy tales; they are modern myths that reflect American culture and history. These stories serve as a mirror, showing us truths about ourselves that are hard to find elsewhere.",
+          "tags": [
+            "Western",
+            "Myth",
+            "Culture"
+          ]
+        },
+        {
+          "id": "deck_fbd4f4b70e89_card_1",
+          "imageUrl": "",
+          "heading": "The Great Train Robbery",
+          "body": "Released in 1903 by Edison Films, 'The Great Train Robbery' was a groundbreaking 13-minute film credited with establishing the Western genre's commercial viability. Its iconic scene of an outlaw shooting at the camera has become a cultural staple.",
+          "tags": [
+            "Cinema",
+            "History",
+            "Innovation"
+          ]
+        },
+        {
+          "id": "deck_fbd4f4b70e89_card_2",
+          "imageUrl": "",
+          "heading": "Visionary Filmmakers",
+          "body": "Visionary filmmakers transform Westerns into a limitless playground, much like ancient myths. They push boundaries and redefine narratives, making the genre a fertile ground for creativity and innovation.",
+          "tags": [
+            "Filmmaking",
+            "Innovation",
+            "Creativity"
+          ]
+        },
+        {
+          "id": "deck_fbd4f4b70e89_card_3",
+          "imageUrl": "",
+          "heading": "Western Films' Lasting Impact",
+          "body": "Despite the decline of the Wild West, Western films continue to captivate audiences with their mythic grandeur and cinematic excellence. They offer a rich tapestry of American life, rivaling any other artistic medium.",
+          "tags": [
+            "Impact",
+            "Cinematic",
+            "American Life"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_919a35cc9154",
+      "title": "AI's Impact on Media",
+      "description": "Explore how AI reshapes media landscapes.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.honest-broker.com/p/how-to-destroy-a-literary-reputation",
+        "author": "Ted Gioia",
+        "publishDate": "Sat, 30 May 2026 17:15:06 GMT",
+        "category": [
+          "Technology",
+          "Media",
+          "Journalism"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:57:35.945549",
+        "updatedAt": "2026-06-22T21:57:35.945579"
+      },
+      "cards": [
+        {
+          "id": "deck_919a35cc9154_card_0",
+          "imageUrl": "",
+          "heading": "Literary Giants in Sports",
+          "body": "Sports Illustrated once featured articles by literary giants like Faulkner and Hemingway, setting the gold standard for sports journalism. This highlights how quality content can elevate a brand.",
+          "tags": [
+            "literature",
+            "sports journalism",
+            "quality content"
+          ]
+        },
+        {
+          "id": "deck_919a35cc9154_card_1",
+          "imageUrl": "",
+          "heading": "AI's Role in SI's Decline",
+          "body": "Sports Illustrated's reputation fell when it started publishing AI-generated content, pretending they were authored by real journalists. This deception led to a loss of trust and eventual layoffs.",
+          "tags": [
+            "AI",
+            "journalism ethics",
+            "brand reputation"
+          ]
+        },
+        {
+          "id": "deck_919a35cc9154_card_2",
+          "imageUrl": "",
+          "heading": "AI Missteps at Business Insider",
+          "body": "Business Insider's increasing reliance on AI led to publishing errors, staff reductions, and declining subscriptions, showing the risks of prioritizing technology over quality journalism.",
+          "tags": [
+            "AI errors",
+            "media layoffs",
+            "subscription decline"
+          ]
+        },
+        {
+          "id": "deck_919a35cc9154_card_3",
+          "imageUrl": "",
+          "heading": "Lessons from AI in Media",
+          "body": "The experiences of Sports Illustrated and Business Insider demonstrate the dangers of uncritical AI adoption in media. Ensuring quality and authenticity remains crucial.",
+          "tags": [
+            "media strategy",
+            "AI adoption",
+            "authenticity"
+          ]
+        },
+        {
+          "id": "deck_919a35cc9154_card_4",
+          "imageUrl": "",
+          "heading": "Navigating AI's Fast Impact",
+          "body": "The rapid changes AI brings to media can be both destructive and transformative. Journalists and media companies must adapt thoughtfully to survive and thrive.",
+          "tags": [
+            "AI impact",
+            "media transformation",
+            "adaptation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_250e7cf9ecb1",
+      "title": "Jazz Legacy Reflections",
+      "description": "Explore jazz's golden era and its lasting impact.",
+      "gradientColors": [
+        "#9F1239",
+        "#7F1D1D"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.honest-broker.com/p/an-uncanny-moment-for-jazz-lovers",
+        "author": "Ted Gioia",
+        "publishDate": "Tue, 26 May 2026 18:21:07 GMT",
+        "category": [
+          "Music",
+          "History",
+          "Culture"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:58:01.951366",
+        "updatedAt": "2026-06-22T21:58:01.951398"
+      },
+      "cards": [
+        {
+          "id": "deck_250e7cf9ecb1_card_0",
+          "imageUrl": "",
+          "heading": "End of an Era",
+          "body": "The passing of Sonny Rollins, a jazz legend, marks the end of an era. His death, alongside the centenary of Miles Davis, highlights a shift in jazz history. It's a poignant reminder of the impact these musicians had on the genre and their irreplaceable presence.",
+          "tags": [
+            "Jazz",
+            "Sonny Rollins",
+            "Miles Davis"
+          ]
+        },
+        {
+          "id": "deck_250e7cf9ecb1_card_1",
+          "imageUrl": "",
+          "heading": "Great Day in Harlem",
+          "body": "The 'Great Day in Harlem' photo captured 57 jazz legends in 1958. This historic image is a symbol of jazz's golden age, showcasing the camaraderie and collective talent of its icons. It remains a cherished visual in the jazz community.",
+          "tags": [
+            "Great Day in Harlem",
+            "Jazz History",
+            "Photography"
+          ]
+        },
+        {
+          "id": "deck_250e7cf9ecb1_card_2",
+          "imageUrl": "",
+          "heading": "Jazz's Living History",
+          "body": "Jazz's history was once a living experience, where fans could engage directly with the genre's pioneers. This direct interaction fostered a vibrant culture that modern jazz education struggles to replicate. It emphasizes the importance of live music experiences.",
+          "tags": [
+            "Live Jazz",
+            "Music Education",
+            "Jazz Culture"
+          ]
+        },
+        {
+          "id": "deck_250e7cf9ecb1_card_3",
+          "imageUrl": "",
+          "heading": "Preserving Jazz's Spirit",
+          "body": "To truly honor jazz's legacy, we must support live performances and encourage genuine musical experiences. Recordings offer a glimpse into the past, but live music captures the essence and spontaneity that define jazz.",
+          "tags": [
+            "Jazz Preservation",
+            "Live Music",
+            "Cultural Heritage"
+          ]
+        },
+        {
+          "id": "deck_250e7cf9ecb1_card_4",
+          "imageUrl": "",
+          "heading": "Miles and Rollins' Legacy",
+          "body": "Miles Davis and Sonny Rollins were more than musicians; they embodied jazz's evolution. Their recordings, like 'Kind of Blue', continue to inspire and remind us of their groundbreaking contributions to music.",
+          "tags": [
+            "Miles Davis",
+            "Sonny Rollins",
+            "Jazz Influence"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_c64f41db4290",
+      "title": "Insights from Readers",
+      "description": "Surprising reader stories on AI and industry.",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.honest-broker.com/p/what-im-hearing-from-readers",
+        "author": "Ted Gioia",
+        "publishDate": "Sun, 24 May 2026 20:01:39 GMT",
+        "category": [
+          "AI",
+          "Publishing",
+          "Music"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:58:34.577741",
+        "updatedAt": "2026-06-22T21:58:34.577779"
+      },
+      "cards": [
+        {
+          "id": "deck_c64f41db4290_card_0",
+          "imageUrl": "",
+          "heading": "AI's Fictional Biographies",
+          "body": "Jennifer Keishin Armstrong discovered an AI-written biography of her life, filled with inaccuracies. It claimed false family details and invented life events. This highlights the risks of AI fabricating personal histories without verification.",
+          "tags": [
+            "AI",
+            "biography",
+            "inaccuracy"
+          ]
+        },
+        {
+          "id": "deck_c64f41db4290_card_1",
+          "imageUrl": "",
+          "heading": "Mass Market Publishing's Fall",
+          "body": "Stephen S. Power shared how a $20,000 'skim' per book, akin to a Mafia cut, imposed by HarperCollins, crippled mass market publishing. This accounting change made it financially unviable to publish many books, contributing to the decline of midlist titles.",
+          "tags": [
+            "publishing",
+            "economics",
+            "books"
+          ]
+        },
+        {
+          "id": "deck_c64f41db4290_card_2",
+          "imageUrl": "",
+          "heading": "Preserving True Music Masters",
+          "body": "Brady Purcell is fighting to preserve the original 1989 Elvis digital masters, which are being replaced by a 'cleaned-up' 2015 version. The original masters, verified and intact, show discrepancies, suggesting industry manipulation.",
+          "tags": [
+            "music",
+            "preservation",
+            "Elvis"
+          ]
+        },
+        {
+          "id": "deck_c64f41db4290_card_3",
+          "imageUrl": "",
+          "heading": "AI and Fake YouTube Personas",
+          "body": "A reader uncovered over 700 fake Richard Feynman videos on YouTube, using AI to replicate his likeness without consent. This raises ethical concerns about impersonating deceased personalities and the platforms' indifference to such practices.",
+          "tags": [
+            "AI",
+            "YouTube",
+            "ethics"
+          ]
+        },
+        {
+          "id": "deck_c64f41db4290_card_4",
+          "imageUrl": "",
+          "heading": "AI Music in Public Spaces",
+          "body": "TekTok experienced AI-generated jazz in a restaurant, initially indistinguishable from human performances. However, its lack of dynamics and coherence revealed its artificial origins, raising questions about AI's role in public music.",
+          "tags": [
+            "AI",
+            "music",
+            "public"
+          ]
+        },
+        {
+          "id": "deck_c64f41db4290_card_5",
+          "imageUrl": "",
+          "heading": "AI's Ethical Guardrails",
+          "body": "Ted Gioia suggests that AI should be transparent, legal, and permission-based. Most AI applications would falter under these demands, indicating their current reliance on unethical practices for survival.",
+          "tags": [
+            "AI",
+            "ethics",
+            "regulations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_cf4be198f7d1",
+      "title": "AI Legislation Unites",
+      "description": "Explore how AI laws unite political sides.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.honest-broker.com/p/anti-ai-laws-now-get-unanimous-support",
+        "author": "Ted Gioia",
+        "publishDate": "Fri, 22 May 2026 18:49:57 GMT",
+        "category": [
+          "Technology",
+          "Politics"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:58:56.583105",
+        "updatedAt": "2026-06-22T21:58:56.583142"
+      },
+      "cards": [
+        {
+          "id": "deck_cf4be198f7d1_card_0",
+          "imageUrl": "",
+          "heading": "Bipartisan AI Opposition",
+          "body": "Recently, the Senate GUARD bill to protect children from AI achieved unanimous support from both Democrats and Republicans. This rare bipartisan agreement underscores growing concerns about AI's impact, showing how both sides are uniting against Silicon Valley's influence in politics.",
+          "tags": [
+            "AI",
+            "Politics",
+            "Bipartisan"
+          ]
+        },
+        {
+          "id": "deck_cf4be198f7d1_card_1",
+          "imageUrl": "",
+          "heading": "French Senate's AI Bill",
+          "body": "The French Senate passed a groundbreaking AI copyright bill that protects artists by shifting the burden of proof onto tech companies. This legislation assumes AI is trained with existing works unless proven otherwise, setting a new standard for artist rights in the AI era.",
+          "tags": [
+            "AI",
+            "Copyright",
+            "Legislation"
+          ]
+        },
+        {
+          "id": "deck_cf4be198f7d1_card_2",
+          "imageUrl": "",
+          "heading": "AI Moratoriums Across States",
+          "body": "In the US, more than 300 bills have been introduced to restrict data centers, with at least 14 states considering total moratoriums. This reflects widespread public and local government actions against AI's rapid expansion, driven by fears of unchecked technological growth.",
+          "tags": [
+            "AI",
+            "Legislation",
+            "United States"
+          ]
+        },
+        {
+          "id": "deck_cf4be198f7d1_card_3",
+          "imageUrl": "",
+          "heading": "Public Sentiment on AI",
+          "body": "Surveys reveal that 71% of people believe AI is advancing too quickly, while only 2% think it's too slow. This sentiment highlights a significant public concern over AI development, exceeding even controversial beliefs like flat Earth theories.",
+          "tags": [
+            "AI",
+            "Public Opinion",
+            "Survey"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_2beabd123cec",
+      "title": "Innovations & Optimism",
+      "description": "Explore groundbreaking tech and inspiring stories.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.notboring.co/p/weekly-dose-of-optimism-197",
+        "author": "Packy McCormick",
+        "publishDate": "Fri, 12 Jun 2026 12:58:11 GMT",
+        "category": [
+          "Technology",
+          "Science",
+          "Innovation"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:59:30.965891",
+        "updatedAt": "2026-06-22T21:59:30.965918"
+      },
+      "cards": [
+        {
+          "id": "deck_2beabd123cec_card_0",
+          "imageUrl": "",
+          "heading": "The Sagrada Fam\u00edlia's Technological Journey",
+          "body": "The Sagrada Fam\u00edlia in Barcelona, designed by Antoni Gaud\u00ed, has been under construction for over a century. Initially, Gaud\u00ed's vision was too complex for traditional techniques, but modern technology like 3D modeling and CNC machines has enabled its ongoing development. This blend of historical design and cutting-edge tech exemplifies how innovation can bring visionary projects to life.",
+          "tags": [
+            "architecture",
+            "technology",
+            "history"
+          ]
+        },
+        {
+          "id": "deck_2beabd123cec_card_1",
+          "imageUrl": "",
+          "heading": "Reversing Aging in Human Cells",
+          "body": "Life Biosciences has initiated a clinical trial using partial cellular reprogramming to reverse aging in human cells, aimed at treating glaucoma. This approach is based on making cells younger without reverting them to stem cells, reducing cancer risks. It's a pioneering step in potentially reversing aging-related conditions.",
+          "tags": [
+            "biology",
+            "aging",
+            "innovation"
+          ]
+        },
+        {
+          "id": "deck_2beabd123cec_card_2",
+          "imageUrl": "",
+          "heading": "CRISPR Targets Cancer Cells",
+          "body": "Jennifer Doudna's team developed a CRISPR system that selectively destroys cancer cells by identifying p53 mutations, a common driver in many cancers. This novel approach could revolutionize cancer treatments by targeting and eliminating malignant cells without harming healthy ones.",
+          "tags": [
+            "CRISPR",
+            "cancer",
+            "genomics"
+          ]
+        },
+        {
+          "id": "deck_2beabd123cec_card_3",
+          "imageUrl": "",
+          "heading": "Drone Boat Rescues Crew",
+          "body": "For the first time, a drone boat, the Saronic Corsair, successfully rescued two American military members from the sea. This autonomous rescue mission highlights the growing role of unmanned systems in military operations and their potential to save lives in hostile environments.",
+          "tags": [
+            "drones",
+            "military",
+            "rescue"
+          ]
+        },
+        {
+          "id": "deck_2beabd123cec_card_4",
+          "imageUrl": "",
+          "heading": "Boosting Robotics in Manufacturing",
+          "body": "Standard Bots raised $200 million to expand its AI-native industrial robots, aiming to enhance American manufacturing. With an ambitious plan to deploy 10% of the nation's robots by 2027, this initiative underscores the importance of automation in boosting competitiveness.",
+          "tags": [
+            "robotics",
+            "manufacturing",
+            "investment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_c0806284cc13",
+      "title": "Optimizing AI Investments",
+      "description": "Learn to maximize Return on Tokens.",
+      "gradientColors": [
+        "#CA8A04",
+        "#92400E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.notboring.co/p/return-on-tokens-rot",
+        "author": "Packy McCormick",
+        "publishDate": "Wed, 10 Jun 2026 18:02:16 GMT",
+        "category": [
+          "AI",
+          "Business Strategy"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T22:00:03.120925",
+        "updatedAt": "2026-06-22T22:00:03.120963"
+      },
+      "cards": [
+        {
+          "id": "deck_c0806284cc13_card_0",
+          "imageUrl": "",
+          "heading": "The Tokenmaxxing Problem",
+          "body": "Tokenmaxxing refers to maximizing token expenditure with the false belief that more spending equates to more value. This mass delusion led businesses to use AI tokens inefficiently, with companies often spending millions without tangible returns. Recognizing this issue is the first step towards more strategic AI use.",
+          "tags": [
+            "AI",
+            "Business",
+            "Strategy"
+          ]
+        },
+        {
+          "id": "deck_c0806284cc13_card_1",
+          "imageUrl": "",
+          "heading": "Understanding ROT",
+          "body": "Return on Tokens (ROT) measures the value generated by token investments. To calculate ROT, use the formula: (Value of Output - Cost of Tokens) / Cost of Tokens x 100. This encourages businesses to either create more value or reduce costs, optimizing their AI strategies.",
+          "tags": [
+            "AI",
+            "ROI",
+            "Metrics"
+          ]
+        },
+        {
+          "id": "deck_c0806284cc13_card_2",
+          "imageUrl": "",
+          "heading": "Rethink AI Deployment",
+          "body": "AI should be used as a compiler, not a runtime. It should replace the software company by translating goals into code. Once coded, tasks should run predictably without incurring high token costs, ensuring efficiency in repetitive business processes.",
+          "tags": [
+            "AI",
+            "Software",
+            "Efficiency"
+          ]
+        },
+        {
+          "id": "deck_c0806284cc13_card_3",
+          "imageUrl": "",
+          "heading": "Agents vs. Code",
+          "body": "While AI agents are great for improvisation, they aren't suited for repetitive tasks requiring high accuracy. Deterministic code, which runs tasks consistently and reliably, is often a better fit for economically valuable work.",
+          "tags": [
+            "AI",
+            "Software Development",
+            "Efficiency"
+          ]
+        },
+        {
+          "id": "deck_c0806284cc13_card_4",
+          "imageUrl": "",
+          "heading": "Evolving Businesses with AI",
+          "body": "Businesses should evolve into software, adapting like AI but maintaining the reliability of code. This transformation requires a deep understanding of processes and a shift towards using AI to compile and refine business logic into efficient code.",
+          "tags": [
+            "AI",
+            "Business Transformation",
+            "Innovation"
+          ]
+        },
+        {
+          "id": "deck_c0806284cc13_card_5",
+          "imageUrl": "",
+          "heading": "The Future of AI in Business",
+          "body": "The goal is to transform businesses into living software that evolves and improves processes continuously. This involves using AI to redefine business logic, allowing companies to adapt quickly and effectively to changes.",
+          "tags": [
+            "AI",
+            "Future",
+            "Business"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_fb6c53ec723d",
+      "title": "Future of Flying Cars",
+      "description": "Exploring how flying cars can transform our daily lives.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.notboring.co/p/expanding-the-radius-of-daily-life",
+        "author": "Packy McCormick",
+        "publishDate": "Mon, 08 Jun 2026 13:04:26 GMT",
+        "category": [
+          "Technology",
+          "Innovation",
+          "Transportation"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T22:00:33.865694",
+        "updatedAt": "2026-06-22T22:00:33.865737"
+      },
+      "cards": [
+        {
+          "id": "deck_fb6c53ec723d_card_0",
+          "imageUrl": "",
+          "heading": "The Promise of Flying Cars",
+          "body": "Flying cars could expand the radius of daily life, allowing us to reach further destinations in less time, thus reshaping where we live and work.",
+          "tags": [
+            "flying cars",
+            "future",
+            "innovation"
+          ]
+        },
+        {
+          "id": "deck_fb6c53ec723d_card_1",
+          "imageUrl": "",
+          "heading": "Marchetti's Constant Explained",
+          "body": "Marchetti's Constant suggests we use faster transportation to travel further, not less. It implies that flying cars will likely encourage living further from work.",
+          "tags": [
+            "anthropology",
+            "travel behavior",
+            "Marchetti's Constant"
+          ]
+        },
+        {
+          "id": "deck_fb6c53ec723d_card_2",
+          "imageUrl": "",
+          "heading": "Speed vs. Freedom in Transport",
+          "body": "Current transport modes often trade speed for point-to-point freedom. Flying cars aim to offer both, combining the speed of aircraft with the freedom of cars.",
+          "tags": [
+            "transportation",
+            "freedom",
+            "speed"
+          ]
+        },
+        {
+          "id": "deck_fb6c53ec723d_card_3",
+          "imageUrl": "",
+          "heading": "Limitations of Current Technology",
+          "body": "Cars and personal aircraft are limited by infrastructure like roads and runways. Flying cars aim to overcome these barriers, offering new possibilities.",
+          "tags": [
+            "infrastructure",
+            "limitations",
+            "innovation"
+          ]
+        },
+        {
+          "id": "deck_fb6c53ec723d_card_4",
+          "imageUrl": "",
+          "heading": "Challenges of Air Taxis",
+          "body": "Air taxis face challenges like vertiport logistics and regulatory hurdles, limiting their point-to-point freedom compared to flying cars.",
+          "tags": [
+            "air taxis",
+            "regulations",
+            "logistics"
+          ]
+        },
+        {
+          "id": "deck_fb6c53ec723d_card_5",
+          "imageUrl": "",
+          "heading": "The Evolution of Personal Aircraft",
+          "body": "Despite advances, personal aircraft remain expensive and complex. Flying cars aim to be more affordable and easier to operate.",
+          "tags": [
+            "personal aircraft",
+            "aviation",
+            "cost"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_29450c9327a8",
+      "title": "Innovative Tech Breakthroughs",
+      "description": "Explore the latest advancements in science and technology.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.notboring.co/p/weekly-dose-of-optimism-196",
+        "author": "Packy McCormick",
+        "publishDate": "Fri, 05 Jun 2026 12:53:49 GMT",
+        "category": [
+          "Technology",
+          "Science",
+          "Innovation"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T22:00:58.742229",
+        "updatedAt": "2026-06-22T22:00:58.742271"
+      },
+      "cards": [
+        {
+          "id": "deck_29450c9327a8_card_0",
+          "imageUrl": "",
+          "heading": "New American Nuclear Reactor",
+          "body": "Antares' Mark-0 reactor achieved criticality at Idaho National Lab, marking the first fueled test of a novel reactor design in over 50 years. This milestone, aligned with EO 14301, signals a renewed push for nuclear innovation in the US.",
+          "tags": [
+            "nuclear energy",
+            "innovation",
+            "Antares"
+          ]
+        },
+        {
+          "id": "deck_29450c9327a8_card_1",
+          "imageUrl": "",
+          "heading": "Age-Reprogramming Medicine",
+          "body": "NewLimit plans to bring an age-reprogramming therapy to human trials by 2027. The therapy, developed with AI model Ambrosia, has shown promise in restoring liver cell youthfulness in mice, potentially treating alcohol-related liver disease.",
+          "tags": [
+            "biotechnology",
+            "aging",
+            "AI"
+          ]
+        },
+        {
+          "id": "deck_29450c9327a8_card_2",
+          "imageUrl": "",
+          "heading": "AI CEOs Advocate Bioweapon Laws",
+          "body": "Top AI leaders, including Sam Altman and Demis Hassabis, call for laws requiring DNA/RNA synthesis companies to screen customers, preventing bioweapon creation. This highlights AI's dual-use dilemma and the need for regulation.",
+          "tags": [
+            "AI",
+            "biotechnology",
+            "regulation"
+          ]
+        },
+        {
+          "id": "deck_29450c9327a8_card_3",
+          "imageUrl": "",
+          "heading": "Helion's Fusion Power Progress",
+          "body": "Helion has raised $465 million to advance its commercial fusion development. With its Polaris machine achieving a breakthrough in fusion, Helion aims to provide sustainable energy, echoing the sun's energy generation process.",
+          "tags": [
+            "fusion energy",
+            "renewable energy",
+            "Helion"
+          ]
+        },
+        {
+          "id": "deck_29450c9327a8_card_4",
+          "imageUrl": "",
+          "heading": "Psilocybin and Alzheimer's Recovery",
+          "body": "A case study revealed that a single psilocybin mushroom dose temporarily restored functions in an Alzheimer\u2019s patient. The study suggests potential for neuromodulatory treatments in unlocking residual functional capacity in advanced Alzheimer's.",
+          "tags": [
+            "Alzheimer's",
+            "psilocybin",
+            "neuromodulation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_78fa5ba85663",
+      "title": "Electric Motor Revolution",
+      "description": "Discover the future of American motor manufacturing.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.notboring.co/p/westmag",
+        "author": "Packy McCormick",
+        "publishDate": "Tue, 02 Jun 2026 15:34:10 GMT",
+        "category": [
+          "Technology",
+          "Manufacturing",
+          "Innovation"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T22:01:34.864809",
+        "updatedAt": "2026-06-22T22:01:34.864849"
+      },
+      "cards": [
+        {
+          "id": "deck_78fa5ba85663_card_0",
+          "imageUrl": "",
+          "heading": "Westmag's Vision",
+          "body": "Westmag aims to manufacture motors and actuators in America, focusing on scaling production to drive innovation and reduce dependency on foreign suppliers. This strategic shift could position the U.S. as a leader in the electric revolution.",
+          "tags": [
+            "Westmag",
+            "manufacturing",
+            "innovation"
+          ]
+        },
+        {
+          "id": "deck_78fa5ba85663_card_1",
+          "imageUrl": "",
+          "heading": "Why American Motors Matter",
+          "body": "Manufacturing motors in the U.S. links design with production, enhancing innovation. It reduces reliance on potentially unreliable foreign supply chains and aligns with geopolitical strategies to secure critical technologies.",
+          "tags": [
+            "geopolitics",
+            "innovation",
+            "supply chain"
+          ]
+        },
+        {
+          "id": "deck_78fa5ba85663_card_2",
+          "imageUrl": "",
+          "heading": "The Scale Game",
+          "body": "Westmag's strategy focuses on achieving scale to drive down costs and improve performance. By manufacturing at scale, they aim to compete effectively against low-margin foreign alternatives.",
+          "tags": [
+            "economics",
+            "scale",
+            "competition"
+          ]
+        },
+        {
+          "id": "deck_78fa5ba85663_card_3",
+          "imageUrl": "",
+          "heading": "Understanding Electric Motors",
+          "body": "Electric motors convert electrical energy into mechanical motion using magnets and copper wire. The precise manufacturing process is crucial for efficiency and performance.",
+          "tags": [
+            "electric motors",
+            "technology",
+            "efficiency"
+          ]
+        },
+        {
+          "id": "deck_78fa5ba85663_card_4",
+          "imageUrl": "",
+          "heading": "China's Motor Dominance",
+          "body": "China dominates global motor production due to decades of scaling and refining manufacturing processes. This expertise positions them as leaders in electric motor and actuator production.",
+          "tags": [
+            "China",
+            "manufacturing",
+            "dominance"
+          ]
+        },
+        {
+          "id": "deck_78fa5ba85663_card_5",
+          "imageUrl": "",
+          "heading": "Lessons from Shenzhen",
+          "body": "Shenzhen's rise as a manufacturing hub was fueled by cheap labor and expertise in components. This environment enabled rapid innovation and efficiency in producing drones and robots.",
+          "tags": [
+            "Shenzhen",
+            "innovation",
+            "manufacturing"
+          ]
+        },
+        {
+          "id": "deck_78fa5ba85663_card_6",
+          "imageUrl": "",
+          "heading": "The Geopolitical Imperative",
+          "body": "Producing motors domestically safeguards against geopolitical risks and ensures national security by keeping critical technology within friendly borders.",
+          "tags": [
+            "geopolitics",
+            "national security",
+            "technology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_8331e3c68a6a",
+      "title": "Innovations in Science and Tech",
+      "description": "Explore groundbreaking advancements shaping our future.",
+      "gradientColors": [
+        "#5B21B6",
+        "#1E3A8A"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.notboring.co/p/weekly-dose-of-optimism-195",
+        "author": "Packy McCormick",
+        "publishDate": "Fri, 29 May 2026 12:32:20 GMT",
+        "category": [
+          "Science",
+          "Technology",
+          "Health"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T22:01:57.184610",
+        "updatedAt": "2026-06-22T22:01:57.184654"
+      },
+      "cards": [
+        {
+          "id": "deck_8331e3c68a6a_card_0",
+          "imageUrl": "",
+          "heading": "Gene Therapy for Cholesterol",
+          "body": "Eli Lilly has developed a gene therapy that significantly reduces LDL cholesterol levels, potentially preventing millions of deaths linked to heart disease. This one-time treatment mimics a genetic mutation that lowers cholesterol, offering an alternative to lifelong medication.",
+          "tags": [
+            "gene therapy",
+            "cholesterol",
+            "health"
+          ]
+        },
+        {
+          "id": "deck_8331e3c68a6a_card_1",
+          "imageUrl": "",
+          "heading": "Weight-Loss Drugs Fight Cancer",
+          "body": "GLP-1 drugs, known for weight loss, may also reduce cancer progression. Studies show significant decreases in tumor progression among users, hinting at a dual-purpose medical breakthrough.",
+          "tags": [
+            "cancer",
+            "weight loss",
+            "GLP-1"
+          ]
+        },
+        {
+          "id": "deck_8331e3c68a6a_card_2",
+          "imageUrl": "",
+          "heading": "Supersonic Flight Achieved",
+          "body": "Hermeus' unmanned Quarterhorse Mk 2.1 jet reached supersonic speeds, marking a milestone in aviation technology. This success paves the way for hypersonic flight, revolutionizing fast travel.",
+          "tags": [
+            "supersonic flight",
+            "aviation",
+            "innovation"
+          ]
+        },
+        {
+          "id": "deck_8331e3c68a6a_card_3",
+          "imageUrl": "",
+          "heading": "Nanotech Breakthrough",
+          "body": "Researchers demonstrated atomically precise mechanosynthesis, a step towards building objects atom by atom. This advancement could lead to nanofactories capable of producing complex structures at minimal cost.",
+          "tags": [
+            "nanotechnology",
+            "mechanosynthesis",
+            "innovation"
+          ]
+        },
+        {
+          "id": "deck_8331e3c68a6a_card_4",
+          "imageUrl": "",
+          "heading": "Moon Base Plans Unveiled",
+          "body": "NASA's Moon Base program aims to establish a sustainable human presence on the lunar surface. The initiative will support scientific and commercial activities, with the first missions planned for 2026.",
+          "tags": [
+            "NASA",
+            "Moon Base",
+            "space exploration"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_003261b01e31",
+      "title": "Data Centers & Innovation",
+      "description": "How data centers drive tech growth",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.notboring.co/p/thank-god-for-data-centers",
+        "author": "Packy McCormick",
+        "publishDate": "Wed, 27 May 2026 19:19:05 GMT",
+        "category": [
+          "Technology",
+          "Economics"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T22:02:23.421923",
+        "updatedAt": "2026-06-22T22:02:23.421973"
+      },
+      "cards": [
+        {
+          "id": "deck_003261b01e31_card_0",
+          "imageUrl": "",
+          "heading": "Data Centers as Catalysts",
+          "body": "Data centers are acting as significant buyers of capabilities, similar to how NASA and the DoD historically funded early-stage technologies. They provide the scale and financial backing needed to bring new technologies down the learning curve.",
+          "tags": [
+            "Technology",
+            "Innovation",
+            "Economics"
+          ]
+        },
+        {
+          "id": "deck_003261b01e31_card_1",
+          "imageUrl": "",
+          "heading": "Learning from History",
+          "body": "The Apollo mission, despite its initial unpopularity, accelerated and scaled numerous technologies that impact our daily lives today. Data centers are now playing a similar role by funding new tech through their vast demand.",
+          "tags": [
+            "History",
+            "Innovation",
+            "Technology"
+          ]
+        },
+        {
+          "id": "deck_003261b01e31_card_2",
+          "imageUrl": "",
+          "heading": "Economic Impact of AI CapEx",
+          "body": "AI capital expenditure is expected to account for a significant portion of the GDP, surpassing historical projects like the Manhattan Project and the Apollo Program, highlighting its massive economic impact.",
+          "tags": [
+            "Economics",
+            "AI",
+            "Investment"
+          ]
+        },
+        {
+          "id": "deck_003261b01e31_card_3",
+          "imageUrl": "",
+          "heading": "The Role of Alpha Products",
+          "body": "Alpha Products like the Sony Handycam and early computers initially drove demand for new technologies, helping them scale. Data centers now serve as the 'meta-Alpha Product' by catalyzing demand for cutting-edge tech.",
+          "tags": [
+            "Technology",
+            "Product Development",
+            "Innovation"
+          ]
+        },
+        {
+          "id": "deck_003261b01e31_card_4",
+          "imageUrl": "",
+          "heading": "Reindustrialization Through Tech",
+          "body": "Data centers are not only funding AI but also supporting technologies like advanced nuclear reactors and modular construction, potentially driving a new era of American reindustrialization.",
+          "tags": [
+            "Reindustrialization",
+            "Technology",
+            "Economics"
+          ]
+        },
+        {
+          "id": "deck_003261b01e31_card_5",
+          "imageUrl": "",
+          "heading": "Government to Data Center Shift",
+          "body": "While government projects historically initiated tech advancements, data centers now provide a similar role in the commercial sector, offering rapid decision-making and significant financial backing.",
+          "tags": [
+            "Government",
+            "Technology",
+            "Commercial Sector"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_e5cad73aef9c",
+      "title": "Innovative Breakthroughs",
+      "description": "Explore cutting-edge tech and health insights.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.notboring.co/p/weekly-dose-of-optimism-194",
+        "author": "Packy McCormick",
+        "publishDate": "Fri, 22 May 2026 12:51:22 GMT",
+        "category": [
+          "Technology",
+          "Health",
+          "Science"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T22:02:44.000946",
+        "updatedAt": "2026-06-22T22:02:44.000979"
+      },
+      "cards": [
+        {
+          "id": "deck_e5cad73aef9c_card_0",
+          "imageUrl": "",
+          "heading": "Retatrutide's Weight Loss Success",
+          "body": "Eli Lilly's retatrutide shows unprecedented weight loss results in a Phase 3 trial, with participants losing up to 28.3% of their body weight. This triple hormone receptor agonist outperforms previous drugs, offering hope for obesity treatment.",
+          "tags": [
+            "health",
+            "innovation",
+            "obesity"
+          ]
+        },
+        {
+          "id": "deck_e5cad73aef9c_card_1",
+          "imageUrl": "",
+          "heading": "Artificial Eggs Hatch Chicks",
+          "body": "Colossal Biosciences hatched chicks using a fully artificial egg, a breakthrough in exogenous development. This innovation could aid in de-extincting species and genetic rescue of endangered birds.",
+          "tags": [
+            "biology",
+            "innovation",
+            "genetics"
+          ]
+        },
+        {
+          "id": "deck_e5cad73aef9c_card_2",
+          "imageUrl": "",
+          "heading": "SpaceX's Financial Leap",
+          "body": "SpaceX's recent S-1 filing reveals a $19B run-rate revenue and a highly profitable Starlink segment. This marks a significant step in expanding human civilization beyond Earth.",
+          "tags": [
+            "space",
+            "business",
+            "innovation"
+          ]
+        },
+        {
+          "id": "deck_e5cad73aef9c_card_3",
+          "imageUrl": "",
+          "heading": "AI Solves Erd\u0151s Problem",
+          "body": "OpenAI\u2019s GPT 5.5 Pro solved an 80-year-old Erd\u0151s problem using algebraic number theory. This achievement highlights AI's growing potential in solving complex mathematical problems.",
+          "tags": [
+            "AI",
+            "mathematics",
+            "innovation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_2aa6d581e682",
+      "title": "Innovative Tech & Health",
+      "description": "Explore breakthroughs in biotech, space, and AI.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.notboring.co/p/weekly-dose-of-optimism-193",
+        "author": "Packy McCormick",
+        "publishDate": "Fri, 15 May 2026 12:42:13 GMT",
+        "category": [
+          "Technology",
+          "Health",
+          "Innovation"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T22:03:08.731273",
+        "updatedAt": "2026-06-22T22:03:08.731289"
+      },
+      "cards": [
+        {
+          "id": "deck_2aa6d581e682_card_0",
+          "imageUrl": "",
+          "heading": "Isomorphic Labs' Bold Goal",
+          "body": "Isomorphic Labs, backed by $2.1 billion in funding, aims to 'Solve All Disease'. Their AI drug design engine, IsoDDE, has already outperformed AlphaFold 3 on complex protein-ligand benchmarks, showcasing potential to revolutionize drug discovery.",
+          "tags": [
+            "biotech",
+            "AI",
+            "healthcare"
+          ]
+        },
+        {
+          "id": "deck_2aa6d581e682_card_1",
+          "imageUrl": "",
+          "heading": "Space Drugs by Varda",
+          "body": "Varda, in partnership with United Therapeutics, is exploring drug manufacturing in microgravity. This unique environment could offer new possibilities for creating drugs for chronic diseases, potentially transforming pharmaceutical manufacturing.",
+          "tags": [
+            "space",
+            "pharmaceuticals",
+            "innovation"
+          ]
+        },
+        {
+          "id": "deck_2aa6d581e682_card_2",
+          "imageUrl": "",
+          "heading": "Cracking Pancreatic Cancer",
+          "body": "Revolution Medicines' daraxonrasib has doubled survival rates in metastatic pancreatic cancer. This new 'molecular glue' drug targets the once 'undruggable' RAS protein, offering a promising new approach to cancer treatment.",
+          "tags": [
+            "cancer",
+            "pharmaceuticals",
+            "health"
+          ]
+        },
+        {
+          "id": "deck_2aa6d581e682_card_3",
+          "imageUrl": "",
+          "heading": "AI Chipmaker's IPO Success",
+          "body": "Cerebras, an AI chipmaker, saw a 68% increase in stock price post-IPO. This signals a strong interest in AI infrastructure and could lead to increased funding for future tech innovations.",
+          "tags": [
+            "technology",
+            "AI",
+            "IPO"
+          ]
+        },
+        {
+          "id": "deck_2aa6d581e682_card_4",
+          "imageUrl": "",
+          "heading": "Cowboy Space Corp's Vision",
+          "body": "Cowboy Space Corp aims to create orbital data centers. By integrating data centers into rocket stages, the company is aspiring to meet AI's growing computational needs. This innovative approach could redefine data infrastructure in space.",
+          "tags": [
+            "space",
+            "data centers",
+            "AI"
+          ]
+        }
+      ]
     }
   ]
 }
