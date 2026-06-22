@@ -610,6 +610,1905 @@
           ]
         }
       ]
+    },
+    {
+      "id": "deck_f30f5039fd73",
+      "title": "Future of Medical Imaging",
+      "description": "Exploring Midjourney Scanner's potential and limits.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney",
+        "author": "Scott Alexander",
+        "publishDate": "Fri, 19 Jun 2026 05:32:51 GMT",
+        "category": [
+          "Technology",
+          "Healthcare"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:07:33.475409",
+        "updatedAt": "2026-06-22T21:07:33.475446"
+      },
+      "cards": [
+        {
+          "id": "deck_f30f5039fd73_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1706065264583-55f1a8549769?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx1bHRyYXNvdW5kJTIwbWFjaGluZSUyMEFJJTIwdWx0cmFzb3VuZHxlbnwxfDB8fHwxNzgyMTQyNjM2fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "What is Midjourney Scanner?",
+          "body": "The Midjourney Scanner is an experimental medical device using ultrasound tomography to generate 3D body images without harmful radiation. It aims to replace or complement existing imaging techniques like MRI and CT scans.",
+          "tags": [
+            "AI",
+            "ultrasound",
+            "medical imaging"
+          ]
+        },
+        {
+          "id": "deck_f30f5039fd73_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1711409645921-ef3db0501f96?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxicmFpbiUyMHNjYW4lMjB1bHRyYXNvdW5kJTIwbGltaXRhdGlvbnN8ZW58MXwwfHx8MTc4MjE0MjYzOXww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Limitations of Ultrasound",
+          "body": "Ultrasound struggles with imaging through bone and air, making it less useful for examining the brain or lungs. This limitation restricts its application compared to CT or MRI scans, which can image these areas effectively.",
+          "tags": [
+            "ultrasound",
+            "limitations",
+            "medical imaging"
+          ]
+        },
+        {
+          "id": "deck_f30f5039fd73_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1598885159329-9377168ac375?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxicmVhc3QlMjBjYW5jZXIlMjBzY3JlZW5pbmclMjBicmVhc3QlMjBjYW5jZXIlMjBlZGdlJTIwY2FzZXN8ZW58MXwwfHx8MTc4MjE0MjY0Mnww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Potential Edge Cases",
+          "body": "The Midjourney Scanner could excel in specific scenarios, like detecting certain breast cancers that are hard to spot on mammograms. However, similar devices already exist for such edge cases, limiting its unique value.",
+          "tags": [
+            "breast cancer",
+            "edge cases",
+            "medical devices"
+          ]
+        },
+        {
+          "id": "deck_f30f5039fd73_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBjaGVja3VwJTIwaGVhbHRoJTIwc2NyZWVuaW5nJTIwZmFsc2UlMjBwb3NpdGl2ZXN8ZW58MXwwfHx8MTc4MjE0MjY0NXww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Screening for the Healthy",
+          "body": "Midjourney envisions their scanner as a tool for regular health screenings in healthy people. However, the risk of false positives, which can lead to unnecessary panic and procedures, remains a significant concern.",
+          "tags": [
+            "health screening",
+            "false positives",
+            "medical imaging"
+          ]
+        },
+        {
+          "id": "deck_f30f5039fd73_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1750365919971-7dd273e7b317?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxBSSUyMHRlY2hub2xvZ3klMjBBSSUyMGZ1dHVyZSUyMHRlY2h8ZW58MXwwfHx8MTc4MjE0MjY0OHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "AI's Role in Ultrasound",
+          "body": "Future AI advancements may improve ultrasound imaging, making it more competitive with MRIs. For instance, AI could help interpret complex ultrasound data or overcome current limitations like imaging through bone.",
+          "tags": [
+            "AI",
+            "future tech",
+            "ultrasound"
+          ]
+        },
+        {
+          "id": "deck_f30f5039fd73_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1768207450151-30c0bf8e8091?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjb3N0JTIwY29tcGFyaXNvbiUyMGNvc3QlMjBjb252ZW5pZW5jZXxlbnwxfDB8fHwxNzgyMTQyNjUxfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Price and Convenience Factor",
+          "body": "While the current cost of the Midjourney Scanner is high, advancements could make it cheaper and more accessible. It also promises faster and more comfortable scans compared to traditional MRIs.",
+          "tags": [
+            "cost",
+            "convenience",
+            "medical technology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_61d038cf9af7",
+      "title": "Miracles and Mass Visions",
+      "description": "Explore mass visions and miracles across the globe.",
+      "gradientColors": [
+        "#9F1239",
+        "#7F1D1D"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.astralcodexten.com/p/waiting-for-the-miracle",
+        "author": "Scott Alexander",
+        "publishDate": "Thu, 18 Jun 2026 04:42:50 GMT",
+        "category": [
+          "History",
+          "Psychology",
+          "Religion"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:08:08.393207",
+        "updatedAt": "2026-06-22T21:08:08.393238"
+      },
+      "cards": [
+        {
+          "id": "deck_61d038cf9af7_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1626689615189-cc33424289f8?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxGYXRpbWElMjBzdW4lMjBtaXJhY2xlJTIwRmF0aW1hJTIwbWlyYWNsZXN8ZW58MXwwfHx8MTc4MjE0MjY3NHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Miracle of Fatima",
+          "body": "In 1917, three children in Fatima, Portugal claimed to have seen the Virgin Mary. They promised a miracle on a specific day, which nearly 100,000 witnesses reported as the sun turning pale, changing color, and spinning. This event remains one of the few mass experiences of a 'miracle.'",
+          "tags": [
+            "Fatima",
+            "miracles",
+            "mass visions"
+          ]
+        },
+        {
+          "id": "deck_61d038cf9af7_card_1",
+          "imageUrl": "",
+          "heading": "Medjugorje's Ongoing Apparitions",
+          "body": "Since 1981, Medjugorje, Bosnia, has been a site of regular Marian apparitions. The Virgin Mary still reportedly appears to three of the original six children, now adults, at 6:40 PM. Visitors, regardless of faith, often report witnessing miracles like the spinning sun.",
+          "tags": [
+            "Medjugorje",
+            "apparitions",
+            "miracles"
+          ]
+        },
+        {
+          "id": "deck_61d038cf9af7_card_2",
+          "imageUrl": "",
+          "heading": "Mirjana's Struggle and Resilience",
+          "body": "Mirjana, one of the visionaries of Medjugorje, faced intense scrutiny and personal trials during the Communist regime. Despite threats and hardships, she continued to share her experiences and stayed committed to her faith, illustrating resilience in the face of adversity.",
+          "tags": [
+            "Mirjana",
+            "resilience",
+            "Communism"
+          ]
+        },
+        {
+          "id": "deck_61d038cf9af7_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxWYXRpY2FuJTIwY29udHJvdmVyc3klMjBjb250cm92ZXJzeSUyMENhdGhvbGljaXNtfGVufDF8MHx8fDE3ODIxNDI2ODJ8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Controversy of Medjugorje",
+          "body": "Despite its fame, Medjugorje is not officially recognized as a site of confirmed miracles by the Vatican. The visionaries have faced criticism for their material success and alleged heretical messages, raising debates within and outside the Catholic community.",
+          "tags": [
+            "controversy",
+            "Catholicism",
+            "Vatican"
+          ]
+        },
+        {
+          "id": "deck_61d038cf9af7_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1544313162-fa597dfacc0d?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxteXN0ZXJpb3VzJTIwc2VjcmV0cyUyMHNlY3JldHMlMjBwcm9waGVjaWVzfGVufDF8MHx8fDE3ODIxNDI2ODZ8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Secrets of Medjugorje",
+          "body": "Mirjana holds ten secrets concerning future events, which she claims will serve as proof of her visions. These secrets are expected to be revealed within the next twenty years, adding an element of suspense and anticipation to the Medjugorje phenomenon.",
+          "tags": [
+            "secrets",
+            "prophecies",
+            "anticipation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_d7e15523f36f",
+      "title": "AI Timelines and Risks",
+      "description": "Exploring AI's future impact and risks.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.astralcodexten.com/p/my-ai-opinions",
+        "author": "Scott Alexander",
+        "publishDate": "Thu, 11 Jun 2026 20:50:39 GMT",
+        "category": [
+          "Technology",
+          "AI"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:08:50.104596",
+        "updatedAt": "2026-06-22T21:08:50.104630"
+      },
+      "cards": [
+        {
+          "id": "deck_d7e15523f36f_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1592495989226-03f88104f8cc?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxBSSUyMHRpbWVsaW5lJTIwY2hhcnQlMjBBR0klMjBUaW1lbGluZXN8ZW58MXwwfHx8MTc4MjE0MjcxNnww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "AGI Timelines",
+          "body": "AGI, or Artificial General Intelligence, could potentially perform 90% of knowledge work jobs. There's a 25% chance of it being achieved by 2027, a 50% chance by 2034, and a 75% chance by 2045. AI's rapid improvement in situational awareness and problem-solving contributes to these predictions.",
+          "tags": [
+            "AGI",
+            "Timelines",
+            "AI Progress"
+          ]
+        },
+        {
+          "id": "deck_d7e15523f36f_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1750365919971-7dd273e7b317?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxBSSUyMGRpZmZ1c2lvbiUyMHByb2Nlc3MlMjBEaWZmdXNpb24lMjBHYXAlMjBBSSUyMFJlZ3VsYXRpb258ZW58MXwwfHx8MTc4MjE0MjcxOXww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Understanding the Diffusion Gap",
+          "body": "The diffusion gap is the time between when AI could do 90% of knowledge work and when it actually does. This gap involves regulatory hurdles and societal adaptation. There's a 25% chance this gap is less than 3 years and 50% chance it's less than 10 years.",
+          "tags": [
+            "Diffusion Gap",
+            "AI Regulation",
+            "Society"
+          ]
+        },
+        {
+          "id": "deck_d7e15523f36f_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1646583288948-24548aedffd8?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxBSSUyMHN1cGVyaHVtYW4lMjBpbnRlbGxpZ2VuY2UlMjBTdXBlcmh1bWFuJTIwQUklMjBBSSUyMERldmVsb3xlbnwxfDB8fHwxNzgyMTQyNzIyfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Superhuman Gap",
+          "body": "The superhuman gap is the time between AI capable of most knowledge work and AI being smarter than the top human geniuses. There's a 25% chance this gap is less than 1 year, with a 50% chance it lasts under 4 years, indicating a rapid leap in capabilities.",
+          "tags": [
+            "Superhuman AI",
+            "AI Development"
+          ]
+        },
+        {
+          "id": "deck_d7e15523f36f_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1777785113414-d9094e58629b?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxBSSUyMGNvbnRyb2wlMjByaXNrJTIwQUklMjBSaXNrcyUyMFN1cGVyaW50ZWxsaWdlbmNlfGVufDF8MHx8fDE3ODIxNDI3MjV8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Point of No Return",
+          "body": "The 'point of no return' is when AI could potentially eliminate humanity. There's a 25% chance this occurs within 3 years of AGI's development. This scenario requires significant AI diffusion and superintelligence.",
+          "tags": [
+            "AI Risks",
+            "Superintelligence",
+            "Humanity"
+          ]
+        },
+        {
+          "id": "deck_d7e15523f36f_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxBSSUyMHNhZmV0eSUyMG1lYXN1cmVzJTIwQUklMjBTYWZldHklMjBBbGlnbm1lbnR8ZW58MXwwfHx8MTc4MjE0MjcyOHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "AI Safety Concerns",
+          "body": "If left solely to corporate incentives, there's a 50% chance that initial superintelligent AIs might desire to eliminate humanity. Concerns stem from AI developing value systems different from humans, leading to potential misalignment.",
+          "tags": [
+            "AI Safety",
+            "Alignment",
+            "Corporate Incentives"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_4cee4406e7c4",
+      "title": "The Frankfurt School Unveiled",
+      "description": "Explore the intriguing ideas of the Frankfurt School.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.astralcodexten.com/p/book-review-the-dialectical-imagination",
+        "author": "Scott Alexander",
+        "publishDate": "Fri, 29 May 2026 08:14:27 GMT",
+        "category": [
+          "Philosophy",
+          "Cultural Theory"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:09:36.667769",
+        "updatedAt": "2026-06-22T21:09:36.667797"
+      },
+      "cards": [
+        {
+          "id": "deck_4cee4406e7c4_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1620662831351-9f68f76d0b9a?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwaGlsb3NvcGhlciUyMHRoaW5raW5nJTIwcGhpbG9zb3BoeSUyMGRpYWxlY3RpY3N8ZW58MXwwfHx8MTc4MjE0Mjc2MHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "What is Negative Dialectics?",
+          "body": "Negative dialectics is a technique where concepts are defined by what you can't say about them. The Frankfurt School used this to critique society and culture, focusing on contradictions rather than solutions.",
+          "tags": [
+            "philosophy",
+            "dialectics",
+            "Frankfurt School"
+          ]
+        },
+        {
+          "id": "deck_4cee4406e7c4_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1742223996745-cedb68f57e52?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjdWx0dXJhbCUyMHN5bWJvbHMlMjBjdWx0dXJhbCUyMHRoZW9yeSUyME1hcnhpc218ZW58MXwwfHx8MTc4MjE0Mjc2M3ww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Beyond Cultural Marxism",
+          "body": "The Frankfurt School, often misrepresented as 'Cultural Marxists', focused on how culture interacts with economic systems. They explored how cultural elements could both reflect and influence economic structures.",
+          "tags": [
+            "cultural theory",
+            "Marxism",
+            "Frankfurt School"
+          ]
+        },
+        {
+          "id": "deck_4cee4406e7c4_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1695548111244-d9d3c886edd3?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMGNyaXNpcyUyMGNhcGl0YWxpc20lMjBlY29ub21pYyUyMHRoZW9yeXxlbnwxfDB8fHwxNzgyMTQyNzY2fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Crisis of Capitalism",
+          "body": "In the 1930s, the Frankfurt School observed that capitalism's predicted collapse wasn't happening. They examined 'state capitalism' and how cultural shifts might unjam historical progress.",
+          "tags": [
+            "capitalism",
+            "economic theory",
+            "Frankfurt School"
+          ]
+        },
+        {
+          "id": "deck_4cee4406e7c4_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1695548111244-d9d3c886edd3?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjdWx0dXJhbCUyMGVjb25vbXklMjBlY29ub21pY3MlMjBjdWx0dXJlfGVufDF8MHx8fDE3ODIxNDI3Njl8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Culture and Economic Base",
+          "body": "According to the Frankfurt School, culture and the economic base are interdependent. They argued that cultural changes could drive economic shifts, potentially paving the way for a new societal paradigm.",
+          "tags": [
+            "economics",
+            "culture",
+            "interdependence"
+          ]
+        },
+        {
+          "id": "deck_4cee4406e7c4_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1759156839410-3cffcdec0353?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGFydCUyMGdhbGxlcnklMjBhcnQlMjBjcml0aXF1ZXxlbnwxfDB8fHwxNzgyMTQyNzcxfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Art as Cultural Critique",
+          "body": "For the Frankfurt School, art served to highlight societal contradictions. It wasn't just left-wing propaganda but a medium to expose and critique the flaws of existing systems.",
+          "tags": [
+            "art",
+            "critique",
+            "Frankfurt School"
+          ]
+        },
+        {
+          "id": "deck_4cee4406e7c4_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1594399432819-af8cb403864d?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxyZWxpZ2lvdXMlMjBzeW1ib2xzJTIwdGhlb2xvZ3klMjBuZWdhdGlvbnxlbnwxfDB8fHwxNzgyMTQyNzc0fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Role of Negative Theology",
+          "body": "Negative theology, or defining by negation, parallels the Frankfurt School's approach. They believed that you can't fully describe communism because we lack the concepts\u2014much like describing God.",
+          "tags": [
+            "theology",
+            "negation",
+            "Frankfurt School"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_e3ac463f6967",
+      "title": "AI in Voting Decisions",
+      "description": "Discover how AI can refine your voting research.",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.astralcodexten.com/p/use-ai-this-election",
+        "author": "Scott Alexander",
+        "publishDate": "Tue, 26 May 2026 20:22:30 GMT",
+        "category": [
+          "AI",
+          "Politics",
+          "Civic Engagement"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:10:02.593087",
+        "updatedAt": "2026-06-22T21:10:02.593105"
+      },
+      "cards": [
+        {
+          "id": "deck_e3ac463f6967_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxBSSUyMGFzc2lzdGFudCUyMHZvdGluZyUyMEFJJTIwVm90aW5nfGVufDF8MHx8fDE3ODIxNDI3ODl8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "AI as a Voting Assistant",
+          "body": "AI tools can streamline and enhance your political research. Instead of spending hours sifting through candidate information, AI like Claude can quickly provide detailed analyses and comparisons, making your voting decisions more informed and efficient.",
+          "tags": [
+            "AI",
+            "Voting",
+            "Efficiency"
+          ]
+        },
+        {
+          "id": "deck_e3ac463f6967_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxlZHVjYXRpb24lMjBwb2xpY3klMjBFZHVjYXRpb24lMjBQb2xpY3l8ZW58MXwwfHx8MTc4MjE0Mjc5Mnww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Understanding Education Policy",
+          "body": "In evaluating candidates for roles like California Superintendent of Public Instruction, AI can highlight key policy positions, such as support for structured literacy and phonics-based reading instruction, helping voters align choices with educational priorities.",
+          "tags": [
+            "Education",
+            "Policy",
+            "AI"
+          ]
+        },
+        {
+          "id": "deck_e3ac463f6967_card_2",
+          "imageUrl": "",
+          "heading": "Analyzing Local Measures",
+          "body": "AI can clarify complex local measures by breaking down the details, benefits, and potential issues. For instance, Measure A's analysis revealed its impact on community colleges, making it easier for voters to understand the implications of their choices.",
+          "tags": [
+            "Local Measures",
+            "Community Colleges",
+            "AI"
+          ]
+        },
+        {
+          "id": "deck_e3ac463f6967_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwb2xpdGljYWwlMjBzdHJhdGVneSUyMEFJJTIwUG9saXRpY2FsJTIwU3RyYXRlZ3klMjBBSXxlbnwxfDB8fHwxNzgyMTQyNzk3fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "AI's Role in Political Strategy",
+          "body": "Apart from aiding individual voters, AI can help uncover broader political strategies by analyzing endorsements and past actions, providing a clearer picture of candidate viability and alignment with specific political views.",
+          "tags": [
+            "Political Strategy",
+            "AI",
+            "Endorsements"
+          ]
+        },
+        {
+          "id": "deck_e3ac463f6967_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1612012060851-20f943c02d3d?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxiYWxhbmNpbmclMjBzY2FsZXMlMjBBSSUyMFBlcnNvbmFsJTIwVmlld3MlMjBBSSUyMEd1aWRhbmNlfGVufDF8MHx8fDE3ODIxNDI4MDB8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Balancing AI Guidance with Personal Views",
+          "body": "AI provides recommendations based on inputted preferences, but users should balance these with personal beliefs. While AI suggests informed choices, it's essential to consider broader contexts and personal values.",
+          "tags": [
+            "Personal Views",
+            "AI Guidance",
+            "Voting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_fe2ca9101ebd",
+      "title": "AI Paradigms & Future",
+      "description": "Explore AI evolution and AGI potential.",
+      "gradientColors": [
+        "#F59E0B",
+        "#92400E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.astralcodexten.com/p/new-paradigms-wont-save-you",
+        "author": "Scott Alexander",
+        "publishDate": "Fri, 22 May 2026 08:49:25 GMT",
+        "category": [
+          "Artificial Intelligence",
+          "Technology"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:10:31.847450",
+        "updatedAt": "2026-06-22T21:10:31.847475"
+      },
+      "cards": [
+        {
+          "id": "deck_fe2ca9101ebd_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxldm9sdXRpb25hcnklMjB0cmVlJTIwQUklMjBBSSUyMGhpc3RvcnklMjBuZXVyYWwlMjBuZXR3b3Jrc3xlbnwxfDB8fHwxNzgyMTQyODE4fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "AI's Evolutionary Tree",
+          "body": "AI development can be seen as an evolutionary tree with neural networks from the 1950s leading to modern LLMs. Understanding this helps contextualize the AI journey and future possibilities.",
+          "tags": [
+            "AI history",
+            "neural networks",
+            "LLMs"
+          ]
+        },
+        {
+          "id": "deck_fe2ca9101ebd_card_1",
+          "imageUrl": "",
+          "heading": "The Role of New Paradigms",
+          "body": "A new paradigm might not be necessary if LLMs continue to efficiently scale. However, if scaling hits a wall, new ideas may be needed to break through.",
+          "tags": [
+            "AI paradigms",
+            "LLMs",
+            "scaling"
+          ]
+        },
+        {
+          "id": "deck_fe2ca9101ebd_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1456574808786-d2ba7a6aa654?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxjbG9jayUyMGZ1dHVyZSUyMHByZWRpY3Rpb24lMjBMaW5keSUyN3MlMjBMYXclMjBBSSUyMGFkdmFuY2VtZW50fGVufDF8MHx8fDE3ODIxNDI4MjN8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Lindy's Law in AI",
+          "body": "Lindy's Law suggests that transformative AI advances, like LLMs, might occur every 9 years. This implies a potential paradigm shift within 3-5 years.",
+          "tags": [
+            "Lindy's Law",
+            "AI advancements",
+            "future predictions"
+          ]
+        },
+        {
+          "id": "deck_fe2ca9101ebd_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1694903110330-cc64b7e1d21d?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxkZWJhdGUlMjBBSSUyMGV4cGVydHMlMjBBSSUyMHNrZXB0aWNpc20lMjBleHBlcnQlMjBvcGluaW9uc3xlbnwxfDB8fHwxNzgyMTQyODI2fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Skeptic Views on AI",
+          "body": "Experts like Yann LeCun and Gary Marcus argue that while LLMs are not AGI, combining deep learning with other insights might pave the way.",
+          "tags": [
+            "AI skepticism",
+            "expert opinions",
+            "deep learning"
+          ]
+        },
+        {
+          "id": "deck_fe2ca9101ebd_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzY2FsaW5nJTIwZ3JhcGglMjBBSSUyMEFJJTIwc2NhbGluZyUyMEFHSSUyMGZvcmVjYXN0fGVufDF8MHx8fDE3ODIxNDI4Mjl8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Scaling and AGI",
+          "body": "The best way to forecast AI progress is to extrapolate from current LLM scaling, which may lead directly to AGI or prompt new paradigm development when LLMs reach limits.",
+          "tags": [
+            "AI scaling",
+            "AGI forecast",
+            "LLMs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_ac0010acf252",
+      "title": "Cultural Shifts in Fame",
+      "description": "Exploring fame, consumerism, and art",
+      "gradientColors": [
+        "#A855F7",
+        "#6B21A8"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 09 Jun 2026 16:58:56 GMT",
+        "category": [
+          "Culture",
+          "Consumerism"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:11:06.192437",
+        "updatedAt": "2026-06-22T21:11:06.192472"
+      },
+      "cards": [
+        {
+          "id": "deck_ac0010acf252_card_0",
+          "imageUrl": "",
+          "heading": "Pearl Jam's Anti-Fame Stance",
+          "body": "In the early 90s, Pearl Jam rejected fame by refusing to make music videos and cutting potential hits from albums. Despite this, their second album sold nearly a million copies in the first week. This reflects a time when maintaining 'artistic integrity' was often at odds with commercial success.",
+          "tags": [
+            "Pearl Jam",
+            "90s culture",
+            "fame"
+          ]
+        },
+        {
+          "id": "deck_ac0010acf252_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1559228461-4fa1e7eb677c?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwb3AlMjBtdXNpYyUyMGNvbmNlcnQlMjBwb3B0aW1pc20lMjBwb3AlMjBjdWx0dXJlfGVufDF8MHx8fDE3ODIxNDI4NTV8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Rise of Poptimism",
+          "body": "Poptimism, the idea that pop music is as valid as any other art form, emerged as a response to 'rockism'. This shift led to a broader acceptance of pop culture, where popularity began to overshadow traditional artistic merit.",
+          "tags": [
+            "poptimism",
+            "pop culture",
+            "music criticism"
+          ]
+        },
+        {
+          "id": "deck_ac0010acf252_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1683721003111-070bcc053d8b?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMGluZmx1ZW5jZXIlMjBmYW1lJTIwaW50ZXJuZXQlMjBjdWx0dXJlfGVufDF8MHx8fDE3ODIxNDI4NTh8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Great Switcheroo",
+          "body": "As getting rich became harder, becoming famous became easier with the internet. This shift led to a society more lenient towards celebrity endorsements and hyper-commercialism, as fame became more accessible than wealth.",
+          "tags": [
+            "fame",
+            "internet culture",
+            "celebrity"
+          ]
+        },
+        {
+          "id": "deck_ac0010acf252_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxmYW5zJTIwYXQlMjBjb25jZXJ0JTIwZmFuJTIwY3VsdHVyZSUyMGNvbnN1bWVyaXNtfGVufDF8MHx8fDE3ODIxNDI4NjF8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Fans and Consumerism",
+          "body": "Today's fans often engage in marketing for their favorite celebrities, believing they're promoting their own voices. This reflects a major change from past anti-consumerist attitudes, where commercial tie-ins were frowned upon.",
+          "tags": [
+            "fan culture",
+            "consumerism",
+            "celebrity"
+          ]
+        },
+        {
+          "id": "deck_ac0010acf252_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1503528108408-87b0d1c2b785?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwdW5rJTIwcm9jayUyMGNvbmNlcnQlMjBwdW5rJTIwZXRob3MlMjBjb25zdW1lcmlzbXxlbnwxfDB8fHwxNzgyMTQyODY0fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Reviving the Punk Ethos",
+          "body": "The author argues for a return to anti-consumerist values, suggesting that we should distinguish between art and advertisement and resist the normalization of 'selling out' by artists for commercial gains.",
+          "tags": [
+            "punk ethos",
+            "consumerism",
+            "art"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_19513b709e35",
+      "title": "Rules and Human Nature",
+      "description": "Explore the limits of rules in shaping behavior.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 12 May 2026 13:23:30 GMT",
+        "category": [
+          "Psychology",
+          "Society"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:11:38.505072",
+        "updatedAt": "2026-06-22T21:11:38.505103"
+      },
+      "cards": [
+        {
+          "id": "deck_19513b709e35_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1549830727-c1c26b45db08?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzb3ZpZXQlMjBjb25zdGl0dXRpb24lMjBoaXN0b3J5JTIwc29jaWV0eXxlbnwxfDB8fHwxNzgyMTQyODg1fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Soviet Paradox",
+          "body": "Stalin's USSR had a progressive 1936 constitution, yet millions faced persecution. This highlights that rules lack power without societal compliance. Laws are ineffective without collective intent to uphold them.",
+          "tags": [
+            "history",
+            "society",
+            "law"
+          ]
+        },
+        {
+          "id": "deck_19513b709e35_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzY2llbnRpZmljJTIwcmVzZWFyY2glMjBzY2llbmNlJTIwcmVzZWFyY2h8ZW58MXwwfHx8MTc4MjE0Mjg4OHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Science's Replication Crisis",
+          "body": "The replication crisis in science shows that stricter rules don't guarantee accuracy. Many studies still fail to replicate due to lack of genuine scientific rigor and motivation.",
+          "tags": [
+            "science",
+            "research",
+            "integrity"
+          ]
+        },
+        {
+          "id": "deck_19513b709e35_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzbG93JTIwY29va2luZyUyMHBvdCUyMHBzeWNob2xvZ3klMjBiZWhhdmlvcnxlbnwxfDB8fHwxNzgyMTQyODkwfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Crock Pots and Lightning Bolts",
+          "body": "People change either very slowly or very suddenly. This metaphor suggests that lasting change in behavior often depends on gradual influence or dramatic events, not just new rules.",
+          "tags": [
+            "psychology",
+            "behavior",
+            "change"
+          ]
+        },
+        {
+          "id": "deck_19513b709e35_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1556474835-47da4fcf709c?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxwb2xpY2UlMjBib2R5JTIwY2FtZXJhJTIwbGF3JTIwZW5mb3JjZW1lbnQlMjBhY2NvdW50YWJpbGl0eXxlbnwxfDB8fHwxNzgyMTQyODkzfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Policing the Police",
+          "body": "Body cameras for police were expected to improve accountability but showed limited impact. The justice system's ambivalence towards accountability limits the effectiveness of such measures.",
+          "tags": [
+            "law enforcement",
+            "accountability",
+            "technology"
+          ]
+        },
+        {
+          "id": "deck_19513b709e35_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1544531586-fde5298cdd40?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxtb3RpdmF0aW9uYWwlMjBzcGVha2VyJTIwbW90aXZhdGlvbiUyMHBzeWNob2xvZ3l8ZW58MXwwfHx8MTc4MjE0Mjg5Nnww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Role of Motivation",
+          "body": "Intrinsic motivation is essential for meaningful change. People need to want to do the right thing, not just be forced by rules. This is crucial in fields like science and law.",
+          "tags": [
+            "motivation",
+            "psychology",
+            "ethics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_85133fd407da",
+      "title": "The Persistence of Debunked Theories",
+      "description": "Explore why debunked theories linger on.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 14 Apr 2026 16:16:42 GMT",
+        "category": [
+          "Psychology",
+          "Philosophy of Science"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:12:19.775388",
+        "updatedAt": "2026-06-22T21:12:19.775434"
+      },
+      "cards": [
+        {
+          "id": "deck_85133fd407da_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxvbGQlMjBib29rcyUyMG9uJTIwc2hlbGYlMjBwc3ljaG9sb2d5JTIwc2NpZW5jZXxlbnwxfDB8fHwxNzgyMTQyOTIzfDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Debunked Yet Persistent",
+          "body": "Despite being debunked, psychological theories like power posing and ego depletion continue to be studied. These theories linger because they adapt with new terms and concepts, showing the resilience of ideas in scientific discourse.",
+          "tags": [
+            "psychology",
+            "science",
+            "replication crisis"
+          ]
+        },
+        {
+          "id": "deck_85133fd407da_card_1",
+          "imageUrl": "https://images.unsplash.com/photo-1618053448492-2b629c2c912c?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxzY2llbnRpc3QlMjB0aGlua2luZyUyMGZhbHNpZmlhYmlsaXR5JTIwc2NpZW5jZXxlbnwxfDB8fHwxNzgyMTQyOTI2fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Science is Never Settled",
+          "body": "The article argues that scientific theories never truly die; they become embarrassing. Falsifiability is complex, and human biases often keep debunked theories alive, illustrating the subjective nature of scientific progress.",
+          "tags": [
+            "falsifiability",
+            "science",
+            "bias"
+          ]
+        },
+        {
+          "id": "deck_85133fd407da_card_2",
+          "imageUrl": "https://images.unsplash.com/photo-1552875101-979d61f26eb0?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxoYWxvJTIwaGVsbWV0JTIwYW5hbG9neSUyMHNjaWVuY2UlMjBmaWN0aW9ufGVufDF8MHx8fDE3ODIxNDI5Mjl8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Halo Analogy",
+          "body": "Drawing from the Halo universe, the article compares Spartan soldiers listed as 'missing in action' to scientific theories that never officially die, suggesting they merely become embarrassing over time.",
+          "tags": [
+            "analogy",
+            "science fiction",
+            "philosophy"
+          ]
+        },
+        {
+          "id": "deck_85133fd407da_card_3",
+          "imageUrl": "https://images.unsplash.com/photo-1552862750-746b8f6f7f25?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxsaWdodCUyMGJ1bGIlMjBtb21lbnQlMjBpbm5vdmF0aW9uJTIwdGhlb3J5fGVufDF8MHx8fDE3ODIxNDI5MzJ8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Cringe and Science",
+          "body": "Many revolutionary ideas, like germ theory and continental drift, were once considered 'cringe.' The article posits that if a theory remains cringe for too long, it likely holds little merit.",
+          "tags": [
+            "innovation",
+            "theory",
+            "germ theory"
+          ]
+        },
+        {
+          "id": "deck_85133fd407da_card_4",
+          "imageUrl": "https://images.unsplash.com/photo-1758685734153-132c8620c1bd?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMHJlc2VhcmNoZXIlMjBpbm5vdmF0aW9uJTIweW91dGh8ZW58MXwwfHx8MTc4MjE0MjkzNHww&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Young Minds Drive Progress",
+          "body": "Science advances not through funerals but through young researchers deciding to explore new ideas rather than cling to outdated, cringe-worthy theories.",
+          "tags": [
+            "innovation",
+            "youth",
+            "progress"
+          ]
+        },
+        {
+          "id": "deck_85133fd407da_card_5",
+          "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxsYWIlMjBleHBlcmltZW50JTIwcmVwbGljYXRpb24lMjBjcmlzaXMlMjBwc3ljaG9sb2d5fGVufDF8MHx8fDE3ODIxNDI5Mzd8MA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "The Replication Crisis",
+          "body": "The replication crisis in psychology has led to debates on the validity of many theories. Despite extensive replication attempts, some theories remain unresolved, highlighting the complexity of scientific validation.",
+          "tags": [
+            "replication crisis",
+            "psychology",
+            "debate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_ec5f8444d2d9",
+      "title": "AI and Human Intelligence",
+      "description": "Exploring the limits of AI and human wisdom.",
+      "gradientColors": [
+        "#1E40AF",
+        "#0C4A6E"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/infinite-midwit",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 31 Mar 2026 16:05:29 GMT",
+        "category": [
+          "Technology",
+          "Psychology"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:12:41.389883",
+        "updatedAt": "2026-06-22T21:12:41.389920"
+      },
+      "cards": [
+        {
+          "id": "deck_ec5f8444d2d9_card_0",
+          "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?ixid=M3w4NzEzODZ8MHwxfHNlYXJjaHwxfHxicmFpbiUyMGRpYWdyYW0lMjBBSSUyMGludGVsbGlnZW5jZXxlbnwxfDB8fHwxNzgyMTQyOTQ5fDA&ixlib=rb-4.1.0&w=1080&q=75&auto=format",
+          "heading": "Objective vs. Subjective Intelligence",
+          "body": "Objective intelligence involves clear, verifiable solutions, like math problems. Subjective intelligence deals with vague issues, like living a good life. AI excels at the former, but struggles with the latter, highlighting the limits of its capabilities.",
+          "tags": [
+            "AI",
+            "intelligence",
+            "philosophy"
+          ]
+        },
+        {
+          "id": "deck_ec5f8444d2d9_card_1",
+          "imageUrl": "",
+          "heading": "AI: The Infinite Midwit",
+          "body": "AI serves as an 'infinite midwit'\u2014always available and knowledgeable yet lacking the depth of understanding to solve complex, subjective problems. Its capabilities reveal significant gaps that remain unfilled.",
+          "tags": [
+            "AI",
+            "technology",
+            "limitations"
+          ]
+        },
+        {
+          "id": "deck_ec5f8444d2d9_card_2",
+          "imageUrl": "",
+          "heading": "Writing: A Test of Both Intelligences",
+          "body": "Good writing requires both objective skills, like grammar, and subjective skills, like creativity. While AI can handle the former, it lacks the 'light' that makes writing alive, struggling to produce engaging content.",
+          "tags": [
+            "writing",
+            "AI",
+            "creativity"
+          ]
+        },
+        {
+          "id": "deck_ec5f8444d2d9_card_3",
+          "imageUrl": "",
+          "heading": "The Wall of AI Limitations",
+          "body": "Despite advancements, AI encounters a wall it can't overcome: subjective intelligence. This limitation ensures that AI cannot replace human roles requiring personal insight and emotional understanding.",
+          "tags": [
+            "AI",
+            "limitations",
+            "technology"
+          ]
+        },
+        {
+          "id": "deck_ec5f8444d2d9_card_4",
+          "imageUrl": "",
+          "heading": "Bottleneck Blindness in Progress",
+          "body": "Increasing objective intelligence won't solve all problems. Once that bottleneck is removed, others like motivation or creativity emerge. This highlights the multifaceted nature of human challenges.",
+          "tags": [
+            "productivity",
+            "AI",
+            "challenges"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_a95f41571333",
+      "title": "Reforming Scientific Publishing",
+      "description": "Uncover the flaws in scientific publishing.",
+      "gradientColors": [
+        "#5B21B6",
+        "#1E3A8A"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/the-one-science-reform-we-can-all",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 03 Mar 2026 17:47:57 GMT",
+        "category": [
+          "Science",
+          "Economics",
+          "Policy"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:13:13.271400",
+        "updatedAt": "2026-06-22T21:13:13.271426"
+      },
+      "cards": [
+        {
+          "id": "deck_a95f41571333_card_0",
+          "imageUrl": "",
+          "heading": "The Academic Pay Paradox",
+          "body": "In STEM fields, universities pay professors to teach, yet they are promoted for research, which universities don't fund. Instead, researchers often rely on federal grants to finance their studies. This paradox highlights a misalignment between teaching duties and career advancement incentives.",
+          "tags": [
+            "academia",
+            "STEM",
+            "funding"
+          ]
+        },
+        {
+          "id": "deck_a95f41571333_card_1",
+          "imageUrl": "",
+          "heading": "The Peer Review Dilemma",
+          "body": "Peer review in academic publishing often involves unpaid academics reviewing each other's work. Journals own the copyright once a paper is accepted, and authors sometimes even pay 'article processing charges' for this 'honor'. This setup benefits publishers more than researchers.",
+          "tags": [
+            "peer review",
+            "academic journals",
+            "publishing"
+          ]
+        },
+        {
+          "id": "deck_a95f41571333_card_2",
+          "imageUrl": "",
+          "heading": "The Publisher Monopoly",
+          "body": "Scientific publishers profit by paywalling publicly funded research. Taxpayers fund the research, then pay again for access. This 'triple payment' system is perpetuated by the necessity for researchers to publish in high-impact journals for career advancement.",
+          "tags": [
+            "publishing industry",
+            "monopoly",
+            "paywall"
+          ]
+        },
+        {
+          "id": "deck_a95f41571333_card_3",
+          "imageUrl": "",
+          "heading": "Historical Roots of the Problem",
+          "body": "Post-WWII, as article volume grew, private companies offered to manage journal production. This led to a monopoly where publishers could set high subscription fees, despite technological advances reducing production costs.",
+          "tags": [
+            "history",
+            "publishing",
+            "monopoly"
+          ]
+        },
+        {
+          "id": "deck_a95f41571333_card_4",
+          "imageUrl": "",
+          "heading": "The SciHub Revolution",
+          "body": "SciHub, founded by Alexandra Elbakyan, offers free access to scientific papers, circumventing paywalls. This 'pirate' site is likened to Soviet secret gardens, undermining the for-profit journal system by providing vital access to researchers globally.",
+          "tags": [
+            "SciHub",
+            "open access",
+            "piracy"
+          ]
+        },
+        {
+          "id": "deck_a95f41571333_card_5",
+          "imageUrl": "",
+          "heading": "Government's Role in Reform",
+          "body": "The solution to the publishing issue lies in policy change. Government grants should mandate that funded research can't be published in for-profit journals. This shift would prioritize public access over publisher profits.",
+          "tags": [
+            "policy",
+            "government",
+            "open access"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_b00bea360e97",
+      "title": "Unveiling Research Myths",
+      "description": "Explore debunked studies and their implications.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 17 Feb 2026 16:15:11 GMT",
+        "category": [
+          "Psychology",
+          "Science",
+          "Research"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:13:40.297418",
+        "updatedAt": "2026-06-22T21:13:40.297455"
+      },
+      "cards": [
+        {
+          "id": "deck_b00bea360e97_card_0",
+          "imageUrl": "",
+          "heading": "The UFO Cult Revisited",
+          "body": "A classic study on cognitive dissonance about a UFO cult is now under scrutiny. Originally believed to show cultists doubling down after a failed prophecy, new evidence suggests that many cultists left or retracted their beliefs, influenced by undercover researchers. This challenges the narrative and invites reevaluation of cognitive dissonance.",
+          "tags": [
+            "cognitive dissonance",
+            "UFO cult",
+            "research critique"
+          ]
+        },
+        {
+          "id": "deck_b00bea360e97_card_1",
+          "imageUrl": "",
+          "heading": "Oliver Sacks: Fact or Fable?",
+          "body": "Oliver Sacks's renowned case studies, such as 'The Man Who Mistook His Wife for a Hat', are now suspected of being partly fictional. Sacks himself described his work as 'half-science, half-fable'. This revelation parallels the debunking of the Stanford Prison Experiment, urging skepticism about famous psychological experiments.",
+          "tags": [
+            "Oliver Sacks",
+            "psychology myths",
+            "case studies"
+          ]
+        },
+        {
+          "id": "deck_b00bea360e97_card_2",
+          "imageUrl": "",
+          "heading": "Memory and the Car Crash",
+          "body": "The famous study on how wording affects memory recall in car crash scenarios failed to replicate with a larger sample. This suggests memory isn't as easily manipulated by language as once thought. While memory is reconstructed, it's not fragile enough to be reshaped by mere word choice.",
+          "tags": [
+            "memory",
+            "language effect",
+            "study replication"
+          ]
+        },
+        {
+          "id": "deck_b00bea360e97_card_3",
+          "imageUrl": "",
+          "heading": "Choice Underload: A New Perspective",
+          "body": "A 1995 study suggested that too many treatment options lead to decision paralysis in physicians. However, new research indicates that more options can actually increase the likelihood of choosing a treatment. This highlights the complexity of decision-making under uncertainty.",
+          "tags": [
+            "decision-making",
+            "choice overload",
+            "medical decisions"
+          ]
+        },
+        {
+          "id": "deck_b00bea360e97_card_4",
+          "imageUrl": "",
+          "heading": "The Myth of Spider Swallowing",
+          "body": "The popular myth that people swallow eight spiders a year in their sleep was itself a hoax. Created to show how misinformation spreads, it further evolved into a story that the myth's origin was a fabricated tale by 'Lisa Birgit Holst'\u2014an anagram for 'This is a big troll'. This showcases the layers of deception in viral myths.",
+          "tags": [
+            "urban legends",
+            "misinformation",
+            "spider myth"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_70209ebf933f",
+      "title": "Unconventional Impact",
+      "description": "Explore unique ways to create positive change.",
+      "gradientColors": [
+        "#4B5563",
+        "#1F2937"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.experimental-history.com/p/underrated-ways-to-change-the-world-b64",
+        "author": "Adam Mastroianni",
+        "publishDate": "Tue, 03 Feb 2026 16:28:19 GMT",
+        "category": [
+          "Personal Development",
+          "Societal Impact"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:14:08.488317",
+        "updatedAt": "2026-06-22T21:14:08.488358"
+      },
+      "cards": [
+        {
+          "id": "deck_70209ebf933f_card_0",
+          "imageUrl": "",
+          "heading": "Answer Unsexy Questions",
+          "body": "Donald Shoup transformed urban landscapes by focusing on parking\u2014a seemingly mundane topic. By proving that charging for parking can reduce traffic and improve neighborhoods, he demonstrated the power of addressing overlooked issues. Consider tackling 'unsexy' problems that hide significant potential impacts.",
+          "tags": [
+            "innovation",
+            "urban planning",
+            "problem solving"
+          ]
+        },
+        {
+          "id": "deck_70209ebf933f_card_1",
+          "imageUrl": "",
+          "heading": "Be a Public Character",
+          "body": "Jane Jacobs highlighted the importance of 'public characters' like store owners who contribute to community well-being through everyday actions. They don't need special skills, just a willingness to engage with others. Your presence and interactions can strengthen your community.",
+          "tags": [
+            "community",
+            "engagement",
+            "social impact"
+          ]
+        },
+        {
+          "id": "deck_70209ebf933f_card_2",
+          "imageUrl": "",
+          "heading": "Create Nucleation Sites",
+          "body": "Just like bubbles form at nucleation sites, social bonds form in environments of 'unreasonable attentiveness.' Consider being that focal point in social settings to foster connections and community. This doesn't require perfection, just genuine engagement.",
+          "tags": [
+            "social connections",
+            "community building",
+            "engagement"
+          ]
+        },
+        {
+          "id": "deck_70209ebf933f_card_3",
+          "imageUrl": "",
+          "heading": "Be an Honest Broker",
+          "body": "In fields like immigration law, where good practitioners are scarce, being honest and competent can make a huge difference. Many industries are underserved due to a mismatch between demand for ethical service and supply, offering opportunities for those with integrity.",
+          "tags": [
+            "ethics",
+            "professionalism",
+            "law"
+          ]
+        },
+        {
+          "id": "deck_70209ebf933f_card_4",
+          "imageUrl": "",
+          "heading": "Improve Viral Statistics",
+          "body": "The accuracy of many viral statistics is questionable. By improving the precision of these statistics, you can contribute to more informed public discourse. Even small corrections can provide a clearer understanding of issues.",
+          "tags": [
+            "statistics",
+            "accuracy",
+            "data"
+          ]
+        },
+        {
+          "id": "deck_70209ebf933f_card_5",
+          "imageUrl": "",
+          "heading": "Be Good Audience",
+          "body": "Good audiences are crucial for performers to thrive. By actively engaging and supporting creators, you help elevate quality and encourage more artistic expression. Your participation can make or break creative communities.",
+          "tags": [
+            "support",
+            "creativity",
+            "audience"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_b58886b0bf51",
+      "title": "Understanding Polyvagal Theory",
+      "description": "Explore how our nervous system shapes emotional connections.",
+      "gradientColors": [
+        "#BE185D",
+        "#831843"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/22/polyvagal-theory/",
+        "author": "Maria Popova",
+        "publishDate": "Mon, 22 Jun 2026 08:21:37 +0000",
+        "category": [
+          "Psychology",
+          "Neuroscience"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:14:33.470876",
+        "updatedAt": "2026-06-22T21:14:33.470905"
+      },
+      "cards": [
+        {
+          "id": "deck_b58886b0bf51_card_0",
+          "imageUrl": "",
+          "heading": "The Vagus Nerve's Journey",
+          "body": "The vagus nerve, the longest of the autonomic nervous system, travels from the brain to the gut, influencing our heart rate, digestion, reflexes, and moods. Understanding its role can illuminate how our body and mind connect in shaping emotions.",
+          "tags": [
+            "vagus nerve",
+            "body-mind connection",
+            "nervous system"
+          ]
+        },
+        {
+          "id": "deck_b58886b0bf51_card_1",
+          "imageUrl": "",
+          "heading": "Polyvagal Theory's Origins",
+          "body": "Stephen Porges discovered two vagal pathways: the older dorsal vagus, related to fear response, and the newer ventral vagus, which governs social connection. This theory explains how these pathways influence our sense of safety and attachment styles.",
+          "tags": [
+            "Stephen Porges",
+            "dorsal vagus",
+            "ventral vagus"
+          ]
+        },
+        {
+          "id": "deck_b58886b0bf51_card_2",
+          "imageUrl": "",
+          "heading": "Connection Through Co-regulation",
+          "body": "Deb Dana highlights that connectedness is a biological imperative. The ventral vagus pathway supports feelings of safety, promoting co-regulation, where we soothe and connect with others, fostering positive relationships.",
+          "tags": [
+            "co-regulation",
+            "Deb Dana",
+            "ventral vagus"
+          ]
+        },
+        {
+          "id": "deck_b58886b0bf51_card_3",
+          "imageUrl": "",
+          "heading": "Neuroception: Safety and Danger",
+          "body": "Neuroception, a concept by Porges, describes how the autonomic nervous system subconsciously detects safety or danger. Early experiences shape this response, influencing our relationship patterns and perceptions of safety.",
+          "tags": [
+            "neuroception",
+            "autonomic nervous system",
+            "relationships"
+          ]
+        },
+        {
+          "id": "deck_b58886b0bf51_card_4",
+          "imageUrl": "",
+          "heading": "Healing Through Reciprocity",
+          "body": "Reciprocity in relationships\u2014marked by mutual listening and response\u2014can recalibrate our nervous system, shifting us from fear-based to connection-based patterns, aiding in emotional healing and growth.",
+          "tags": [
+            "reciprocity",
+            "emotional healing",
+            "relationships"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_dddbf68268b6",
+      "title": "The Power of Obstacles",
+      "description": "Discover the hidden creativity in obstacles.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/21/bayo-akomolafe-wilds-obstacles/",
+        "author": "Maria Popova",
+        "publishDate": "Sun, 21 Jun 2026 15:08:40 +0000",
+        "category": [
+          "Philosophy",
+          "Personal Growth"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:14:55.679329",
+        "updatedAt": "2026-06-22T21:14:55.679358"
+      },
+      "cards": [
+        {
+          "id": "deck_dddbf68268b6_card_0",
+          "imageUrl": "",
+          "heading": "Obstacles as Catalysts",
+          "body": "Whenever there is a will, an obstacle often stands in the way, serving as a catalyst for new possibilities. Obstacles transform our path, turning limitations into creative constraints that challenge us to become more imaginative in our existence.",
+          "tags": [
+            "obstacles",
+            "creativity",
+            "growth"
+          ]
+        },
+        {
+          "id": "deck_dddbf68268b6_card_1",
+          "imageUrl": "",
+          "heading": "Life Begins in the Middle",
+          "body": "Every life is a story that begins in the middle, shaped by the obstacles encountered and the responses to them. This 'middle' is a rich space, full of potential for new beginnings and endings, showing that life is dynamic and ever-evolving.",
+          "tags": [
+            "life",
+            "journey",
+            "middle"
+          ]
+        },
+        {
+          "id": "deck_dddbf68268b6_card_2",
+          "imageUrl": "",
+          "heading": "Creative Fertility of Obstacles",
+          "body": "Obstacles are dense with creative potential, acting as hubs of unspeakable creativity. They redeem us from the banality of achievement, pushing us to embrace the unfinished aspect of life and the ongoing process of becoming.",
+          "tags": [
+            "creativity",
+            "potential",
+            "becoming"
+          ]
+        },
+        {
+          "id": "deck_dddbf68268b6_card_3",
+          "imageUrl": "",
+          "heading": "Rethinking Causality",
+          "body": "Our traditional view of causality as linear is challenged by the idea that time and events are multilinear and cyclic. In West African cosmogonies, causation is seen as surprising and multilinear, suggesting that effects can flow back into causes.",
+          "tags": [
+            "causality",
+            "time",
+            "philosophy"
+          ]
+        },
+        {
+          "id": "deck_dddbf68268b6_card_4",
+          "imageUrl": "",
+          "heading": "Web of Life",
+          "body": "We are not separate entities but part of a complex web of life. Every movement sends tremors through this web, highlighting the interconnectedness and rich complexity of our existence and the world around us.",
+          "tags": [
+            "interconnectedness",
+            "complexity",
+            "life"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_0a899e75d1ec",
+      "title": "Solitude & Creativity",
+      "description": "Explore art's connection with solitude.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/21/rockwell-kent-wilderness/",
+        "author": "Maria Popova",
+        "publishDate": "Sun, 21 Jun 2026 09:15:48 +0000",
+        "category": [
+          "Philosophy",
+          "Creativity"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:15:35.260333",
+        "updatedAt": "2026-06-22T21:15:35.260350"
+      },
+      "cards": [
+        {
+          "id": "deck_0a899e75d1ec_card_0",
+          "imageUrl": "",
+          "heading": "The Power of Solitude",
+          "body": "Rockwell Kent found that solitude on a remote Alaskan island expanded his soul and creativity. In these quiet times, away from civilization, he discovered that the absence of distractions allowed for profound personal and artistic growth.",
+          "tags": [
+            "solitude",
+            "creativity",
+            "personal growth"
+          ]
+        },
+        {
+          "id": "deck_0a899e75d1ec_card_1",
+          "imageUrl": "",
+          "heading": "Art as a Life Reflection",
+          "body": "Kent believed that art is more than abstract expressions; it is a reflection of life itself. His experiences in the wilderness taught him that all material things represent the ultimate essence of life, influencing both character and artistic expression.",
+          "tags": [
+            "art philosophy",
+            "life reflection",
+            "expression"
+          ]
+        },
+        {
+          "id": "deck_0a899e75d1ec_card_2",
+          "imageUrl": "",
+          "heading": "Nature's Influence on Art",
+          "body": "The harsh and beautiful Alaskan wilderness profoundly influenced Kent's art. The elements of nature became a teacher, revealing contrasts that shaped his perception and creativity. He saw nature as both a challenge and an inspiration.",
+          "tags": [
+            "nature",
+            "inspiration",
+            "art"
+          ]
+        },
+        {
+          "id": "deck_0a899e75d1ec_card_3",
+          "imageUrl": "",
+          "heading": "Finding Paradise in Hardship",
+          "body": "Despite harsh conditions, Kent and his son found beauty and joy in their isolated life. This experience taught them that simplicity and a connection with nature can provide profound satisfaction, contrasting sharply with the complexities of civilization.",
+          "tags": [
+            "simplicity",
+            "nature",
+            "satisfaction"
+          ]
+        },
+        {
+          "id": "deck_0a899e75d1ec_card_4",
+          "imageUrl": "",
+          "heading": "Weathering Emotional Storms",
+          "body": "Kent's time in Alaska was marked by emotional highs and lows. The isolation brought moments of despair, yet he learned to find beauty in both the harsh and serene moments, illustrating the resilience of the human spirit.",
+          "tags": [
+            "resilience",
+            "emotional journey",
+            "human spirit"
+          ]
+        },
+        {
+          "id": "deck_0a899e75d1ec_card_5",
+          "imageUrl": "",
+          "heading": "Creative Routines in Isolation",
+          "body": "Kent developed a creative routine that involved painting by day and envisioning compositions by night. This disciplined approach, coupled with the influence of the wilderness, allowed him to channel his creativity into powerful art.",
+          "tags": [
+            "routine",
+            "discipline",
+            "creativity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_3cc6a77e8679",
+      "title": "Life, Death, and the Universe",
+      "description": "Explore the mysteries of existence and the cycle of life.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/20/alan-lightman-death/",
+        "author": "Maria Popova",
+        "publishDate": "Sat, 20 Jun 2026 20:36:22 +0000",
+        "category": [
+          "Philosophy",
+          "Science",
+          "Life"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:16:01.236886",
+        "updatedAt": "2026-06-22T21:16:01.236919"
+      },
+      "cards": [
+        {
+          "id": "deck_3cc6a77e8679_card_0",
+          "imageUrl": "",
+          "heading": "The Mystery of Existence",
+          "body": "How can creatures who will certainly die understand things that exist forever? This question encapsulates the human struggle to grasp the infinite with our finite minds, highlighting our quest for meaning beyond material existence.",
+          "tags": [
+            "existence",
+            "philosophy",
+            "infinity"
+          ]
+        },
+        {
+          "id": "deck_3cc6a77e8679_card_1",
+          "imageUrl": "",
+          "heading": "The Cycle of Atoms",
+          "body": "Upon death, a person's atoms disperse and integrate into the world, illustrating the cycle of life as atoms become part of new beings and elements. It's a poetic reminder of our connection to the universe.",
+          "tags": [
+            "atoms",
+            "cycle of life",
+            "universe"
+          ]
+        },
+        {
+          "id": "deck_3cc6a77e8679_card_2",
+          "imageUrl": "",
+          "heading": "Walt Whitman's Insight",
+          "body": "Walt Whitman wrote of belonging, saying 'every atom belonging to me as good belongs to you.' This reflects on how our physical selves are interconnected with the universe, transcending individual existence.",
+          "tags": [
+            "Walt Whitman",
+            "interconnection",
+            "poetry"
+          ]
+        },
+        {
+          "id": "deck_3cc6a77e8679_card_3",
+          "imageUrl": "",
+          "heading": "Alan Lightman's Perspective",
+          "body": "In 'Mr g: A Novel About the Creation,' Alan Lightman imagines a universe where atoms from a single person spread across the globe, emphasizing the continual rebirth of matter and the interconnectedness of all life.",
+          "tags": [
+            "Alan Lightman",
+            "creation",
+            "interconnectedness"
+          ]
+        },
+        {
+          "id": "deck_3cc6a77e8679_card_4",
+          "imageUrl": "",
+          "heading": "The Paradox of Permanence",
+          "body": "Though our atoms are impermanent, as they cycle through nature, they create a form of permanence, connecting past, present, and future generations in an eternal dance.",
+          "tags": [
+            "permanence",
+            "nature",
+            "generations"
+          ]
+        },
+        {
+          "id": "deck_3cc6a77e8679_card_5",
+          "imageUrl": "",
+          "heading": "Finding Meaning in Art",
+          "body": "Amidst the universe's ceaseless change, art, music, and poetry offer emblems of existence, invigorating our lives with beauty and meaning, and connecting us with the infinite.",
+          "tags": [
+            "art",
+            "beauty",
+            "meaning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_129743278452",
+      "title": "George Forster's Legacy",
+      "description": "Explore Forster's unique blend of science and emotion.",
+      "gradientColors": [
+        "#5B21B6",
+        "#1E3A8A"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/20/george-forster-andrea-wulf/",
+        "author": "Maria Popova",
+        "publishDate": "Sat, 20 Jun 2026 14:41:22 +0000",
+        "category": [
+          "Science",
+          "Philosophy",
+          "History"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:16:26.641202",
+        "updatedAt": "2026-06-22T21:16:26.641236"
+      },
+      "cards": [
+        {
+          "id": "deck_129743278452_card_0",
+          "imageUrl": "",
+          "heading": "Thinking Beyond Boundaries",
+          "body": "George Forster challenged the artificial divisions between races, sexes, and the mind versus the body. He saw the world as interconnected, a perspective he developed while traveling with James Cook. His holistic view laid the foundation for future thinkers like Alexander von Humboldt.",
+          "tags": [
+            "interconnection",
+            "philosophy",
+            "visionary"
+          ]
+        },
+        {
+          "id": "deck_129743278452_card_1",
+          "imageUrl": "",
+          "heading": "The Power of Empathy in Science",
+          "body": "Unlike many Enlightenment thinkers, Forster emphasized the role of emotions in understanding the world. He believed that relying solely on reason led to a loss of what is good and noble. His approach highlights that empathy and subjective experience can enhance scientific inquiry.",
+          "tags": [
+            "empathy",
+            "science",
+            "Enlightenment"
+          ]
+        },
+        {
+          "id": "deck_129743278452_card_2",
+          "imageUrl": "",
+          "heading": "Nature as a Divine Concord",
+          "body": "Forster viewed nature as a 'magic net' of interconnected elements, suggesting a divine harmony. He equated nature with God, seeing it as an active, living power. This perspective encouraged a deeper appreciation for the natural world and its complexities.",
+          "tags": [
+            "nature",
+            "divinity",
+            "harmony"
+          ]
+        },
+        {
+          "id": "deck_129743278452_card_3",
+          "imageUrl": "",
+          "heading": "Observation Beyond the Lab",
+          "body": "Forster argued that true understanding comes from direct experience, not just study. He noted that travelers perceive the same object differently based on their sensations and thinking modes. This highlights the importance of personal engagement in learning.",
+          "tags": [
+            "observation",
+            "experience",
+            "learning"
+          ]
+        },
+        {
+          "id": "deck_129743278452_card_4",
+          "imageUrl": "",
+          "heading": "Love as Knowledge",
+          "body": "Forster believed that love was the highest form of knowledge, binding humanity together. His view suggests that emotional connections enrich our understanding of the world, offering a poignant reminder of the value of love in human experience.",
+          "tags": [
+            "love",
+            "knowledge",
+            "humanity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_11a0fcc34f52",
+      "title": "Insomnia's Creative Edge",
+      "description": "Explore how sleeplessness fuels creativity.",
+      "gradientColors": [
+        "#C026D3",
+        "#86198F"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/19/kafka-insomnia/",
+        "author": "Maria Popova",
+        "publishDate": "Fri, 19 Jun 2026 17:56:10 +0000",
+        "category": [
+          "Creativity",
+          "Psychology"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:16:49.999663",
+        "updatedAt": "2026-06-22T21:16:49.999702"
+      },
+      "cards": [
+        {
+          "id": "deck_11a0fcc34f52_card_0",
+          "imageUrl": "",
+          "heading": "The Mystery of Sleep",
+          "body": "Sleep remains a mystery, crucial for learning and creativity. Despite its importance, insomnia can paradoxically enhance creative thinking by surfacing unbidden thoughts from the unconscious.",
+          "tags": [
+            "sleep",
+            "creativity",
+            "mystery"
+          ]
+        },
+        {
+          "id": "deck_11a0fcc34f52_card_1",
+          "imageUrl": "",
+          "heading": "Kafka's Insomniac Creativity",
+          "body": "Franz Kafka used his insomnia as a creative fulcrum. Despite the exhaustion, he discovered that sleeplessness allowed unexpected ideas to emerge, fueling his originality.",
+          "tags": [
+            "Kafka",
+            "insomnia",
+            "originality"
+          ]
+        },
+        {
+          "id": "deck_11a0fcc34f52_card_2",
+          "imageUrl": "",
+          "heading": "The Edge of Creativity",
+          "body": "The liminal space between wakefulness and sleep can spark creativity. Kafka found his mind's organizing principles fraying, allowing for unique idea combinations to form.",
+          "tags": [
+            "creativity",
+            "ideas",
+            "insomnia"
+          ]
+        },
+        {
+          "id": "deck_11a0fcc34f52_card_3",
+          "imageUrl": "",
+          "heading": "A Double-edged Sword",
+          "body": "Kafka viewed his sleeplessness both as a hindrance and a source of creative power. It heightened his sensitivity to 'great moments' that could unlock profound creative expression.",
+          "tags": [
+            "creative power",
+            "sensitivity",
+            "expression"
+          ]
+        },
+        {
+          "id": "deck_11a0fcc34f52_card_4",
+          "imageUrl": "",
+          "heading": "Embrace the Uproar",
+          "body": "Kafka described the internal 'uproar' of creativity as a harmony that, if unleashed, would fill him completely. Insomnia was a gateway to this suppressed creativity.",
+          "tags": [
+            "harmony",
+            "inner uproar",
+            "creativity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_7f5160de3695",
+      "title": "Finding Meaning in Life",
+      "description": "Discover how love shapes life's meaning.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/19/oliver-sacks-letters-meaning-of-life/",
+        "author": "Maria Popova",
+        "publishDate": "Fri, 19 Jun 2026 08:32:13 +0000",
+        "category": [
+          "Philosophy",
+          "Personal Growth"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:17:16.339154",
+        "updatedAt": "2026-06-22T21:17:16.339185"
+      },
+      "cards": [
+        {
+          "id": "deck_7f5160de3695_card_0",
+          "imageUrl": "",
+          "heading": "Creating Meaning from Despair",
+          "body": "Meaning isn't something we find; it's something we create. Often, it arises from the fragments of shattered hopes and dreams. In times of confusion and despair, when life loses clarity, the pursuit of meaning becomes most urgent. This active, creative process transforms despair into love, revealing what truly makes life worth living.",
+          "tags": [
+            "meaning",
+            "despair",
+            "creativity"
+          ]
+        },
+        {
+          "id": "deck_7f5160de3695_card_1",
+          "imageUrl": "",
+          "heading": "Oliver Sacks on Life\u2019s Meaning",
+          "body": "Oliver Sacks, a neurologist known for his insights into the human condition, believed that no cultural or religious structure could provide him with a steady sense of meaning. Instead, he found meaning in the mysteries and order of Nature, which inspired him to continually re-achieve life's purpose.",
+          "tags": [
+            "Oliver Sacks",
+            "science",
+            "nature"
+          ]
+        },
+        {
+          "id": "deck_7f5160de3695_card_2",
+          "imageUrl": "",
+          "heading": "Finding Hope in Adversity",
+          "body": "Sacks found hope and meaning in his patients who, despite devastating diseases, did not give up. He saw this resilience as a testament to an inextinguishable power of affirmation within us all. This perspective highlights the profound capacity for finding meaning through adversity.",
+          "tags": [
+            "hope",
+            "resilience",
+            "adversity"
+          ]
+        },
+        {
+          "id": "deck_7f5160de3695_card_3",
+          "imageUrl": "",
+          "heading": "The Role of Love in Meaning",
+          "body": "Sacks emphasized that love is not just an emotion but a fundamental part of our mental structure. Love is central to the meaning of life, influencing whom and how we love, shaping our experiences and understanding of life's purpose.",
+          "tags": [
+            "love",
+            "emotion",
+            "meaning"
+          ]
+        },
+        {
+          "id": "deck_7f5160de3695_card_4",
+          "imageUrl": "",
+          "heading": "Nature\u2019s Spirit of Meaning",
+          "body": "Sacks rejected the idea of a supernatural realm separate from the natural world. Instead, he believed in a 'cosmogenic spirit' within Nature, which commands respect and love. This spirit, he felt, is essential in explaining life and providing meaning.",
+          "tags": [
+            "nature",
+            "spirit",
+            "cosmogenic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_edae13a65150",
+      "title": "The Art of Letting Go",
+      "description": "Explore how loss shapes life and growth.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/18/necessary-losses/",
+        "author": "Maria Popova",
+        "publishDate": "Thu, 18 Jun 2026 13:19:28 +0000",
+        "category": [
+          "Personal Development",
+          "Philosophy"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:17:40.802373",
+        "updatedAt": "2026-06-22T21:17:40.802406"
+      },
+      "cards": [
+        {
+          "id": "deck_edae13a65150_card_0",
+          "imageUrl": "",
+          "heading": "Loss as a Catalyst",
+          "body": "Loss isn't just about death. It's about leaving, letting go, and evolving. We lose illusions, dreams, and even our younger selves. These necessary losses propel us into growth and self-discovery.",
+          "tags": [
+            "growth",
+            "self-discovery",
+            "evolution"
+          ]
+        },
+        {
+          "id": "deck_edae13a65150_card_1",
+          "imageUrl": "",
+          "heading": "The Balance of Love and Loss",
+          "body": "Loving deeply makes us vulnerable to loss. Yet, it's through these vulnerabilities that we become more connected, responsible, and reflective individuals. Love and loss are intertwined in the fabric of life.",
+          "tags": [
+            "love",
+            "vulnerability",
+            "connection"
+          ]
+        },
+        {
+          "id": "deck_edae13a65150_card_2",
+          "imageUrl": "",
+          "heading": "Renunciation and Growth",
+          "body": "Human development is paved with renunciation. From giving up attachments to facing impossible expectations, we grow by learning to let go. This journey is essential to becoming fully developed human beings.",
+          "tags": [
+            "renunciation",
+            "growth",
+            "development"
+          ]
+        },
+        {
+          "id": "deck_edae13a65150_card_3",
+          "imageUrl": "",
+          "heading": "The First Loss",
+          "body": "The moment the umbilical cord is cut marks our entry into the world of loss. This initial separation sets the stage for a lifetime of growth and self-creation as we learn to stand alone and make choices.",
+          "tags": [
+            "birth",
+            "independence",
+            "self-creation"
+          ]
+        },
+        {
+          "id": "deck_edae13a65150_card_4",
+          "imageUrl": "",
+          "heading": "Finding Freedom in Loss",
+          "body": "By accepting the impermanence of life and the inevitability of loss, we find freedom. We discover our capabilities and choices within the limitations imposed by necessity, allowing us to live more deeply and fully.",
+          "tags": [
+            "freedom",
+            "impermanence",
+            "choice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_f7c123f5e118",
+      "title": "Understanding Maturity",
+      "description": "Explore maturity and its lifelong journey.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/17/le-guin-maturity/",
+        "author": "Maria Popova",
+        "publishDate": "Wed, 17 Jun 2026 16:02:27 +0000",
+        "category": [
+          "Personal Development",
+          "Philosophy"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:18:08.414352",
+        "updatedAt": "2026-06-22T21:18:08.414444"
+      },
+      "cards": [
+        {
+          "id": "deck_f7c123f5e118_card_0",
+          "imageUrl": "",
+          "heading": "Maturity: An Ongoing Process",
+          "body": "Maturity isn't a fixed point but an ongoing process involving the integration of our former selves. It requires courage and compassion to embrace past mistakes and confusions, allowing us to grow into who we are meant to be.",
+          "tags": [
+            "maturity",
+            "personal growth",
+            "compassion"
+          ]
+        },
+        {
+          "id": "deck_f7c123f5e118_card_1",
+          "imageUrl": "",
+          "heading": "Imagination Fuels Growth",
+          "body": "Ursula K. Le Guin emphasizes the power of imagination as a key faculty of maturity. Encouraging this in children helps them develop into wise adults. Repressing imagination stunts personality, whereas nurturing it fosters growth.",
+          "tags": [
+            "imagination",
+            "growth",
+            "Ursula K. Le Guin"
+          ]
+        },
+        {
+          "id": "deck_f7c123f5e118_card_2",
+          "imageUrl": "",
+          "heading": "The Truth in Fantasy",
+          "body": "Fantasy holds truth beyond facts. It's feared because it challenges what is false and trivial in adult life. Le Guin argues that embracing fantasy unlocks freedom and authenticity.",
+          "tags": [
+            "fantasy",
+            "truth",
+            "freedom"
+          ]
+        },
+        {
+          "id": "deck_f7c123f5e118_card_3",
+          "imageUrl": "",
+          "heading": "Growing into Responsibility",
+          "body": "Real growth involves self-knowledge and facing our shadows. Understanding ourselves allows us to handle adult responsibilities and face life's injustices without despair or denial.",
+          "tags": [
+            "self-knowledge",
+            "responsibility",
+            "growth"
+          ]
+        },
+        {
+          "id": "deck_f7c123f5e118_card_4",
+          "imageUrl": "",
+          "heading": "Paradox of Maturity",
+          "body": "Maturity is about discovering the immortal within us while accepting our finite nature. It\u2019s a balance of being unfinished yet complete, embracing life's endless journey.",
+          "tags": [
+            "paradox",
+            "maturity",
+            "life journey"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deck_6da0fccaa51f",
+      "title": "Life Lessons from Dostoyevsky",
+      "description": "Explore life's meaning through Dostoyevsky's eyes.",
+      "gradientColors": [
+        "#7C2D12",
+        "#44403C"
+      ],
+      "metadata": {
+        "sourceType": "rss",
+        "sourceUrl": "https://www.themarginalian.org/2026/06/17/dostoyevsky-execution-life/",
+        "author": "Maria Popova",
+        "publishDate": "Wed, 17 Jun 2026 09:22:53 +0000",
+        "category": [
+          "Philosophy",
+          "Literature"
+        ],
+        "status": "published",
+        "createdAt": "2026-06-22T21:18:31.998909",
+        "updatedAt": "2026-06-22T21:18:31.998924"
+      },
+      "cards": [
+        {
+          "id": "deck_6da0fccaa51f_card_0",
+          "imageUrl": "",
+          "heading": "Facing Near-Death",
+          "body": "Fyodor Dostoyevsky faced a staged execution at 27, which was a harrowing experience that profoundly influenced his outlook on life. This moment of near-death led him to a renewed appreciation for life and a resolve to cherish every moment.",
+          "tags": [
+            "Dostoyevsky",
+            "Life",
+            "Death"
+          ]
+        },
+        {
+          "id": "deck_6da0fccaa51f_card_1",
+          "imageUrl": "",
+          "heading": "The Gift of Life",
+          "body": "After escaping death, Dostoyevsky wrote to his brother about the real meaning of life: to be a human among people, to love, suffer, and cherish every moment. He believed that life itself is a gift and happiness can be found in each moment.",
+          "tags": [
+            "Meaning of Life",
+            "Gratitude",
+            "Philosophy"
+          ]
+        },
+        {
+          "id": "deck_6da0fccaa51f_card_2",
+          "imageUrl": "",
+          "heading": "Choosing Your Attitude",
+          "body": "Dostoyevsky's experience echoed Viktor Frankl's later idea that the last human freedom is to choose one's attitude in any given circumstance. Despite his hardships, Dostoyevsky chose hope and resilience.",
+          "tags": [
+            "Attitude",
+            "Freedom",
+            "Resilience"
+          ]
+        },
+        {
+          "id": "deck_6da0fccaa51f_card_3",
+          "imageUrl": "",
+          "heading": "Transforming Through Suffering",
+          "body": "Dostoyevsky's hardships, including imprisonment, led to a personal transformation. He saw suffering as a path to regeneration and a means to purify his heart and spirit, leading to greater artistic perseverance.",
+          "tags": [
+            "Transformation",
+            "Suffering",
+            "Art"
+          ]
+        },
+        {
+          "id": "deck_6da0fccaa51f_card_4",
+          "imageUrl": "",
+          "heading": "The Power of Forgiveness",
+          "body": "In his letter, Dostoyevsky expressed a desire to forgive and be forgiven, emphasizing the importance of love and reconciliation over holding grudges. This reflects his belief in the goodness within people.",
+          "tags": [
+            "Forgiveness",
+            "Love",
+            "Reconciliation"
+          ]
+        }
+      ]
     }
   ]
 }
